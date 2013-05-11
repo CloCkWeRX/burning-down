@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss xmlns:georss="http://www.georss.org/georss" version="2.0">
+<channel>
+<title>Incidents in ACT GeoRSS feed</title>
+<link>http://esa.act.gov.au/feeds/currentincidents.xml</link>
+<description>http://esa.act.gov.au/feeds/currentincidents.xml
+</description><pubDate>11 May 2013 20:32:01 EST</pubDate>
+<lastBuildDate>11 May 2013 20:32:01 EST</lastBuildDate>
+<generator>FME(R) 2013 SP2 Version: 2013.7.4.13475</generator>
+<item>
+<title>MOTOR VEHICLE ACCIDENT - ISABELLA PLAINS</title>
+<link>http://esa.act.gov.au/feeds/currentincidents.xml</link>
+<description>Incident: MOTOR VEHICLE ACCIDENT - ISABELLA PLAINS&lt;br /&gt;Location: JOHNSON DRIVE, ASHLEY DRIVE, ISABELLA PLAINS&lt;br /&gt;Status: Out / Completed&lt;br /&gt;Suburb: ISABELLA PLAINS&lt;br /&gt;Type: MOTOR VEHICLE ACCIDENT&lt;br /&gt;Agency: ACT Fire&lt;br /&gt;Incident Number: 021850-10052013&lt;br /&gt;Updated: 11 May 2013 00:07:41&lt;br /&gt;Time of Call: 10 May 2013 23:49:22
+</description><guid>021850-10052013</guid>
+<pubDate>11 May 2013 20:32:01 EST</pubDate>
+<georss:point>-35.4328379999954 149.106324000007</georss:point>
+</item>
+<item>
+<title>GRASS AND BUSH FIRE - SPENCE</title>
+<link>http://esa.act.gov.au/feeds/currentincidents.xml</link>
+<description>Incident: GRASS AND BUSH FIRE - SPENCE&lt;br /&gt;Location: CROFTS CRESCENT, SPENCE&lt;br /&gt;Status: Out / Completed&lt;br /&gt;Suburb: SPENCE&lt;br /&gt;Type: GRASS AND BUSH FIRE&lt;br /&gt;Agency: ACT Fire&lt;br /&gt;Incident Number: 021895-11052013&lt;br /&gt;Updated: 11 May 2013 10:52:24&lt;br /&gt;Time of Call: 11 May 2013 10:28:28
+</description><guid>021895-11052013</guid>
+<pubDate>11 May 2013 20:32:01 EST</pubDate>
+<georss:point>-35.1983639415129 149.062134140058</georss:point>
+</item>
+<item>
+<title>MOTOR VEHICLE ACCIDENT - CAMPBELL</title>
+<link>http://esa.act.gov.au/feeds/currentincidents.xml</link>
+<description>Incident: MOTOR VEHICLE ACCIDENT - CAMPBELL&lt;br /&gt;Location: FAIRBAIRN AVENUE, NORTHCOTT DRIVE, CAMPBELL&lt;br /&gt;Status: Out / Completed&lt;br /&gt;Suburb: CAMPBELL&lt;br /&gt;Type: MOTOR VEHICLE ACCIDENT&lt;br /&gt;Agency: ACT Fire&lt;br /&gt;Incident Number: 021900-11052013&lt;br /&gt;Updated: 11 May 2013 12:00:14&lt;br /&gt;Time of Call: 11 May 2013 11:37:10
+</description><guid>021900-11052013</guid>
+<pubDate>11 May 2013 20:32:01 EST</pubDate>
+<georss:point>-35.2871509999948 149.165347000008</georss:point>
+</item>
+<item>
+<title>MOTOR VEHICLE ACCIDENT - AINSLIE</title>
+<link>http://esa.act.gov.au/feeds/currentincidents.xml</link>
+<description>Incident: MOTOR VEHICLE ACCIDENT - AINSLIE&lt;br /&gt;Location: LIMESTONE AVENUE, AINSLIE&lt;br /&gt;Status: Out / Completed&lt;br /&gt;Suburb: AINSLIE&lt;br /&gt;Type: MOTOR VEHICLE ACCIDENT&lt;br /&gt;Agency: ACT Fire&lt;br /&gt;Incident Number: 021919-11052013&lt;br /&gt;Updated: 11 May 2013 15:01:19&lt;br /&gt;Time of Call: 11 May 2013 14:39:44
+</description><guid>021919-11052013</guid>
+<pubDate>11 May 2013 20:32:01 EST</pubDate>
+<georss:point>-35.2701282815198 149.140745030071</georss:point>
+</item>
+<item>
+<title>MOTOR VEHICLE ACCIDENT - GUNGAHLIN</title>
+<link>http://esa.act.gov.au/feeds/currentincidents.xml</link>
+<description>Incident: MOTOR VEHICLE ACCIDENT - GUNGAHLIN&lt;br /&gt;Location: WIZARD STREET, ANTHONY ROLFE AVENUE, GUNGAHLIN&lt;br /&gt;Status: Out / Completed&lt;br /&gt;Suburb: GUNGAHLIN&lt;br /&gt;Type: MOTOR VEHICLE ACCIDENT&lt;br /&gt;Agency: ACT Fire&lt;br /&gt;Incident Number: 021935-11052013&lt;br /&gt;Updated: 11 May 2013 16:26:44&lt;br /&gt;Time of Call: 11 May 2013 16:02:46
+</description><guid>021935-11052013</guid>
+<pubDate>11 May 2013 20:32:01 EST</pubDate>
+<georss:point>-35.1859179999951 149.149847000008</georss:point>
+</item>
+<item>
+<title>GAS PIPELINE (NO INJURIES) - PALMERSTON</title>
+<link>http://esa.act.gov.au/feeds/currentincidents.xml</link>
+<description>Incident: GAS PIPELINE (NO INJURIES) - PALMERSTON&lt;br /&gt;Location:  BOLLARD STREET, PALMERSTON&lt;br /&gt;Status: Out / Completed&lt;br /&gt;Suburb: PALMERSTON&lt;br /&gt;Type: GAS PIPELINE (NO INJURIES)&lt;br /&gt;Agency: ACT Fire&lt;br /&gt;Incident Number: 021937-11052013&lt;br /&gt;Updated: 11 May 2013 16:58:09&lt;br /&gt;Time of Call: 11 May 2013 16:18:23
+</description><guid>021937-11052013</guid>
+<pubDate>11 May 2013 20:32:01 EST</pubDate>
+<georss:point>-35.199164381512 149.125037040068</georss:point>
+</item>
+<item>
+<title>HAZMAT INCIDENT (EXCLUDING CBR) - LYNEHAM</title>
+<link>http://esa.act.gov.au/feeds/currentincidents.xml</link>
+<description>Incident: HAZMAT INCIDENT (EXCLUDING CBR) - LYNEHAM&lt;br /&gt;Location: PAVILLION &amp; SPORTS GROUND / CAR PARK, MOUAT STREET, LYNEHAM&lt;br /&gt;Status: Out / Completed&lt;br /&gt;Suburb: LYNEHAM&lt;br /&gt;Type: HAZMAT INCIDENT (EXCLUDING CBR)&lt;br /&gt;Agency: ACT Fire&lt;br /&gt;Incident Number: 021939-11052013&lt;br /&gt;Updated: 11 May 2013 19:49:08&lt;br /&gt;Time of Call: 11 May 2013 16:29:21
+</description><guid>021939-11052013</guid>
+<pubDate>11 May 2013 20:32:01 EST</pubDate>
+<georss:point>-35.244023251517 149.127337730068</georss:point>
+</item>
+<item>
+<title>HOUSE FIRE (INJURIES) - WATSON</title>
+<link>http://esa.act.gov.au/feeds/currentincidents.xml</link>
+<description>Incident: HOUSE FIRE (INJURIES) - WATSON&lt;br /&gt;Location:  HANSON PLACE, WATSON&lt;br /&gt;Status: Out / Completed&lt;br /&gt;Suburb: WATSON&lt;br /&gt;Type: HOUSE FIRE (INJURIES)&lt;br /&gt;Agency: ACT Fire&lt;br /&gt;Incident Number: 021961-11052013&lt;br /&gt;Updated: 11 May 2013 19:19:28&lt;br /&gt;Time of Call: 11 May 2013 19:02:54
+</description><guid>021961-11052013</guid>
+<pubDate>11 May 2013 20:32:01 EST</pubDate>
+<georss:point>-35.2400609515162 149.154096210073</georss:point>
+</item>
+<item>
+<title>HAZARD REDUCTION BURN - DISTRICT OF BELCONNEN</title>
+<link>http://esa.act.gov.au/feeds/currentincidents.xml</link>
+<description>Incident: HAZARD REDUCTION BURN - DISTRICT OF BELCONNEN&lt;br /&gt;Location: THE PINNACLE NATURE RESERVE, WILLIAM HOVELL DRIVE, DISTRICT OF BELCONNEN&lt;br /&gt;Status: Out / Completed&lt;br /&gt;Suburb: DISTRICT OF BELCONNEN&lt;br /&gt;Type: HAZARD REDUCTION BURN&lt;br /&gt;Agency: ACT Fire&lt;br /&gt;Incident Number: 021889-11052013&lt;br /&gt;Updated: 11 May 2013 16:37:04&lt;br /&gt;Time of Call: 11 May 2013 10:01:24
+</description><guid>021889-11052013</guid>
+<pubDate>11 May 2013 20:32:01 EST</pubDate>
+<georss:point>-35.2599598763572 149.039673836238</georss:point>
+</item>
+</channel>
+</rss>
