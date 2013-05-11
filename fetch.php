@@ -44,7 +44,8 @@ class GeoRSSParser {
 
   public function parseCoordinates($item, $fire) {
     $point = $item->xpath('georss:point');
-    if ($point && $point[0]) { 
+
+    if (count($point) > 0) { 
 
       list($fire->lat, $fire->long) = explode(" ", (string)$point[0]);
     }
