@@ -1,6 +1,4 @@
 <?php
-require_once 'HTTP/Request2.php';
-
 class Fire {
 
   public $lat;
