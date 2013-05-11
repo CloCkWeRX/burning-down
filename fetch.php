@@ -127,7 +127,7 @@ $options = array(
 $cache = new Cache_Lite($options);
 
 
-$request = new HTTP_Request2('http://overpass-api.de/api/interpreter?data=[out:json];out;');
+$request = new HTTP_Request2('http://overpass-api.de/api/interpreter');
 $request->setMethod('POST');
 
 // 500m
@@ -135,8 +135,10 @@ $request->setMethod('POST');
 // 500/111000 = 0.0045045045
 $offset = 0.0045045045;
 
-$log = new Log('');
+$log = new Log(null);
 
+$areas = array();
+$nodes = array();
 foreach ($fires as $fire) {
 
   $query = simplexml_load_file('osm.xml');
@@ -151,24 +153,31 @@ foreach ($fires as $fire) {
     $box['e'] = $fire->long + $offset;
 
   }
-
-  $id = md5($query->asXML());
-  $body = $cache->get($id);
-  if (!$body) {
-    $log->debug("Fetching");
-    $request->addPostParameter('data', $query->asXML());
-    $response = $request->send();
-
-    $body = $response->getBody();
   
-    $cache->save($response->getBody(), $id);
-  } else {
-    $log->debug("Hit cache");
+  try {
+    $id = md5($query->asXML());
+    $body = $cache->get($id);
+    if (!$body) {
+      $log->debug("Fetching");
+      $request->addPostParameter('data', $query->asXML());
+      $response = $request->send();
+
+      $body = $response->getBody();
+    
+      $cache->save($response->getBody(), $id);
+    } else {
+      $log->debug("Hit cache");
+    }
+    
+    $results = simplexml_load_string($body);
+    
+    // TODO: Calculate the area of the polygons in question to make claims like "500ha of farmland."
+
+    $areas += $results->xpath('//way');
+  } catch (HTTP_Request2_MessageException $e) {
+    print $e->getMessage();
   }
-  
-  $results = simplexml_load_string($body);
-  
-  $results->node()
+
 /*
     [node] => Array
         (
@@ -363,15 +372,10 @@ foreach ($fires as $fire) {
                                     [k] => operator
                                     [v] => Australian Army
                                 )
-
                         )
-
                 )
-
         )
-
-
 */
 
-  $fires += $engine->parse();
 }
+file_put_contents('areas.json', json_encode($areas));
