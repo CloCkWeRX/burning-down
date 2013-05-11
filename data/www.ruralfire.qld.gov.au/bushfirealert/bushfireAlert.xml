@@ -484,15 +484,6 @@
       <georss:point>-26.632773 152.984982</georss:point>
     </item>
     <item>
-      <title>QF6-13-040235</title>
-      <description>Alert Level: Permitted Burn. Location: Laidley Creek West Rd, Laidley Creek West. Reported: 21/04/2013 2:48:03 PM. Current Status: Closed. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
-      <author>Queensland Fire &amp; Rescue Service</author>
-      <guid isPermaLink="true">QF6-13-040235</guid>
-      <pubDate>Sun, 21 Apr 2013 14:48:03 +10</pubDate>
-      <category>/Permitted Burns</category>
-      <georss:point>-27.66892 152.359779</georss:point>
-    </item>
-    <item>
       <title>QF2-13-040267</title>
       <description>Alert Level: Permitted Burn. Location: Flora Dr, Beecher. Reported: 21/04/2013 3:34:07 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
       <author>Queensland Fire &amp; Rescue Service</author>
@@ -3239,30 +3230,12 @@
     </item>
     <item>
       <title>QF3-13-046897</title>
-      <description>Alert Level: Advice. Location: Males Rd, Tara. Reported: 11/05/2013 12:56:50 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
+      <description>Alert Level: Advice. Location: Males Rd, Tara. Reported: 11/05/2013 12:56:50 PM. Current Status: Closed. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
       <author>Queensland Fire &amp; Rescue Service</author>
       <guid isPermaLink="true">QF3-13-046897</guid>
       <pubDate>Sat, 11 May 2013 12:56:50 +10</pubDate>
-      <category>/Incidents/Open</category>
+      <category>/Incidents/Closed</category>
       <georss:point>-27.153344 150.488855</georss:point>
-    </item>
-    <item>
-      <title>QF6-13-046914</title>
-      <description>Alert Level: Advice. Location: Gatton Esk Rd, Adare. Reported: 11/05/2013 1:44:20 PM. Current Status: Closed. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
-      <author>Queensland Fire &amp; Rescue Service</author>
-      <guid isPermaLink="true">QF6-13-046914</guid>
-      <pubDate>Sat, 11 May 2013 13:44:20 +10</pubDate>
-      <category>/Incidents/Closed</category>
-      <georss:point>-27.496311 152.335165</georss:point>
-    </item>
-    <item>
-      <title>QF6-13-046940</title>
-      <description>Alert Level: Advice. Location: Larnook St, Upper Lockyer. Reported: 11/05/2013 3:01:52 PM. Current Status: Closed. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
-      <author>Queensland Fire &amp; Rescue Service</author>
-      <guid isPermaLink="true">QF6-13-046940</guid>
-      <pubDate>Sat, 11 May 2013 15:01:52 +10</pubDate>
-      <category>/Incidents/Closed</category>
-      <georss:point>-27.476798 152.055898</georss:point>
     </item>
     <item>
       <title>QF7-13-046950</title>
@@ -3317,6 +3290,24 @@
       <pubDate>Sat, 11 May 2013 18:16:26 +10</pubDate>
       <category>/Incidents/Closed</category>
       <georss:point>-27.809278 152.955873</georss:point>
+    </item>
+    <item>
+      <title>QF2-13-047053</title>
+      <description>Alert Level: Advice. Location: Quay St, Rockhampton City. Reported: 11/05/2013 8:37:18 PM. Current Status: Closed. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
+      <author>Queensland Fire &amp; Rescue Service</author>
+      <guid isPermaLink="true">QF2-13-047053</guid>
+      <pubDate>Sat, 11 May 2013 20:37:18 +10</pubDate>
+      <category>/Incidents/Closed</category>
+      <georss:point>-23.375833 150.513333</georss:point>
+    </item>
+    <item>
+      <title>QF3-13-047067</title>
+      <description>Alert Level: Permitted Burn. Location: Males Rd, Tara. Reported: 11/05/2013 10:09:18 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
+      <author>Queensland Fire &amp; Rescue Service</author>
+      <guid isPermaLink="true">QF3-13-047067</guid>
+      <pubDate>Sat, 11 May 2013 22:09:18 +10</pubDate>
+      <category>/Permitted Burns</category>
+      <georss:point>-27.153344 150.488855</georss:point>
     </item>
   </channel>
 </rss>

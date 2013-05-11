@@ -16,7 +16,7 @@
         <atom:link href="http://www.fire.tas.gov.au/Show?pageId=colBushfireSummariesRss" rel="self" type="application/rss+xml" />
         <description>This information is updated at 9:00 am, midday and 5:00 pm unless significant fire activity occurs.</description>
         <language>en-us</language>
-        <pubDate>Sat, 11 May 2013 21:03:28 +1000</pubDate>
+        <pubDate>Sat, 11 May 2013 22:45:00 +1000</pubDate>
         <webMaster>tfsonline@fire.tas.gov.au</webMaster>
         <docs>http://www.fire.tas.gov.au/Show?pageId=xmlFeedsHome</docs>
         <ttl>60</ttl>
@@ -45,7 +45,7 @@
                 <guid isPermaLink="false">tag:www.fire.tas.gov.au,2013-05-11:206271</guid>
                 <pubDate>Sat, 11 May 2013 12:06:04 +1000</pubDate>
                 <description><![CDATA[
-                    ALERT LEVEL: No Alert Level<br /> Region: S<br /> LOCATION: Eldon Road, TUNNACK<br /> STATUS: Contained<br /> TYPE: STRUCTURE FIRE<br /> SIZE: Not Available<br /> Number of Vehicles: 2<br /> More Info: <br /> View On Map: <br /> RESPONSIBLE AGENCY: Tasmania Fire Service<br /> UPDATED: Sat, 11 May 2013 12:06:04 +1000<br /> 
+                    ALERT LEVEL: No Alert Level<br /> Region: S<br /> LOCATION: Eldon Road, TUNNACK<br /> STATUS: Contained<br /> TYPE: STRUCTURE FIRE<br /> SIZE: Not Available<br /> Number of Vehicles: 1<br /> More Info: <br /> View On Map: <br /> RESPONSIBLE AGENCY: Tasmania Fire Service<br /> UPDATED: Sat, 11 May 2013 12:06:04 +1000<br /> 
                     ]]>
                 </description>
                 

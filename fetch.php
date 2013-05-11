@@ -42,8 +42,12 @@ class GeoRSSParser {
   }
 
 
-  public function parseCoordinates($item, $fire) {    
-    list($fire->lat, $fire->long) = explode(" ", (string)$item->xpath('georss:point')[0]);
+  public function parseCoordinates($item, $fire) {
+    $point = $item->xpath('georss:point');
+    if ($point && $point[0]) { 
+
+      list($fire->lat, $fire->long) = explode(" ", (string)$point[0]);
+    }
   }
 }
 class DESQLDParser extends GeoRSSParser {
@@ -83,29 +87,27 @@ class SentinelParser extends GeoRSSParser {
     $fire->description = str_replace("<br/>", "\n", $description);
   }
 }
-$files = array(
-  'bushfireAlert.xml' => 'DESQLDParser', // http://www.ruralfire.qld.gov.au/bushfirealert/bushfireAlert.xml
-  // 'currentincidents.xml' => 'ACTParser', // http://www.esa.act.gov.au/feeds/currentincidents.xml
 
-  // 'majorIncidents.xml' => 'RFSNSWParser', // http://www.rfs.nsw.gov.au/feeds/majorIncidents.xml
-  // 'CFS_Current_Incidents.xml' => 'CFSSAParser', // http://www.cfs.sa.gov.au/custom/criimson/CFS_Current_Incidents.xml
-  // 'IN_COMING.rss' => 'CFAVICParser', //http://osom.cfa.vic.gov.au/public/osom/IN_COMING.rss
+$files = array(
+  'data/www.ruralfire.qld.gov.au/bushfirealert/bushfireAlert.xml' => 'DESQLDParser',
+  'data/www.esa.act.gov.au/feeds/currentincidents.xml' => 'ACTParser',
+  'data/www.rfs.nsw.gov.au/feeds/majorIncidents.xml' => 'RFSNSWParser', 
+  'data/www.cfs.sa.gov.au/custom/criimson/CFS_Current_Incidents.xml' => 'CFSSAParser',
+  'data/osom.cfa.vic.gov.au/public/osom/IN_COMING.rss' => 'CFAVICParser',
   // // MFS SA?
   // // WA ?
   // // NT ?
-  // 'Show?pageId=colBushfireSummariesRss' => 'TASParser', // TAS http://www.fire.tas.gov.au/Show?pageId=colBushfireSummariesRss
-  // 'sentinelrss.xml' => 'SentinelParser' // http://sentinel.ga.gov.au/RSS/sentinelrss.xml
+  'data/www.fire.tas.gov.au/Show?pageId=colBushfireSummariesRss' => 'TASParser',
+  'data/sentinel.ga.gov.au/RSS/sentinelrss.xml' => 'SentinelParser'
 );
 
+$fires = array();
 foreach ($files as $feed_file => $parser) {
   $document = simplexml_load_file($feed_file);
   $document->registerXPathNamespace('georss', 'http://www.georss.org/georss');
-  $parser = new $parser($document);
+  $engine = new $parser($document);
 
 
-  print_r($parser->parse());
-
+  $fires += $engine->parse();
 }
-// $document = simplexml_load_file('./bushfireAlert.xml');
-// $document->registerXPathNamespace('georss', 'http://www.georss.org/georss');
-// $parser = new DESQLDParser($document);
+file_put_contents('output.json', json_encode($fires));
