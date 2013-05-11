@@ -17,111 +17,84 @@ class Fire {
 class GeoRSSParser {
   public function __construct(SimpleXMLElement $feed) {
     $this->feed = $feed;
+    $this->fire = new Fire();
   }
 
+  public function parse() {
+    $items = array();
+    foreach ($this->feed->xpath("//item") as $item) {
+      $fire = clone $this->fire;
+
+      $fire->id = (string)$item->guid;
+      
+      $fire->title = (string)$item->title;
+      $fire->date = new DateTime((string)$item->pubDate);
+      $this->parseDescription($item, $fire);
+      $this->parseCoordinates($item, $fire);
+      $items[] = $fire;
+    }
+
+    return $items;
+  }
+
+  public function parseDescription($item, $fire) {
+    $fire->description = (string)$item->description;
+  }
+
+
+  public function parseCoordinates($item, $fire) {    
+    list($fire->lat, $fire->long) = explode(" ", (string)$item->xpath('georss:point')[0]);
+  }
 }
 class DESQLDParser extends GeoRSSParser {
 
-  public function parse() {
-    $items = array();
-    foreach ($this->feed->xpath("//item") as $item) {
-      $fire = new Fire();
+  public function parseDescription($item, $fire) {
+    $description = (string)$item->description;
 
-      $fire->title = (string)$item->title;
-      
-      $fire->title = (string)$item->title;
-      $fire->description = (string)$item->description;
-      list($fire->lat, $fire->long) = explode(" ", (string)$item->xpath('georss:point')[0]);
+    $parts = explode(". ", $description);
 
-      $items[] = $fire;
-    }
+    $fire->location = explode(": ", $parts[2])[1];
 
-    return $items;
+    $fire->status = explode(": ", $parts[3])[1];
+    $fire->description = explode(": ", $parts[4])[1];   
   }
+
 }
 
 class ACTParser extends GeoRSSParser {
-  public function parse() {
-    $items = array();
-    foreach ($this->feed->xpath("//item") as $item) {
-      $fire = new Fire();
-
-      $fire->title = (string)$item->title;
-      
-      $fire->title = (string)$item->title;
-      $fire->description = (string)$item->description;
-      list($fire->lat, $fire->long) = explode(" ", (string)$item->xpath('georss:point')[0]);
-
-      $items[] = $fire;
-    }
-
-    return $items;
-  }
 }
 
 class RFSNSWParser extends GeoRSSParser {
-  public function parse() {
-    $items = array();
-    foreach ($this->feed->xpath("//item") as $item) {
-      $fire = new Fire();
-
-      $fire->title = (string)$item->title;
-      
-      $fire->title = (string)$item->title;
-      $fire->description = (string)$item->description;
-      list($fire->lat, $fire->long) = explode(" ", (string)$item->xpath('georss:point')[0]);
-
-      $items[] = $fire;
-    }
-
-    return $items;
-  }
 }
 
 class CFSSAParser extends GeoRSSParser {
-  public function parse() {
-    $items = array();
-    foreach ($this->feed->xpath("//item") as $item) {
-      $fire = new Fire();
-
-      $fire->title = (string)$item->title;
-      
-      $fire->title = (string)$item->title;
-      $fire->description = (string)$item->description;
-      //list($fire->lat, $fire->long) = explode(" ", (string)$item->xpath('georss:point')[0]);
-
-      $items[] = $fire;
-    }
-
-    return $items;
-  }
+  public function parseCoordinates($item, $fire) {}
 }
+
 class CFAVicParser extends GeoRSSParser {
-  public function parse() {
-    $items = array();
-    foreach ($this->feed->xpath("//item") as $item) {
-      $fire = new Fire();
-
-      $fire->title = (string)$item->title;
-      
-      $fire->title = (string)$item->title;
-      $fire->description = (string)$item->description;
-      list($fire->lat, $fire->long) = explode(" ", (string)$item->xpath('georss:point')[0]);
-
-      $items[] = $fire;
-    }
-
-    return $items;
-  }
 }
 
-$files = array(
-  'bushfireAlert.xml' => 'DESQLDParser',
-  'currentincidents.xml' => 'ACTParser', // http://www.esa.act.gov.au/feeds/currentincidents.xml
+class TASParser extends GeoRSSParser {
+}
+class SentinelParser extends GeoRSSParser {
+  public function parseDescription($item, $fire) {
+    $description = (string)$item->description;
 
-  'majorIncidents.xml' => 'RFSNSWParser', // http://www.rfs.nsw.gov.au/feeds/majorIncidents.xml
-  'CFS_Current_Incidents.xml' => 'CFSSAParser', // http://www.cfs.sa.gov.au/custom/criimson/CFS_Current_Incidents.xml
-  'IN_COMING.rss' => 'CFAVICParser' //http://osom.cfa.vic.gov.au/public/osom/IN_COMING.rss
+    $fire->description = str_replace("<br/>", "\n", $description);
+  }
+}
+$files = array(
+  'bushfireAlert.xml' => 'DESQLDParser', // http://www.ruralfire.qld.gov.au/bushfirealert/bushfireAlert.xml
+  // 'currentincidents.xml' => 'ACTParser', // http://www.esa.act.gov.au/feeds/currentincidents.xml
+
+  // 'majorIncidents.xml' => 'RFSNSWParser', // http://www.rfs.nsw.gov.au/feeds/majorIncidents.xml
+  // 'CFS_Current_Incidents.xml' => 'CFSSAParser', // http://www.cfs.sa.gov.au/custom/criimson/CFS_Current_Incidents.xml
+  // 'IN_COMING.rss' => 'CFAVICParser', //http://osom.cfa.vic.gov.au/public/osom/IN_COMING.rss
+  // // MFS SA?
+  // // WA ?
+  // // NT ?
+  // 'Show?pageId=colBushfireSummariesRss' => 'TASParser', // TAS http://www.fire.tas.gov.au/Show?pageId=colBushfireSummariesRss
+  // 'sentinelrss.xml' => 'SentinelParser' // http://sentinel.ga.gov.au/RSS/sentinelrss.xml
 );
 
 foreach ($files as $feed_file => $parser) {
@@ -130,7 +103,8 @@ foreach ($files as $feed_file => $parser) {
   $parser = new $parser($document);
 
 
-print_r($parser->parse());
+  print_r($parser->parse());
+
 }
 // $document = simplexml_load_file('./bushfireAlert.xml');
 // $document->registerXPathNamespace('georss', 'http://www.georss.org/georss');
