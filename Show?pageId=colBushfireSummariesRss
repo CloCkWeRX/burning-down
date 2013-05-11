@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    
+    
+
+
+
+
+
+
+
+<rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Current Incident Summary Information throughout Tasmania</title>
+        <link>http://www.fire.tas.gov.au/Show?pageId=colCurrentBushfires</link>
+        <atom:link href="http://www.fire.tas.gov.au/Show?pageId=colBushfireSummariesRss" rel="self" type="application/rss+xml" />
+        <description>This information is updated at 9:00 am, midday and 5:00 pm unless significant fire activity occurs.</description>
+        <language>en-us</language>
+        <pubDate>Sat, 11 May 2013 21:03:28 +1000</pubDate>
+        <webMaster>tfsonline@fire.tas.gov.au</webMaster>
+        <docs>http://www.fire.tas.gov.au/Show?pageId=xmlFeedsHome</docs>
+        <ttl>60</ttl>
+        
+            <item>
+                <title>Fingerpost Road, RICHMOND</title>
+                <link>http://www.fire.tas.gov.au/i/206278</link>
+                <category>No Alert Level</category>
+                <guid isPermaLink="false">tag:www.fire.tas.gov.au,2013-05-11:206278</guid>
+                <pubDate>Sat, 11 May 2013 15:35:35 +1000</pubDate>
+                <description><![CDATA[
+                    ALERT LEVEL: No Alert Level<br /> Region: S<br /> LOCATION: Fingerpost Road, RICHMOND<br /> STATUS: Patrol<br /> TYPE: VEGETATION FIRE<br /> SIZE: Not Available<br /> Number of Vehicles: <br /> More Info: <br /> View On Map: <a href="http://www.fire.tas.gov.au/m/206278">http://www.fire.tas.gov.au/m/206278</a><br /> RESPONSIBLE AGENCY: Tasmania Fire Service<br /> UPDATED: Sat, 11 May 2013 15:35:35 +1000<br /> 
+                    ]]>
+                </description>
+                
+                    <georss:point>-42.6998281911305 147.48474997615355</georss:point>
+                    
+                    
+                
+            </item>
+        
+            <item>
+                <title>Eldon Road, TUNNACK</title>
+                <link>http://www.fire.tas.gov.au/i/206271</link>
+                <category>No Alert Level</category>
+                <guid isPermaLink="false">tag:www.fire.tas.gov.au,2013-05-11:206271</guid>
+                <pubDate>Sat, 11 May 2013 12:06:04 +1000</pubDate>
+                <description><![CDATA[
+                    ALERT LEVEL: No Alert Level<br /> Region: S<br /> LOCATION: Eldon Road, TUNNACK<br /> STATUS: Contained<br /> TYPE: STRUCTURE FIRE<br /> SIZE: Not Available<br /> Number of Vehicles: 2<br /> More Info: <br /> View On Map: <br /> RESPONSIBLE AGENCY: Tasmania Fire Service<br /> UPDATED: Sat, 11 May 2013 12:06:04 +1000<br /> 
+                    ]]>
+                </description>
+                
+                    <georss:point>-42.48480874162272 147.44918790951567</georss:point>
+                    
+                    
+                
+            </item>
+        
+            <item>
+                <title>Grundys Road, LUNAWANNA</title>
+                <link>http://www.fire.tas.gov.au/i/206212</link>
+                <category>No Alert Level</category>
+                <guid isPermaLink="false">tag:www.fire.tas.gov.au,2013-05-09:206212</guid>
+                <pubDate>Thu, 9 May 2013 20:35:20 +1000</pubDate>
+                <description><![CDATA[
+                    ALERT LEVEL: No Alert Level<br /> Region: S<br /> LOCATION: Grundys Road, LUNAWANNA<br /> STATUS: Patrol<br /> TYPE: VEGETATION FIRE<br /> SIZE: Not Available<br /> Number of Vehicles: <br /> More Info: <br /> View On Map: <a href="http://www.fire.tas.gov.au/m/206212">http://www.fire.tas.gov.au/m/206212</a><br /> RESPONSIBLE AGENCY: Tasmania Fire Service<br /> UPDATED: Thu, 9 May 2013 20:35:20 +1000<br /> 
+                    ]]>
+                </description>
+                
+                    <georss:point>-43.364658890173615 147.22309248468184</georss:point>
+                    
+                    
+                
+            </item>
+        
+            <item>
+                <title>Fairhaven Road, EMITA</title>
+                <link>http://www.fire.tas.gov.au/i/206138</link>
+                <category>No Alert Level</category>
+                <guid isPermaLink="false">tag:www.fire.tas.gov.au,2013-05-07:206138</guid>
+                <pubDate>Tue, 7 May 2013 14:40:26 +1000</pubDate>
+                <description><![CDATA[
+                    ALERT LEVEL: No Alert Level<br /> Region: N<br /> LOCATION: Fairhaven Road, EMITA<br /> STATUS: Going<br /> TYPE: VEGETATION FIRE<br /> SIZE: Not Available<br /> Number of Vehicles: <br /> More Info: <br /> View On Map: <a href="http://www.fire.tas.gov.au/m/206138">http://www.fire.tas.gov.au/m/206138</a><br /> RESPONSIBLE AGENCY: Tasmania Fire Service<br /> UPDATED: Tue, 7 May 2013 14:40:26 +1000<br /> 
+                    ]]>
+                </description>
+                
+                    <georss:point>-39.927068463098166 148.08303730250572</georss:point>
+                    
+                    
+                
+            </item>
+        
+            <item>
+                <title>Tasman Highway, CHAIN OF LAGOONS</title>
+                <link>http://www.fire.tas.gov.au/i/206029</link>
+                <category>No Alert Level</category>
+                <guid isPermaLink="false">tag:www.fire.tas.gov.au,2013-05-03:206029</guid>
+                <pubDate>Fri, 10 May 2013 17:55:37 +1000</pubDate>
+                <description><![CDATA[
+                    ALERT LEVEL: No Alert Level<br /> Region: S<br /> LOCATION: Tasman Highway, CHAIN OF LAGOONS<br /> STATUS: Patrol<br /> TYPE: VEGETATION FIRE<br /> SIZE: Not reported<br /> Number of Vehicles: <br /> More Info: <a href="http://www.fire.tas.gov.au/i/206029">http://www.fire.tas.gov.au/i/206029</a><br /> View On Map: <a href="http://www.fire.tas.gov.au/m/206029">http://www.fire.tas.gov.au/m/206029</a><br /> RESPONSIBLE AGENCY: Tasmania Fire Service<br /> UPDATED: Fri, 10 May 2013 17:55:37 +1000<br /> 
+                    ]]>
+                </description>
+                
+                    <georss:point>-41.66867926981062 148.28605759344697</georss:point>
+                    
+                    
+                
+            </item>
+        
+    </channel>
+</rss>
+
+
+
