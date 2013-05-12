@@ -109,7 +109,7 @@ foreach ($files as $feed_file => $parser) {
 
   $fires += $engine->parse();
 }
-file_put_contents('output.json', json_encode($fires));
+file_put_contents('output.json', json_encode($fires, JSON_PRETTY_PRINT));
 
 require_once 'HTTP/Request2.php';
 require_once 'Cache/Lite.php';
@@ -378,4 +378,4 @@ foreach ($fires as $fire) {
 */
 
 }
-file_put_contents('areas.json', json_encode($areas));
+file_put_contents('areas.json', json_encode($areas, JSON_PRETTY_PRINT));
