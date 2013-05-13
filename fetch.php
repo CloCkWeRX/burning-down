@@ -7,7 +7,23 @@ require_once 'HTTP/Request2.php';
 require_once 'Cache/Lite.php';
 require_once 'Log.php';
 
-$db = new PDO('sqlite:data.sq3'); 
+$db = new PDO('sqlite:data.sq3');
+$db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+
+try {
+  $db->query('CREATE TABLE fires(
+    guid VARCHAR(100),
+    lat VARCHAR(20),
+    lon VARCHAR(20),
+    description TEXT,
+    title VARCHAR(100),
+    status VARCHAR(100),
+    location VARCHAR(100),
+    article_timestamp INT(10)
+  )');
+} catch (Exception $e) {
+
+}
 
 $files = array(
   'data/www.ruralfire.qld.gov.au/bushfirealert/bushfireAlert.xml' => 'DESQLDParser',
@@ -114,3 +130,14 @@ foreach ($fires as $fire) {
 
 }
 file_put_contents('areas.json', json_encode($areas, JSON_PRETTY_PRINT));
+
+$sql = "REPLACE INTO fires(guid, lat, lon, description) VALUES(:guid, :lat, :lon, :description)";
+$statement = $db->prepare($sql);
+foreach ($fires as $fire) {
+  $statement->execute(array(
+    ':guid' => $fire->id, 
+    ':lat' => $fire->lat, 
+    ':lon' => $fire->long,
+    ':description' => $fire->description
+  ));
+}

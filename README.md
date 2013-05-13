@@ -8,6 +8,7 @@ An aggregation of all fires in Australia, from assorted GeoRSS feeds.
     # Run manually or set up your own crontab
     $ ./cron.sh
     
+    $ sudo apt-get install php5 php5-sqlite
     $ pear install HTTP_Request2 Cache_Lite Log
 
     # Transform the data from GeoRSS to JSON
