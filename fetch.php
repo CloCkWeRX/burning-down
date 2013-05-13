@@ -107,7 +107,7 @@ foreach ($files as $feed_file => $parser) {
   $engine = new $parser($document);
 
 
-  $fires += $engine->parse();
+  $fires = array_merge($fires, $engine->parse());
 }
 file_put_contents('output.json', json_encode($fires, JSON_PRETTY_PRINT));
 
