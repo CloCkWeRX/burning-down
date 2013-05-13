@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm-script timeout="86400" element-limit="1073741824">
+  <union>
+    <query type="way">
+      <has-kv k="building"/>
+      <bbox-query n="" s="" e="" w=""/>
+    </query>
+    <query type="way">
+      <has-kv k="landuse"/>
+      <bbox-query n="" s="" e="" w=""/>
+    </query>
+  </union>
+
+  <union>
+    <item/>
+    <recurse type="down"/>
+  </union>
+  
+  <print />
+</osm-script>
