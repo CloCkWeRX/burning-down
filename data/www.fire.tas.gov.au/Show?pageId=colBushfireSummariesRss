@@ -16,23 +16,23 @@
         <atom:link href="http://www.fire.tas.gov.au/Show?pageId=colBushfireSummariesRss" rel="self" type="application/rss+xml" />
         <description>This information is updated at 9:00 am, midday and 5:00 pm unless significant fire activity occurs.</description>
         <language>en-us</language>
-        <pubDate>Mon, 13 May 2013 17:27:09 +1000</pubDate>
+        <pubDate>Mon, 13 May 2013 22:31:50 +1000</pubDate>
         <webMaster>tfsonline@fire.tas.gov.au</webMaster>
         <docs>http://www.fire.tas.gov.au/Show?pageId=xmlFeedsHome</docs>
         <ttl>60</ttl>
         
             <item>
-                <title>Launde Avenue, CLARENDON VALE</title>
-                <link>http://www.fire.tas.gov.au/i/206344</link>
+                <title>Lansdowne Crescent, WEST HOBART</title>
+                <link>http://www.fire.tas.gov.au/i/206350</link>
                 <category>No Alert Level</category>
-                <guid isPermaLink="false">tag:www.fire.tas.gov.au,2013-05-13:206344</guid>
-                <pubDate>Mon, 13 May 2013 17:15:30 +1000</pubDate>
+                <guid isPermaLink="false">tag:www.fire.tas.gov.au,2013-05-13:206350</guid>
+                <pubDate>Mon, 13 May 2013 22:07:29 +1000</pubDate>
                 <description><![CDATA[
-                    ALERT LEVEL: No Alert Level<br /> Region: S<br /> LOCATION: Launde Avenue, CLARENDON VALE<br /> STATUS: Going<br /> TYPE: FIRE INCIDENT<br /> SIZE: Not Available<br /> Number of Vehicles: 1<br /> More Info: <br /> View On Map: <br /> RESPONSIBLE AGENCY: Tasmania Fire Service<br /> UPDATED: Mon, 13 May 2013 17:15:30 +1000<br /> 
+                    ALERT LEVEL: No Alert Level<br /> Region: S<br /> LOCATION: Lansdowne Crescent, WEST HOBART<br /> STATUS: Contained<br /> TYPE: VEHICLE FIRE<br /> SIZE: Not Available<br /> Number of Vehicles: 1<br /> More Info: <br /> View On Map: <br /> RESPONSIBLE AGENCY: Tasmania Fire Service<br /> UPDATED: Mon, 13 May 2013 22:07:29 +1000<br /> 
                     ]]>
                 </description>
                 
-                    <georss:point>-42.885396690533305 147.44395197147747</georss:point>
+                    <georss:point>-42.880533934662914 147.30989596691623</georss:point>
                     
                     
                 
@@ -45,28 +45,11 @@
                 <guid isPermaLink="false">tag:www.fire.tas.gov.au,2013-05-13:206343</guid>
                 <pubDate>Mon, 13 May 2013 17:05:40 +1000</pubDate>
                 <description><![CDATA[
-                    ALERT LEVEL: No Alert Level<br /> Region: S<br /> LOCATION: Holyman Avenue, CAMBRIDGE<br /> STATUS: Going<br /> TYPE: HAZMAT<br /> SIZE: Not Available<br /> Number of Vehicles: 5<br /> More Info: <br /> View On Map: <br /> RESPONSIBLE AGENCY: Tasmania Fire Service<br /> UPDATED: Mon, 13 May 2013 17:05:40 +1000<br /> 
+                    ALERT LEVEL: No Alert Level<br /> Region: S<br /> LOCATION: Holyman Avenue, CAMBRIDGE<br /> STATUS: Contained<br /> TYPE: HAZMAT<br /> SIZE: Not Available<br /> Number of Vehicles: 3<br /> More Info: <br /> View On Map: <br /> RESPONSIBLE AGENCY: Tasmania Fire Service<br /> UPDATED: Mon, 13 May 2013 17:05:40 +1000<br /> 
                     ]]>
                 </description>
                 
                     <georss:point>-42.8373344865326 147.50503457725696</georss:point>
-                    
-                    
-                
-            </item>
-        
-            <item>
-                <title>Geal Street, BEECHFORD</title>
-                <link>http://www.fire.tas.gov.au/i/206337</link>
-                <category>No Alert Level</category>
-                <guid isPermaLink="false">tag:www.fire.tas.gov.au,2013-05-13:206337</guid>
-                <pubDate>Mon, 13 May 2013 10:18:06 +1000</pubDate>
-                <description><![CDATA[
-                    ALERT LEVEL: No Alert Level<br /> Region: N<br /> LOCATION: Geal Street, BEECHFORD<br /> STATUS: Contained<br /> TYPE: STRUCTURE FIRE<br /> SIZE: Not Available<br /> Number of Vehicles: 5<br /> More Info: <br /> View On Map: <br /> RESPONSIBLE AGENCY: Tasmania Fire Service<br /> UPDATED: Mon, 13 May 2013 10:18:06 +1000<br /> 
-                    ]]>
-                </description>
-                
-                    <georss:point>-41.0338628928275 146.9585050759702</georss:point>
                     
                     
                 

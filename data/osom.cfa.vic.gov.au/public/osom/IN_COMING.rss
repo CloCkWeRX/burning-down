@@ -4,7 +4,7 @@
 <link>http://www.cfa.vic.gov.au/incidents/incident_summary.htm?tm=13052013120000</link>
 <description>Current activity (over the previous 5 hours) is listed below.</description>
 <language>en-us</language>
-<pubDate>Mon, 13 May 2013 07:26:00 GMT</pubDate>
+<pubDate>Mon, 13 May 2013 12:31:00 GMT</pubDate>
 <lastBuildDate></lastBuildDate>
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>Whispir RSS Engine</generator>
@@ -12,23 +12,23 @@
 <webMaster>no-reply@whispir.com</webMaster>
 <ttl>5</ttl>
 <item>
-<title>MYRTLEFORD, </title>
+<title>BENDIGO, LUCAN ST</title>
 <link>http://www.cfa.vic.gov.au/incidents/incident_summary.htm</link>
 <description>
-		           &lt;b&gt;District/Region:&lt;/b&gt; DISTRICT 24&lt;br&gt;
-		           &lt;b&gt;Location:&lt;/b&gt; MYRTLEFORD&lt;br&gt;
-		           &lt;b&gt;Name:&lt;/b&gt; &lt;br&gt;
-		           &lt;b&gt;Last Updated Date/Time:&lt;/b&gt; 13/05/13 05:22:00 PM&lt;br&gt;
-		           &lt;b&gt;Type:&lt;/b&gt; GRASS&lt;br&gt;
+		           &lt;b&gt;District/Region:&lt;/b&gt; DISTRICT 02&lt;br&gt;
+		           &lt;b&gt;Location:&lt;/b&gt; BENDIGO&lt;br&gt;
+		           &lt;b&gt;Name:&lt;/b&gt; LUCAN ST&lt;br&gt;
+		           &lt;b&gt;Last Updated Date/Time:&lt;/b&gt; 13/05/13 10:27:00 PM&lt;br&gt;
+		           &lt;b&gt;Type:&lt;/b&gt; STRUCTURE&lt;br&gt;
 		           &lt;b&gt;Status:&lt;/b&gt; GOING&lt;br&gt;
 		           &lt;b&gt;Size:&lt;/b&gt; SMALL&lt;br&gt;
-		           &lt;b&gt;Appliances:&lt;/b&gt; 0&lt;br&gt;
-		           &lt;b&gt;Start Date/Time:&lt;/b&gt; 13/05/13 05:22:00 PM&lt;br&gt;
+		           &lt;b&gt;Appliances:&lt;/b&gt; 3&lt;br&gt;
+		           &lt;b&gt;Start Date/Time:&lt;/b&gt; 13/05/13 10:27:00 PM&lt;br&gt;
 			</description>
-<pubDate>Mon, 13 May 2013 07:22:00 GMT</pubDate>
-<guid>1415174</guid>
+<pubDate>Mon, 13 May 2013 12:27:00 GMT</pubDate>
+<guid>1415193</guid>
 <georss:collection>
-<georss:point>-36.54497978611828 146.69394514862813</georss:point>
+<georss:point>-36.749257794068285 144.2841368503149</georss:point>
 </georss:collection>
 </item>
 <item>
@@ -49,26 +49,6 @@
 <guid>1415073</guid>
 <georss:collection>
 <georss:point>-38.146683760199174 145.13572162930754</georss:point>
-</georss:collection>
-</item>
-<item>
-<title>HOPPERS CROSSING, OLD GEELONG RD</title>
-<link>http://www.cfa.vic.gov.au/incidents/incident_summary.htm</link>
-<description>
-		           &lt;b&gt;District/Region:&lt;/b&gt; DISTRICT 14&lt;br&gt;
-		           &lt;b&gt;Location:&lt;/b&gt; HOPPERS CROSSING&lt;br&gt;
-		           &lt;b&gt;Name:&lt;/b&gt; OLD GEELONG RD&lt;br&gt;
-		           &lt;b&gt;Last Updated Date/Time:&lt;/b&gt; 13/05/13 05:22:00 PM&lt;br&gt;
-		           &lt;b&gt;Type:&lt;/b&gt; OTHER&lt;br&gt;
-		           &lt;b&gt;Status:&lt;/b&gt; CONTROLLED&lt;br&gt;
-		           &lt;b&gt;Size:&lt;/b&gt; SMALL&lt;br&gt;
-		           &lt;b&gt;Appliances:&lt;/b&gt; 2&lt;br&gt;
-		           &lt;b&gt;Start Date/Time:&lt;/b&gt; 13/05/13 05:10:00 PM&lt;br&gt;
-			</description>
-<pubDate>Mon, 13 May 2013 07:22:00 GMT</pubDate>
-<guid>1415172</guid>
-<georss:collection>
-<georss:point>-37.8784651768014 144.70932424618792</georss:point>
 </georss:collection>
 </item>
 <item>
@@ -152,163 +132,83 @@
 </georss:collection>
 </item>
 <item>
-<title>HAMPTON PARK, NOLA CT</title>
+<title>MOOLAP, PT HENRY RD</title>
 <link>http://www.cfa.vic.gov.au/incidents/incident_summary.htm</link>
 <description>
-		           &lt;b&gt;District/Region:&lt;/b&gt; DISTRICT 08&lt;br&gt;
-		           &lt;b&gt;Location:&lt;/b&gt; HAMPTON PARK&lt;br&gt;
-		           &lt;b&gt;Name:&lt;/b&gt; NOLA CT&lt;br&gt;
-		           &lt;b&gt;Last Updated Date/Time:&lt;/b&gt; 13/05/13 05:22:00 PM&lt;br&gt;
+		           &lt;b&gt;District/Region:&lt;/b&gt; DISTRICT 07&lt;br&gt;
+		           &lt;b&gt;Location:&lt;/b&gt; MOOLAP&lt;br&gt;
+		           &lt;b&gt;Name:&lt;/b&gt; PT HENRY RD&lt;br&gt;
+		           &lt;b&gt;Last Updated Date/Time:&lt;/b&gt; 13/05/13 10:10:00 PM&lt;br&gt;
 		           &lt;b&gt;Type:&lt;/b&gt; STRUCTURE&lt;br&gt;
 		           &lt;b&gt;Status:&lt;/b&gt; SAFE&lt;br&gt;
 		           &lt;b&gt;Size:&lt;/b&gt; SMALL&lt;br&gt;
-		           &lt;b&gt;Appliances:&lt;/b&gt; 3&lt;br&gt;
-		           &lt;b&gt;Start Date/Time:&lt;/b&gt; 13/05/13 05:11:00 PM&lt;br&gt;
-			</description>
-<pubDate>Mon, 13 May 2013 07:22:00 GMT</pubDate>
-<guid>1415173</guid>
-<georss:collection>
-<georss:point>-38.03260824592375 145.2507870242992</georss:point>
-</georss:collection>
-</item>
-<item>
-<title>BRAESIDE, WOODLANDS DR</title>
-<link>http://www.cfa.vic.gov.au/incidents/incident_summary.htm</link>
-<description>
-		           &lt;b&gt;District/Region:&lt;/b&gt; DISTRICT 08&lt;br&gt;
-		           &lt;b&gt;Location:&lt;/b&gt; BRAESIDE&lt;br&gt;
-		           &lt;b&gt;Name:&lt;/b&gt; WOODLANDS DR&lt;br&gt;
-		           &lt;b&gt;Last Updated Date/Time:&lt;/b&gt; 13/05/13 05:15:00 PM&lt;br&gt;
-		           &lt;b&gt;Type:&lt;/b&gt; FALSE ALARM&lt;br&gt;
-		           &lt;b&gt;Status:&lt;/b&gt; SAFE&lt;br&gt;
-		           &lt;b&gt;Size:&lt;/b&gt; SMALL&lt;br&gt;
-		           &lt;b&gt;Appliances:&lt;/b&gt; 1&lt;br&gt;
-		           &lt;b&gt;Start Date/Time:&lt;/b&gt; 13/05/13 05:01:00 PM&lt;br&gt;
-			</description>
-<pubDate>Mon, 13 May 2013 07:15:00 GMT</pubDate>
-<guid>1415171</guid>
-<georss:collection>
-<georss:point>-37.996915923245346 145.1196598572357</georss:point>
-</georss:collection>
-</item>
-<item>
-<title>SWAN REACH, TAMBO UPPER RD</title>
-<link>http://www.cfa.vic.gov.au/incidents/incident_summary.htm</link>
-<description>
-		           &lt;b&gt;District/Region:&lt;/b&gt; DISTRICT 11&lt;br&gt;
-		           &lt;b&gt;Location:&lt;/b&gt; SWAN REACH&lt;br&gt;
-		           &lt;b&gt;Name:&lt;/b&gt; TAMBO UPPER RD&lt;br&gt;
-		           &lt;b&gt;Last Updated Date/Time:&lt;/b&gt; 13/05/13 05:11:00 PM&lt;br&gt;
-		           &lt;b&gt;Type:&lt;/b&gt; NON STRUCTURE&lt;br&gt;
-		           &lt;b&gt;Status:&lt;/b&gt; SAFE&lt;br&gt;
-		           &lt;b&gt;Size:&lt;/b&gt; SMALL&lt;br&gt;
-		           &lt;b&gt;Appliances:&lt;/b&gt; 3&lt;br&gt;
-		           &lt;b&gt;Start Date/Time:&lt;/b&gt; 13/05/13 04:54:00 PM&lt;br&gt;
-			</description>
-<pubDate>Mon, 13 May 2013 07:11:00 GMT</pubDate>
-<guid>1415169</guid>
-<georss:collection>
-<georss:point>-37.81305406334902 147.85923101037878</georss:point>
-</georss:collection>
-</item>
-<item>
-<title>WARRNAMBOOL, LAVA ST</title>
-<link>http://www.cfa.vic.gov.au/incidents/incident_summary.htm</link>
-<description>
-		           &lt;b&gt;District/Region:&lt;/b&gt; DISTRICT 05&lt;br&gt;
-		           &lt;b&gt;Location:&lt;/b&gt; WARRNAMBOOL&lt;br&gt;
-		           &lt;b&gt;Name:&lt;/b&gt; LAVA ST&lt;br&gt;
-		           &lt;b&gt;Last Updated Date/Time:&lt;/b&gt; 13/05/13 05:07:00 PM&lt;br&gt;
-		           &lt;b&gt;Type:&lt;/b&gt; OTHER&lt;br&gt;
-		           &lt;b&gt;Status:&lt;/b&gt; SAFE&lt;br&gt;
-		           &lt;b&gt;Size:&lt;/b&gt; SMALL&lt;br&gt;
 		           &lt;b&gt;Appliances:&lt;/b&gt; 0&lt;br&gt;
-		           &lt;b&gt;Start Date/Time:&lt;/b&gt; 13/05/13 04:57:00 PM&lt;br&gt;
+		           &lt;b&gt;Start Date/Time:&lt;/b&gt; 13/05/13 08:48:00 PM&lt;br&gt;
 			</description>
-<pubDate>Mon, 13 May 2013 07:07:00 GMT</pubDate>
-<guid>1415170</guid>
+<pubDate>Mon, 13 May 2013 12:10:00 GMT</pubDate>
+<guid>1415191</guid>
 <georss:collection>
-<georss:point>-38.387128027020545 142.496403379892</georss:point>
+<georss:point>-38.13441406709979 144.42520604508437</georss:point>
 </georss:collection>
 </item>
 <item>
-<title>MELTON, MCKENZIE ST</title>
+<title>WHITTLESEA, KING PARROT WAY</title>
 <link>http://www.cfa.vic.gov.au/incidents/incident_summary.htm</link>
 <description>
 		           &lt;b&gt;District/Region:&lt;/b&gt; DISTRICT 14&lt;br&gt;
-		           &lt;b&gt;Location:&lt;/b&gt; MELTON&lt;br&gt;
-		           &lt;b&gt;Name:&lt;/b&gt; MCKENZIE ST&lt;br&gt;
-		           &lt;b&gt;Last Updated Date/Time:&lt;/b&gt; 13/05/13 04:56:00 PM&lt;br&gt;
+		           &lt;b&gt;Location:&lt;/b&gt; WHITTLESEA&lt;br&gt;
+		           &lt;b&gt;Name:&lt;/b&gt; KING PARROT WAY&lt;br&gt;
+		           &lt;b&gt;Last Updated Date/Time:&lt;/b&gt; 13/05/13 10:07:00 PM&lt;br&gt;
 		           &lt;b&gt;Type:&lt;/b&gt; FALSE ALARM&lt;br&gt;
 		           &lt;b&gt;Status:&lt;/b&gt; SAFE&lt;br&gt;
 		           &lt;b&gt;Size:&lt;/b&gt; SMALL&lt;br&gt;
 		           &lt;b&gt;Appliances:&lt;/b&gt; 0&lt;br&gt;
-		           &lt;b&gt;Start Date/Time:&lt;/b&gt; 13/05/13 04:51:00 PM&lt;br&gt;
+		           &lt;b&gt;Start Date/Time:&lt;/b&gt; 13/05/13 09:57:00 PM&lt;br&gt;
 			</description>
-<pubDate>Mon, 13 May 2013 06:56:00 GMT</pubDate>
-<guid>1415168</guid>
+<pubDate>Mon, 13 May 2013 12:07:00 GMT</pubDate>
+<guid>1415192</guid>
 <georss:collection>
-<georss:point>-37.684105666822454 144.58643905414604</georss:point>
+<georss:point>-37.50201698753402 145.11276766880727</georss:point>
 </georss:collection>
 </item>
 <item>
-<title>KILSYTH, LIVERPOOL RD</title>
+<title>ST ALBANS, ST ALBANS</title>
 <link>http://www.cfa.vic.gov.au/incidents/incident_summary.htm</link>
 <description>
 		           &lt;b&gt;District/Region:&lt;/b&gt; MFB&lt;br&gt;
-		           &lt;b&gt;Location:&lt;/b&gt; KILSYTH&lt;br&gt;
-		           &lt;b&gt;Name:&lt;/b&gt; LIVERPOOL RD&lt;br&gt;
-		           &lt;b&gt;Last Updated Date/Time:&lt;/b&gt; 13/05/13 05:18:45 PM&lt;br&gt;
-		           &lt;b&gt;Type:&lt;/b&gt; Medical Emergency&lt;br&gt;
-		           &lt;b&gt;Status:&lt;/b&gt; Under Control&lt;br&gt;
-		           &lt;b&gt;Size:&lt;/b&gt; Small&lt;br&gt;
-		           &lt;b&gt;Appliances:&lt;/b&gt; 1&lt;br&gt;
-		           &lt;b&gt;Start Date/Time:&lt;/b&gt; 13/05/13 05:18:45 PM&lt;br&gt;
-			</description>
-<pubDate>Mon, 13 May 2013 07:18:45 GMT</pubDate>
-<guid>130508779</guid>
-<georss:collection>
-<georss:point>-37.80626969746184 145.3140992020279</georss:point>
-</georss:collection>
-</item>
-<item>
-<title>BRAESIDE, WOODLANDS DR</title>
-<link>http://www.cfa.vic.gov.au/incidents/incident_summary.htm</link>
-<description>
-		           &lt;b&gt;District/Region:&lt;/b&gt; MFB&lt;br&gt;
-		           &lt;b&gt;Location:&lt;/b&gt; BRAESIDE&lt;br&gt;
-		           &lt;b&gt;Name:&lt;/b&gt; WOODLANDS DR&lt;br&gt;
-		           &lt;b&gt;Last Updated Date/Time:&lt;/b&gt; 13/05/13 05:14:50 PM&lt;br&gt;
-		           &lt;b&gt;Type:&lt;/b&gt; False Alarm&lt;br&gt;
-		           &lt;b&gt;Status:&lt;/b&gt; Stop&lt;br&gt;
+		           &lt;b&gt;Location:&lt;/b&gt; ST ALBANS&lt;br&gt;
+		           &lt;b&gt;Name:&lt;/b&gt; ST ALBANS&lt;br&gt;
+		           &lt;b&gt;Last Updated Date/Time:&lt;/b&gt; 13/05/13 10:29:28 PM&lt;br&gt;
+		           &lt;b&gt;Type:&lt;/b&gt; Fire&lt;br&gt;
+		           &lt;b&gt;Status:&lt;/b&gt; Initiated&lt;br&gt;
 		           &lt;b&gt;Size:&lt;/b&gt; Small&lt;br&gt;
 		           &lt;b&gt;Appliances:&lt;/b&gt; 2&lt;br&gt;
-		           &lt;b&gt;Start Date/Time:&lt;/b&gt; 13/05/13 05:14:50 PM&lt;br&gt;
+		           &lt;b&gt;Start Date/Time:&lt;/b&gt; 13/05/13 10:29:28 PM&lt;br&gt;
 			</description>
-<pubDate>Mon, 13 May 2013 07:14:50 GMT</pubDate>
-<guid>130508773</guid>
+<pubDate>Mon, 13 May 2013 12:29:28 GMT</pubDate>
+<guid>130508830</guid>
 <georss:collection>
-<georss:point>-37.99691512169486 145.1196661488861</georss:point>
+<georss:point>-37.73118510509403 144.80889617409343</georss:point>
 </georss:collection>
 </item>
 <item>
-<title>MITCHAM, ROOKS RD</title>
+<title>ST KILDA, FITZROY ST</title>
 <link>http://www.cfa.vic.gov.au/incidents/incident_summary.htm</link>
 <description>
 		           &lt;b&gt;District/Region:&lt;/b&gt; MFB&lt;br&gt;
-		           &lt;b&gt;Location:&lt;/b&gt; MITCHAM&lt;br&gt;
-		           &lt;b&gt;Name:&lt;/b&gt; ROOKS RD&lt;br&gt;
-		           &lt;b&gt;Last Updated Date/Time:&lt;/b&gt; 13/05/13 04:58:09 PM&lt;br&gt;
-		           &lt;b&gt;Type:&lt;/b&gt; Structure Fire&lt;br&gt;
-		           &lt;b&gt;Status:&lt;/b&gt; Under Control&lt;br&gt;
+		           &lt;b&gt;Location:&lt;/b&gt; ST KILDA&lt;br&gt;
+		           &lt;b&gt;Name:&lt;/b&gt; FITZROY ST&lt;br&gt;
+		           &lt;b&gt;Last Updated Date/Time:&lt;/b&gt; 13/05/13 10:25:30 PM&lt;br&gt;
+		           &lt;b&gt;Type:&lt;/b&gt; Non Structure Fire&lt;br&gt;
+		           &lt;b&gt;Status:&lt;/b&gt; Initiated&lt;br&gt;
 		           &lt;b&gt;Size:&lt;/b&gt; Small&lt;br&gt;
-		           &lt;b&gt;Appliances:&lt;/b&gt; 3&lt;br&gt;
-		           &lt;b&gt;Start Date/Time:&lt;/b&gt; 13/05/13 04:58:09 PM&lt;br&gt;
+		           &lt;b&gt;Appliances:&lt;/b&gt; 2&lt;br&gt;
+		           &lt;b&gt;Start Date/Time:&lt;/b&gt; 13/05/13 10:25:30 PM&lt;br&gt;
 			</description>
-<pubDate>Mon, 13 May 2013 06:58:09 GMT</pubDate>
-<guid>130508765</guid>
+<pubDate>Mon, 13 May 2013 12:25:30 GMT</pubDate>
+<guid>130508828</guid>
 <georss:collection>
-<georss:point>-37.82080034578346 145.1855037838639</georss:point>
+<georss:point>-37.862350356850314 144.97302056414827</georss:point>
 </georss:collection>
 </item>
 </channel>
