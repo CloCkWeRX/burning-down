@@ -16,125 +16,74 @@
         <atom:link href="http://www.fire.tas.gov.au/Show?pageId=colBushfireSummariesRss" rel="self" type="application/rss+xml" />
         <description>This information is updated at 9:00 am, midday and 5:00 pm unless significant fire activity occurs.</description>
         <language>en-us</language>
-        <pubDate>Sun, 12 May 2013 16:41:40 +1000</pubDate>
+        <pubDate>Mon, 13 May 2013 17:27:09 +1000</pubDate>
         <webMaster>tfsonline@fire.tas.gov.au</webMaster>
         <docs>http://www.fire.tas.gov.au/Show?pageId=xmlFeedsHome</docs>
         <ttl>60</ttl>
         
             <item>
-                <title>Rokeby Road, HOWRAH</title>
-                <link>http://www.fire.tas.gov.au/i/206311</link>
+                <title>Launde Avenue, CLARENDON VALE</title>
+                <link>http://www.fire.tas.gov.au/i/206344</link>
                 <category>No Alert Level</category>
-                <guid isPermaLink="false">tag:www.fire.tas.gov.au,2013-05-12:206311</guid>
-                <pubDate>Sun, 12 May 2013 16:29:50 +1000</pubDate>
+                <guid isPermaLink="false">tag:www.fire.tas.gov.au,2013-05-13:206344</guid>
+                <pubDate>Mon, 13 May 2013 17:15:30 +1000</pubDate>
                 <description><![CDATA[
-                    ALERT LEVEL: No Alert Level<br /> Region: S<br /> LOCATION: Rokeby Road, HOWRAH<br /> STATUS: Going<br /> TYPE: VEGETATION FIRE<br /> SIZE: Not Available<br /> Number of Vehicles: 2<br /> More Info: <br /> View On Map: <br /> RESPONSIBLE AGENCY: Tasmania Fire Service<br /> UPDATED: Sun, 12 May 2013 16:29:50 +1000<br /> 
+                    ALERT LEVEL: No Alert Level<br /> Region: S<br /> LOCATION: Launde Avenue, CLARENDON VALE<br /> STATUS: Going<br /> TYPE: FIRE INCIDENT<br /> SIZE: Not Available<br /> Number of Vehicles: 1<br /> More Info: <br /> View On Map: <br /> RESPONSIBLE AGENCY: Tasmania Fire Service<br /> UPDATED: Mon, 13 May 2013 17:15:30 +1000<br /> 
                     ]]>
                 </description>
                 
-                    <georss:point>-42.886433127764654 147.41739755736475</georss:point>
+                    <georss:point>-42.885396690533305 147.44395197147747</georss:point>
                     
                     
                 
             </item>
         
             <item>
-                <title>Adelphi Road, CLAREMONT</title>
-                <link>http://www.fire.tas.gov.au/i/206309</link>
+                <title>Holyman Avenue, CAMBRIDGE</title>
+                <link>http://www.fire.tas.gov.au/i/206343</link>
                 <category>No Alert Level</category>
-                <guid isPermaLink="false">tag:www.fire.tas.gov.au,2013-05-12:206309</guid>
-                <pubDate>Sun, 12 May 2013 16:00:16 +1000</pubDate>
+                <guid isPermaLink="false">tag:www.fire.tas.gov.au,2013-05-13:206343</guid>
+                <pubDate>Mon, 13 May 2013 17:05:40 +1000</pubDate>
                 <description><![CDATA[
-                    ALERT LEVEL: No Alert Level<br /> Region: S<br /> LOCATION: Adelphi Road, CLAREMONT<br /> STATUS: Contained<br /> TYPE: STRUCTURE FIRE<br /> SIZE: Not Available<br /> Number of Vehicles: 2<br /> More Info: <br /> View On Map: <br /> RESPONSIBLE AGENCY: Tasmania Fire Service<br /> UPDATED: Sun, 12 May 2013 16:00:16 +1000<br /> 
+                    ALERT LEVEL: No Alert Level<br /> Region: S<br /> LOCATION: Holyman Avenue, CAMBRIDGE<br /> STATUS: Going<br /> TYPE: HAZMAT<br /> SIZE: Not Available<br /> Number of Vehicles: 5<br /> More Info: <br /> View On Map: <br /> RESPONSIBLE AGENCY: Tasmania Fire Service<br /> UPDATED: Mon, 13 May 2013 17:05:40 +1000<br /> 
                     ]]>
                 </description>
                 
-                    <georss:point>-42.79350873776853 147.24158487488165</georss:point>
+                    <georss:point>-42.8373344865326 147.50503457725696</georss:point>
                     
                     
                 
             </item>
         
             <item>
-                <title>Ashbourne Grove, WEST MOONAH</title>
-                <link>http://www.fire.tas.gov.au/i/206307</link>
+                <title>Geal Street, BEECHFORD</title>
+                <link>http://www.fire.tas.gov.au/i/206337</link>
                 <category>No Alert Level</category>
-                <guid isPermaLink="false">tag:www.fire.tas.gov.au,2013-05-12:206307</guid>
-                <pubDate>Sun, 12 May 2013 15:23:54 +1000</pubDate>
+                <guid isPermaLink="false">tag:www.fire.tas.gov.au,2013-05-13:206337</guid>
+                <pubDate>Mon, 13 May 2013 10:18:06 +1000</pubDate>
                 <description><![CDATA[
-                    ALERT LEVEL: No Alert Level<br /> Region: S<br /> LOCATION: Ashbourne Grove, WEST MOONAH<br /> STATUS: Contained<br /> TYPE: STRUCTURE FIRE<br /> SIZE: Not Available<br /> Number of Vehicles: 1<br /> More Info: <br /> View On Map: <br /> RESPONSIBLE AGENCY: Tasmania Fire Service<br /> UPDATED: Sun, 12 May 2013 15:23:54 +1000<br /> 
+                    ALERT LEVEL: No Alert Level<br /> Region: N<br /> LOCATION: Geal Street, BEECHFORD<br /> STATUS: Contained<br /> TYPE: STRUCTURE FIRE<br /> SIZE: Not Available<br /> Number of Vehicles: 5<br /> More Info: <br /> View On Map: <br /> RESPONSIBLE AGENCY: Tasmania Fire Service<br /> UPDATED: Mon, 13 May 2013 10:18:06 +1000<br /> 
                     ]]>
                 </description>
                 
-                    <georss:point>-42.846004153045634 147.27229904711592</georss:point>
+                    <georss:point>-41.0338628928275 146.9585050759702</georss:point>
                     
                     
                 
             </item>
         
             <item>
-                <title>Tasman Highway, LITTLE SWANPORT</title>
-                <link>http://www.fire.tas.gov.au/i/206305</link>
+                <title>Okehampton Road, TRIABUNNA</title>
+                <link>http://www.fire.tas.gov.au/i/206318</link>
                 <category>No Alert Level</category>
-                <guid isPermaLink="false">tag:www.fire.tas.gov.au,2013-05-12:206305</guid>
-                <pubDate>Sun, 12 May 2013 15:07:28 +1000</pubDate>
+                <guid isPermaLink="false">tag:www.fire.tas.gov.au,2013-05-12:206318</guid>
+                <pubDate>Mon, 13 May 2013 10:54:10 +1000</pubDate>
                 <description><![CDATA[
-                    ALERT LEVEL: No Alert Level<br /> Region: S<br /> LOCATION: Tasman Highway, LITTLE SWANPORT<br /> STATUS: Going<br /> TYPE: VEGETATION FIRE<br /> SIZE: Not Available<br /> Number of Vehicles: 2<br /> More Info: <br /> View On Map: <a href="http://www.fire.tas.gov.au/m/206305">http://www.fire.tas.gov.au/m/206305</a><br /> RESPONSIBLE AGENCY: Tasmania Fire Service<br /> UPDATED: Sun, 12 May 2013 15:07:28 +1000<br /> 
+                    ALERT LEVEL: No Alert Level<br /> Region: S<br /> LOCATION: Okehampton Road, TRIABUNNA<br /> STATUS: Patrol<br /> TYPE: VEGETATION FIRE<br /> SIZE: Not reported<br /> Number of Vehicles: <br /> More Info: <a href="http://www.fire.tas.gov.au/i/206318">http://www.fire.tas.gov.au/i/206318</a><br /> View On Map: <a href="http://www.fire.tas.gov.au/m/206318">http://www.fire.tas.gov.au/m/206318</a><br /> RESPONSIBLE AGENCY: Tasmania Fire Service<br /> UPDATED: Mon, 13 May 2013 10:54:10 +1000<br /> 
                     ]]>
                 </description>
                 
-                    <georss:point>-42.328547063255165 147.9451563844538</georss:point>
-                    
-                    
-                
-            </item>
-        
-            <item>
-                <title>Cook Street, HADSPEN</title>
-                <link>http://www.fire.tas.gov.au/i/206299</link>
-                <category>No Alert Level</category>
-                <guid isPermaLink="false">tag:www.fire.tas.gov.au,2013-05-12:206299</guid>
-                <pubDate>Sun, 12 May 2013 14:03:49 +1000</pubDate>
-                <description><![CDATA[
-                    ALERT LEVEL: No Alert Level<br /> Region: N<br /> LOCATION: Cook Street, HADSPEN<br /> STATUS: Patrol<br /> TYPE: VEGETATION FIRE<br /> SIZE: Not Available<br /> Number of Vehicles: <br /> More Info: <br /> View On Map: <a href="http://www.fire.tas.gov.au/m/206299">http://www.fire.tas.gov.au/m/206299</a><br /> RESPONSIBLE AGENCY: Tasmania Fire Service<br /> UPDATED: Sun, 12 May 2013 14:03:49 +1000<br /> 
-                    ]]>
-                </description>
-                
-                    <georss:point>-41.50690004166553 147.06012899642377</georss:point>
-                    
-                    
-                
-            </item>
-        
-            <item>
-                <title>Grundys Road, LUNAWANNA</title>
-                <link>http://www.fire.tas.gov.au/i/206212</link>
-                <category>No Alert Level</category>
-                <guid isPermaLink="false">tag:www.fire.tas.gov.au,2013-05-09:206212</guid>
-                <pubDate>Thu, 9 May 2013 20:35:20 +1000</pubDate>
-                <description><![CDATA[
-                    ALERT LEVEL: No Alert Level<br /> Region: S<br /> LOCATION: Grundys Road, LUNAWANNA<br /> STATUS: Patrol<br /> TYPE: VEGETATION FIRE<br /> SIZE: Not Available<br /> Number of Vehicles: <br /> More Info: <br /> View On Map: <a href="http://www.fire.tas.gov.au/m/206212">http://www.fire.tas.gov.au/m/206212</a><br /> RESPONSIBLE AGENCY: Tasmania Fire Service<br /> UPDATED: Thu, 9 May 2013 20:35:20 +1000<br /> 
-                    ]]>
-                </description>
-                
-                    <georss:point>-43.364658890173615 147.22309248468184</georss:point>
-                    
-                    
-                
-            </item>
-        
-            <item>
-                <title>Fairhaven Road, EMITA</title>
-                <link>http://www.fire.tas.gov.au/i/206138</link>
-                <category>No Alert Level</category>
-                <guid isPermaLink="false">tag:www.fire.tas.gov.au,2013-05-07:206138</guid>
-                <pubDate>Tue, 7 May 2013 14:40:26 +1000</pubDate>
-                <description><![CDATA[
-                    ALERT LEVEL: No Alert Level<br /> Region: N<br /> LOCATION: Fairhaven Road, EMITA<br /> STATUS: Going<br /> TYPE: VEGETATION FIRE<br /> SIZE: Not Available<br /> Number of Vehicles: <br /> More Info: <br /> View On Map: <a href="http://www.fire.tas.gov.au/m/206138">http://www.fire.tas.gov.au/m/206138</a><br /> RESPONSIBLE AGENCY: Tasmania Fire Service<br /> UPDATED: Tue, 7 May 2013 14:40:26 +1000<br /> 
-                    ]]>
-                </description>
-                
-                    <georss:point>-39.927068463098166 148.08303730250572</georss:point>
+                    <georss:point>-42.51238710309561 147.95243778717165</georss:point>
                     
                     
                 
@@ -145,9 +94,9 @@
                 <link>http://www.fire.tas.gov.au/i/206029</link>
                 <category>No Alert Level</category>
                 <guid isPermaLink="false">tag:www.fire.tas.gov.au,2013-05-03:206029</guid>
-                <pubDate>Fri, 10 May 2013 17:55:37 +1000</pubDate>
+                <pubDate>Mon, 13 May 2013 10:50:22 +1000</pubDate>
                 <description><![CDATA[
-                    ALERT LEVEL: No Alert Level<br /> Region: S<br /> LOCATION: Tasman Highway, CHAIN OF LAGOONS<br /> STATUS: Patrol<br /> TYPE: VEGETATION FIRE<br /> SIZE: Not reported<br /> Number of Vehicles: <br /> More Info: <a href="http://www.fire.tas.gov.au/i/206029">http://www.fire.tas.gov.au/i/206029</a><br /> View On Map: <a href="http://www.fire.tas.gov.au/m/206029">http://www.fire.tas.gov.au/m/206029</a><br /> RESPONSIBLE AGENCY: Tasmania Fire Service<br /> UPDATED: Fri, 10 May 2013 17:55:37 +1000<br /> 
+                    ALERT LEVEL: No Alert Level<br /> Region: S<br /> LOCATION: Tasman Highway, CHAIN OF LAGOONS<br /> STATUS: Patrol<br /> TYPE: VEGETATION FIRE<br /> SIZE: Not reported<br /> Number of Vehicles: <br /> More Info: <a href="http://www.fire.tas.gov.au/i/206029">http://www.fire.tas.gov.au/i/206029</a><br /> View On Map: <a href="http://www.fire.tas.gov.au/m/206029">http://www.fire.tas.gov.au/m/206029</a><br /> RESPONSIBLE AGENCY: Tasmania Fire Service<br /> UPDATED: Mon, 13 May 2013 10:50:22 +1000<br /> 
                     ]]>
                 </description>
                 

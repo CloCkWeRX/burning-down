@@ -38,9 +38,11 @@
         var data = JSON.parse(payload);
 
         $.each(data, function (n, item) {
-          var marker = L.marker([item.lat, item.long]).addTo(map);
-    
-          marker.bindPopup(item.description);
+          if (item.lat && item.long) {
+            var marker = L.marker([item.lat, item.long]).addTo(map);
+      
+            marker.bindPopup(item.description);
+          }
         });
       }
     });

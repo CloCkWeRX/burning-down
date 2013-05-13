@@ -107,7 +107,7 @@ foreach ($files as $feed_file => $parser) {
   $engine = new $parser($document);
 
 
-  $fires += $engine->parse();
+  $fires = array_merge($fires, $engine->parse());
 }
 file_put_contents('output.json', json_encode($fires, JSON_PRETTY_PRINT));
 
@@ -126,7 +126,7 @@ $options = array(
 // Create a Cache_Lite object
 $cache = new Cache_Lite($options);
 
-
+die("Note to self: You probablyyyyyyyyyyy should have added osm.xml to git!");
 $request = new HTTP_Request2('http://overpass-api.de/api/interpreter');
 $request->setMethod('POST');
 
