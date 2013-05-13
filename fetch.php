@@ -126,7 +126,7 @@ $options = array(
 // Create a Cache_Lite object
 $cache = new Cache_Lite($options);
 
-
+die("Note to self: You probablyyyyyyyyyyy should have added osm.xml to git!");
 $request = new HTTP_Request2('http://overpass-api.de/api/interpreter');
 $request->setMethod('POST');
 
