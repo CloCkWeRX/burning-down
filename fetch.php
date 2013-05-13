@@ -120,7 +120,7 @@ require_once 'Log.php';
 // Set a few options
 $options = array(
     'cacheDir' => 'cache/',
-    'lifeTime' => 3600
+    'lifeTime' => 60*60*24*7
 );
 
 // Create a Cache_Lite object
@@ -172,7 +172,23 @@ foreach ($fires as $fire) {
     
     // TODO: Calculate the area of the polygons in question to make claims like "500ha of farmland."
 
-    $areas = array_merge($areas, $results->xpath('//way'));
+    $ways = $results->xpath('//way');
+    foreach ($ways as $way) {
+      $area = array();
+      foreach ($way->nd as $node) {
+        $nodes = $results->xpath('//node[@id=' . (string)$node['ref'] . "]");
+
+        if ($nodes[0]["lat"] && $nodes[0]["lon"]) {
+          $area["nodes"][] = array((float)$nodes[0]["lat"], (float)$nodes[0]["lon"]);
+        }
+      }
+
+      foreach ($way->tag as $tag) {
+        $area[(string)$tag['k']] = (string)$tag['v'];
+      }
+      $areas[] = $area;
+    }
+    
   } catch (HTTP_Request2_MessageException $e) {
     print $e->getMessage();
   }
