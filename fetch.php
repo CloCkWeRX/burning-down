@@ -19,10 +19,16 @@ try {
     title VARCHAR(100),
     status VARCHAR(100),
     location VARCHAR(100),
-    article_timestamp INT(10)
-  )');
-} catch (Exception $e) {
+    article_timestamp INT(10),
+    PRIMARY KEY (guid))');
 
+  $db->query('CREATE TABLE areas(
+    guid VARCHAR(100),
+    osmid VARCHAR(30),
+    PRIMARY KEY (guid, osmid))'); 
+
+} catch (Exception $e) {
+  print $e;
 }
 
 $files = array(
@@ -121,6 +127,8 @@ foreach ($fires as $fire) {
       foreach ($way->tag as $tag) {
         $area[(string)$tag['k']] = (string)$tag['v'];
       }
+      $area['fire'] = $fire->id;
+      $area['id'] = (string)$way['id'];
       $areas[] = $area;
     }
     
@@ -139,5 +147,15 @@ foreach ($fires as $fire) {
     ':lat' => $fire->lat, 
     ':lon' => $fire->long,
     ':description' => $fire->description
+  ));
+}
+
+
+$sql = "REPLACE INTO areas(guid, osmid) VALUES(:guid, :osmid)";
+$statement = $db->prepare($sql);
+foreach ($areas as $area) {
+  $statement->execute(array(
+    ':guid' => $area['fire'], 
+    ':osmid' => $area['id']
   ));
 }
