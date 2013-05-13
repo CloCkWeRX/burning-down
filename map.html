@@ -47,6 +47,22 @@
       }
     });
 
+    $.ajax({
+      url: 'areas.json',
+      success: function(payload) {
+        var data = JSON.parse(payload);
+
+        $.each(data, function (n, item) {
+          var polygon = L.polygon(item.nodes, {color: 'orange'}).addTo(map);
+
+          if (item.name) {
+            polygon.bindPopup(item.name);
+          }
+
+        });
+      }
+    });    
+
     </script>  
     <div class="copyright">  
       <p>
