@@ -1,91 +1,13 @@
 <?php
-class Fire {
-
-  public $lat;
-  public $long;
-  public $description;
-  public $author;
-  public $category;
-  public $date;
-  public $id;
-  public $title;
-  public $status;
-}
-
-class GeoRSSParser {
-  public function __construct(SimpleXMLElement $feed) {
-    $this->feed = $feed;
-    $this->fire = new Fire();
-  }
-
-  public function parse() {
-    $items = array();
-    foreach ($this->feed->xpath("//item") as $item) {
-      $fire = clone $this->fire;
-
-      $fire->id = (string)$item->guid;
-      
-      $fire->title = (string)$item->title;
-      $fire->date = new DateTime((string)$item->pubDate);
-      $this->parseDescription($item, $fire);
-      $this->parseCoordinates($item, $fire);
-      $items[] = $fire;
-    }
-
-    return $items;
-  }
-
-  public function parseDescription($item, $fire) {
-    $fire->description = (string)$item->description;
-  }
+require_once 'lib/Fire.php';
+require_once 'lib/GeoRSSParser.php';
 
 
-  public function parseCoordinates($item, $fire) {
-    $point = $item->xpath('georss:point');
+require_once 'HTTP/Request2.php';
+require_once 'Cache/Lite.php';
+require_once 'Log.php';
 
-    if (count($point) > 0) { 
-
-      list($fire->lat, $fire->long) = explode(" ", (string)$point[0]);
-    }
-  }
-}
-class DESQLDParser extends GeoRSSParser {
-
-  public function parseDescription($item, $fire) {
-    $description = (string)$item->description;
-
-    $parts = explode(". ", $description);
-
-    $fire->location = explode(": ", $parts[2])[1];
-
-    $fire->status = explode(": ", $parts[3])[1];
-    $fire->description = explode(": ", $parts[4])[1];   
-  }
-
-}
-
-class ACTParser extends GeoRSSParser {
-}
-
-class RFSNSWParser extends GeoRSSParser {
-}
-
-class CFSSAParser extends GeoRSSParser {
-  public function parseCoordinates($item, $fire) {}
-}
-
-class CFAVicParser extends GeoRSSParser {
-}
-
-class TASParser extends GeoRSSParser {
-}
-class SentinelParser extends GeoRSSParser {
-  public function parseDescription($item, $fire) {
-    $description = (string)$item->description;
-
-    $fire->description = str_replace("<br/>", "\n", $description);
-  }
-}
+$db = new PDO('sqlite:data.sq3'); 
 
 $files = array(
   'data/www.ruralfire.qld.gov.au/bushfirealert/bushfireAlert.xml' => 'DESQLDParser',
@@ -111,9 +33,6 @@ foreach ($files as $feed_file => $parser) {
 }
 file_put_contents('output.json', json_encode($fires, JSON_PRETTY_PRINT));
 
-require_once 'HTTP/Request2.php';
-require_once 'Cache/Lite.php';
-require_once 'Log.php';
 // Set a id for this cache
 
 
