@@ -7,33 +7,6 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Argotic Syndication Framework</generator>
     <item>
-      <title>QF2-13-037619</title>
-      <description>Alert Level: Permitted Burn. Location: Green Rd, Alton Downs. Reported: 13/04/2013 11:38:50 AM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
-      <author>Queensland Fire &amp; Rescue Service</author>
-      <guid isPermaLink="true">QF2-13-037619</guid>
-      <pubDate>Sat, 13 Apr 2013 11:38:50 +10</pubDate>
-      <category>/Permitted Burns</category>
-      <georss:point>-23.309791 150.379547</georss:point>
-    </item>
-    <item>
-      <title>QF7-13-037656</title>
-      <description>Alert Level: Permitted Burn. Location: Ray Rd, Mareeba. Reported: 13/04/2013 1:43:07 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
-      <author>Queensland Fire &amp; Rescue Service</author>
-      <guid isPermaLink="true">QF7-13-037656</guid>
-      <pubDate>Sat, 13 Apr 2013 13:43:07 +10</pubDate>
-      <category>/Permitted Burns</category>
-      <georss:point>-17.02484 145.422532</georss:point>
-    </item>
-    <item>
-      <title>QF3-13-037684</title>
-      <description>Alert Level: Permitted Burn. Location: Killarney Rd, Morven. Reported: 13/04/2013 3:15:41 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
-      <author>Queensland Fire &amp; Rescue Service</author>
-      <guid isPermaLink="true">QF3-13-037684</guid>
-      <pubDate>Sat, 13 Apr 2013 15:15:41 +10</pubDate>
-      <category>/Permitted Burns</category>
-      <georss:point>-26.332095 147.10676</georss:point>
-    </item>
-    <item>
       <title>QF7-13-037724</title>
       <description>Alert Level: Permitted Burn. Location: Western View Cr, Millstream. Reported: 13/04/2013 5:44:09 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
       <author>Queensland Fire &amp; Rescue Service</author>
@@ -41,15 +14,6 @@
       <pubDate>Sat, 13 Apr 2013 17:44:09 +10</pubDate>
       <category>/Permitted Burns</category>
       <georss:point>-17.653688 145.408889</georss:point>
-    </item>
-    <item>
-      <title>QF4-13-037761</title>
-      <description>Alert Level: Permitted Burn. Location: River Heads Rd, River Heads. Reported: 13/04/2013 8:02:23 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
-      <author>Queensland Fire &amp; Rescue Service</author>
-      <guid isPermaLink="true">QF4-13-037761</guid>
-      <pubDate>Sat, 13 Apr 2013 20:02:23 +10</pubDate>
-      <category>/Permitted Burns</category>
-      <georss:point>-25.409684 152.908263</georss:point>
     </item>
     <item>
       <title>QF3-13-038035</title>
@@ -149,15 +113,6 @@
       <pubDate>Wed, 17 Apr 2013 09:39:49 +10</pubDate>
       <category>/Permitted Burns</category>
       <georss:point>-26.697606 151.655028</georss:point>
-    </item>
-    <item>
-      <title>QF2-13-038747</title>
-      <description>Alert Level: Permitted Burn. Location: Meldrum Rd, Glendale. Reported: 17/04/2013 10:25:03 AM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
-      <author>Queensland Fire &amp; Rescue Service</author>
-      <guid isPermaLink="true">QF2-13-038747</guid>
-      <pubDate>Wed, 17 Apr 2013 10:25:03 +10</pubDate>
-      <category>/Permitted Burns</category>
-      <georss:point>-23.236986 150.4796</georss:point>
     </item>
     <item>
       <title>QF4-13-039146</title>
@@ -358,15 +313,6 @@
       <georss:point>-28.198383 153.392746</georss:point>
     </item>
     <item>
-      <title>QF5N-13-040123</title>
-      <description>Alert Level: Permitted Burn. Location: Brompton Rd, The Gap. Reported: 21/04/2013 10:12:40 AM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
-      <author>Queensland Fire &amp; Rescue Service</author>
-      <guid isPermaLink="true">QF5N-13-040123</guid>
-      <pubDate>Sun, 21 Apr 2013 10:12:40 +10</pubDate>
-      <category>/Permitted Burns</category>
-      <georss:point>-27.425867 152.924772</georss:point>
-    </item>
-    <item>
       <title>QF2-13-040125</title>
       <description>Alert Level: Permitted Burn. Location: Old Ten Chain Rd, Calliope. Reported: 21/04/2013 10:16:54 AM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
       <author>Queensland Fire &amp; Rescue Service</author>
@@ -374,15 +320,6 @@
       <pubDate>Sun, 21 Apr 2013 10:16:54 +10</pubDate>
       <category>/Permitted Burns</category>
       <georss:point>-23.994155 151.243536</georss:point>
-    </item>
-    <item>
-      <title>QF2-13-040156</title>
-      <description>Alert Level: Permitted Burn. Location: Marlborough Sarina Rd, Blue Mountain. Reported: 21/04/2013 11:34:32 AM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
-      <author>Queensland Fire &amp; Rescue Service</author>
-      <guid isPermaLink="true">QF2-13-040156</guid>
-      <pubDate>Sun, 21 Apr 2013 11:34:32 +10</pubDate>
-      <category>/Permitted Burns</category>
-      <georss:point>-21.592154 149.070444</georss:point>
     </item>
     <item>
       <title>QF7-13-040164</title>
@@ -626,15 +563,6 @@
       <pubDate>Tue, 23 Apr 2013 13:33:23 +10</pubDate>
       <category>/Permitted Burns</category>
       <georss:point>-23.47551 148.312492</georss:point>
-    </item>
-    <item>
-      <title>QF2-13-040862</title>
-      <description>Alert Level: Permitted Burn. Location: Yakapari Seaforth Rd, Mount Jukes. Reported: 23/04/2013 1:49:20 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
-      <author>Queensland Fire &amp; Rescue Service</author>
-      <guid isPermaLink="true">QF2-13-040862</guid>
-      <pubDate>Tue, 23 Apr 2013 13:49:20 +10</pubDate>
-      <category>/Permitted Burns</category>
-      <georss:point>-20.994015 148.964081</georss:point>
     </item>
     <item>
       <title>QF2-13-040950</title>
@@ -1024,15 +952,6 @@
       <georss:point>-20.095286 146.27596</georss:point>
     </item>
     <item>
-      <title>QF5N-13-042207</title>
-      <description>Alert Level: Permitted Burn. Location: Montanus Dr, Woodford. Reported: 27/04/2013 10:13:20 AM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
-      <author>Queensland Fire &amp; Rescue Service</author>
-      <guid isPermaLink="true">QF5N-13-042207</guid>
-      <pubDate>Sat, 27 Apr 2013 10:13:20 +10</pubDate>
-      <category>/Permitted Burns</category>
-      <georss:point>-26.981622 152.766115</georss:point>
-    </item>
-    <item>
       <title>QF4-13-042268</title>
       <description>Alert Level: Permitted Burn. Location: Beacon Hill Rd, Kenilworth. Reported: 27/04/2013 1:55:57 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
       <author>Queensland Fire &amp; Rescue Service</author>
@@ -1168,15 +1087,6 @@
       <georss:point>-27.58833 152.260227</georss:point>
     </item>
     <item>
-      <title>QF1-13-042686</title>
-      <description>Alert Level: Permitted Burn. Location: Alligator Creek Rd, Alligator Creek. Reported: 28/04/2013 2:45:38 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
-      <author>Queensland Fire &amp; Rescue Service</author>
-      <guid isPermaLink="true">QF1-13-042686</guid>
-      <pubDate>Sun, 28 Apr 2013 14:45:38 +10</pubDate>
-      <category>/Permitted Burns</category>
-      <georss:point>-19.395497 146.948323</georss:point>
-    </item>
-    <item>
       <title>QF3-13-042714</title>
       <description>Alert Level: Permitted Burn. Location: Pinnacle Rd, Glenlyon. Reported: 28/04/2013 3:42:31 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
       <author>Queensland Fire &amp; Rescue Service</author>
@@ -1202,15 +1112,6 @@
       <pubDate>Sun, 28 Apr 2013 16:40:14 +10</pubDate>
       <category>/Permitted Burns</category>
       <georss:point>-17.112721 145.352731</georss:point>
-    </item>
-    <item>
-      <title>QF6-13-042741</title>
-      <description>Alert Level: Permitted Burn. Location: Holloway Rd, Chambers Flat. Reported: 28/04/2013 5:16:22 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
-      <author>Queensland Fire &amp; Rescue Service</author>
-      <guid isPermaLink="true">QF6-13-042741</guid>
-      <pubDate>Sun, 28 Apr 2013 17:16:22 +10</pubDate>
-      <category>/Permitted Burns</category>
-      <georss:point>-27.730494 153.078244</georss:point>
     </item>
     <item>
       <title>QF2-13-042748</title>
@@ -1627,15 +1528,6 @@
       <georss:point>-27.124209 152.742089</georss:point>
     </item>
     <item>
-      <title>QF7-13-044008</title>
-      <description>Alert Level: Permitted Burn. Location: Shaban Dr, Mareeba. Reported: 2/05/2013 11:06:56 AM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
-      <author>Queensland Fire &amp; Rescue Service</author>
-      <guid isPermaLink="true">QF7-13-044008</guid>
-      <pubDate>Thu, 02 May 2013 11:06:56 +10</pubDate>
-      <category>/Permitted Burns</category>
-      <georss:point>-17.044975 145.417054</georss:point>
-    </item>
-    <item>
       <title>QF2-13-044053</title>
       <description>Alert Level: Permitted Burn. Location: Tedlands Rd, Koumala. Reported: 2/05/2013 1:23:46 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
       <author>Queensland Fire &amp; Rescue Service</author>
@@ -1643,15 +1535,6 @@
       <pubDate>Thu, 02 May 2013 13:23:46 +10</pubDate>
       <category>/Permitted Burns</category>
       <georss:point>-21.614414 149.254035</georss:point>
-    </item>
-    <item>
-      <title>QF2-13-044054</title>
-      <description>Alert Level: Permitted Burn. Location: Brickworks Rd, Stanwell. Reported: 2/05/2013 1:28:04 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
-      <author>Queensland Fire &amp; Rescue Service</author>
-      <guid isPermaLink="true">QF2-13-044054</guid>
-      <pubDate>Thu, 02 May 2013 13:28:04 +10</pubDate>
-      <category>/Permitted Burns</category>
-      <georss:point>-23.518281 150.286111</georss:point>
     </item>
     <item>
       <title>QF3-13-044058</title>
@@ -1706,15 +1589,6 @@
       <pubDate>Thu, 02 May 2013 15:46:10 +10</pubDate>
       <category>/Permitted Burns</category>
       <georss:point>-28.082355 151.760116</georss:point>
-    </item>
-    <item>
-      <title>QF2-13-044145</title>
-      <description>Alert Level: Permitted Burn. Location: John Temple Dr, Eton. Reported: 2/05/2013 5:44:38 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
-      <author>Queensland Fire &amp; Rescue Service</author>
-      <guid isPermaLink="true">QF2-13-044145</guid>
-      <pubDate>Thu, 02 May 2013 17:44:38 +10</pubDate>
-      <category>/Permitted Burns</category>
-      <georss:point>-21.31033 148.934182</georss:point>
     </item>
     <item>
       <title>QF3-13-044146</title>
@@ -2185,15 +2059,6 @@
       <georss:point>-27.391591 152.136653</georss:point>
     </item>
     <item>
-      <title>QF2-13-044852</title>
-      <description>Alert Level: Permitted Burn. Location: Panoramic Dr, Sarina. Reported: 4/05/2013 3:44:38 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
-      <author>Queensland Fire &amp; Rescue Service</author>
-      <guid isPermaLink="true">QF2-13-044852</guid>
-      <pubDate>Sat, 04 May 2013 15:44:38 +10</pubDate>
-      <category>/Permitted Burns</category>
-      <georss:point>-21.403215 149.250914</georss:point>
-    </item>
-    <item>
       <title>QF4-13-044857</title>
       <description>Alert Level: Permitted Burn. Location: Wilson Lane, Woombye. Reported: 4/05/2013 3:53:15 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
       <author>Queensland Fire &amp; Rescue Service</author>
@@ -2374,15 +2239,6 @@
       <georss:point>-23.560051 150.473598</georss:point>
     </item>
     <item>
-      <title>QF4-13-045119</title>
-      <description>Alert Level: Permitted Burn. Location: Malar Cr, Booie. Reported: 5/05/2013 9:54:40 AM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
-      <author>Queensland Fire &amp; Rescue Service</author>
-      <guid isPermaLink="true">QF4-13-045119</guid>
-      <pubDate>Sun, 05 May 2013 09:54:40 +10</pubDate>
-      <category>/Permitted Burns</category>
-      <georss:point>-26.575363 151.971228</georss:point>
-    </item>
-    <item>
       <title>QF2-13-045175</title>
       <description>Alert Level: Permitted Burn. Location: Upper Ulam Rd, Bajool. Reported: 5/05/2013 12:29:25 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
       <author>Queensland Fire &amp; Rescue Service</author>
@@ -2399,15 +2255,6 @@
       <pubDate>Sun, 05 May 2013 12:47:57 +10</pubDate>
       <category>/Permitted Burns</category>
       <georss:point>-23.040113 150.645489</georss:point>
-    </item>
-    <item>
-      <title>QF2-13-045187</title>
-      <description>Alert Level: Permitted Burn. Location: Malvern Rd, Capella. Reported: 5/05/2013 12:58:16 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
-      <author>Queensland Fire &amp; Rescue Service</author>
-      <guid isPermaLink="true">QF2-13-045187</guid>
-      <pubDate>Sun, 05 May 2013 12:58:16 +10</pubDate>
-      <category>/Permitted Burns</category>
-      <georss:point>-23.06956 148.039154</georss:point>
     </item>
     <item>
       <title>QF4-13-045203</title>
@@ -2444,15 +2291,6 @@
       <pubDate>Sun, 05 May 2013 15:24:26 +10</pubDate>
       <category>/Permitted Burns</category>
       <georss:point>-26.354257 152.673458</georss:point>
-    </item>
-    <item>
-      <title>QF3-13-045248</title>
-      <description>Alert Level: Permitted Burn. Location: Springgate Lane &amp; Leyburn Cunningham Rd, Pratten. Reported: 5/05/2013 3:25:30 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
-      <author>Queensland Fire &amp; Rescue Service</author>
-      <guid isPermaLink="true">QF3-13-045248</guid>
-      <pubDate>Sun, 05 May 2013 15:25:30 +10</pubDate>
-      <category>/Permitted Burns</category>
-      <georss:point>-28.079726 151.779141</georss:point>
     </item>
     <item>
       <title>QF3-13-045255</title>
@@ -2498,15 +2336,6 @@
       <pubDate>Mon, 06 May 2013 06:12:59 +10</pubDate>
       <category>/Permitted Burns</category>
       <georss:point>-26.422095 146.381287</georss:point>
-    </item>
-    <item>
-      <title>QF2-13-045396</title>
-      <description>Alert Level: Permitted Burn. Location: Burnett Hwy, Prospect. Reported: 6/05/2013 8:55:45 AM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
-      <author>Queensland Fire &amp; Rescue Service</author>
-      <guid isPermaLink="true">QF2-13-045396</guid>
-      <pubDate>Mon, 06 May 2013 08:55:45 +10</pubDate>
-      <category>/Permitted Burns</category>
-      <georss:point>-24.422774 150.531017</georss:point>
     </item>
     <item>
       <title>QF3-13-045398</title>
@@ -2582,7 +2411,7 @@
     </item>
     <item>
       <title>QF3-13-045674</title>
-      <description>Alert Level: Permitted Burn. Location: Wiedman Rd &amp; Willow Springs Rd, Clifton. Reported: 7/05/2013 10:00:25 AM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
+      <description>Alert Level: Permitted Burn. Location: Wiedman Rd &amp; Willow Springs Rd, Clifton. Reported: 7/05/2013 10:00:25 AM. Current Status: Closed. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
       <author>Queensland Fire &amp; Rescue Service</author>
       <guid isPermaLink="true">QF3-13-045674</guid>
       <pubDate>Tue, 07 May 2013 10:00:25 +10</pubDate>
@@ -2615,15 +2444,6 @@
       <pubDate>Tue, 07 May 2013 10:32:02 +10</pubDate>
       <category>/Permitted Burns</category>
       <georss:point>-27.201877 152.083121</georss:point>
-    </item>
-    <item>
-      <title>QF7-13-045695</title>
-      <description>Alert Level: Permitted Burn. Location: Bolwarra Rd, Chillagoe. Reported: 7/05/2013 11:09:08 AM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
-      <author>Queensland Fire &amp; Rescue Service</author>
-      <guid isPermaLink="true">QF7-13-045695</guid>
-      <pubDate>Tue, 07 May 2013 11:09:08 +10</pubDate>
-      <category>/Permitted Burns</category>
-      <georss:point>-17.175589 144.50531</georss:point>
     </item>
     <item>
       <title>QF2-13-045737</title>
@@ -2842,6 +2662,15 @@
       <georss:point>-19.362431 147.033608</georss:point>
     </item>
     <item>
+      <title>QF7-13-046377</title>
+      <description>Alert Level: Permitted Burn. Location: Mareeba Dimbulah Rd, Paddys Green. Reported: 9/05/2013 4:49:35 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
+      <author>Queensland Fire &amp; Rescue Service</author>
+      <guid isPermaLink="true">QF7-13-046377</guid>
+      <pubDate>Thu, 09 May 2013 16:49:35 +10</pubDate>
+      <category>/Permitted Burns</category>
+      <georss:point>-17.015368 145.345593</georss:point>
+    </item>
+    <item>
       <title>QF2-13-046396</title>
       <description>Alert Level: Permitted Burn. Location: Connors Rd, Bakers Creek. Reported: 9/05/2013 5:37:00 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
       <author>Queensland Fire &amp; Rescue Service</author>
@@ -2885,15 +2714,6 @@
       <pubDate>Fri, 10 May 2013 11:13:53 +10</pubDate>
       <category>/Permitted Burns</category>
       <georss:point>-28.175323 152.035065</georss:point>
-    </item>
-    <item>
-      <title>QF5N-13-046622</title>
-      <description>Alert Level: Permitted Burn. Location: Oatlands Ct, Wights Mountain. Reported: 10/05/2013 3:14:33 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
-      <author>Queensland Fire &amp; Rescue Service</author>
-      <guid isPermaLink="true">QF5N-13-046622</guid>
-      <pubDate>Fri, 10 May 2013 15:14:33 +10</pubDate>
-      <category>/Permitted Burns</category>
-      <georss:point>-27.40055 152.843497</georss:point>
     </item>
     <item>
       <title>QF3-13-046665</title>
@@ -2950,15 +2770,6 @@
       <georss:point>-26.63513 152.900866</georss:point>
     </item>
     <item>
-      <title>QF4-13-046809</title>
-      <description>Alert Level: Permitted Burn. Location: Amamoor Creek Rd, Amamoor. Reported: 11/05/2013 8:26:25 AM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
-      <author>Queensland Fire &amp; Rescue Service</author>
-      <guid isPermaLink="true">QF4-13-046809</guid>
-      <pubDate>Sat, 11 May 2013 08:26:25 +10</pubDate>
-      <category>/Permitted Burns</category>
-      <georss:point>-26.348796 152.658201</georss:point>
-    </item>
-    <item>
       <title>QF6-13-046813</title>
       <description>Alert Level: Permitted Burn. Location: Beacon Rd, Tamborine Mountain. Reported: 11/05/2013 8:50:41 AM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
       <author>Queensland Fire &amp; Rescue Service</author>
@@ -2966,15 +2777,6 @@
       <pubDate>Sat, 11 May 2013 08:50:41 +10</pubDate>
       <category>/Permitted Burns</category>
       <georss:point>-27.921111 153.1625</georss:point>
-    </item>
-    <item>
-      <title>QF3-13-046825</title>
-      <description>Alert Level: Advice. Location: Palmtree Rd, Palmtree. Reported: 11/05/2013 9:37:59 AM. Current Status: Closed. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
-      <author>Queensland Fire &amp; Rescue Service</author>
-      <guid isPermaLink="true">QF3-13-046825</guid>
-      <pubDate>Sat, 11 May 2013 09:37:59 +10</pubDate>
-      <category>/Incidents/Closed</category>
-      <georss:point>-27.404468 152.119952</georss:point>
     </item>
     <item>
       <title>QF1-13-046851</title>
@@ -3013,15 +2815,6 @@
       <georss:point>-27.153344 150.488855</georss:point>
     </item>
     <item>
-      <title>QF2-13-047125</title>
-      <description>Alert Level: Permitted Burn. Location: Evans Av, North Mackay. Reported: 12/05/2013 5:41:27 AM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
-      <author>Queensland Fire &amp; Rescue Service</author>
-      <guid isPermaLink="true">QF2-13-047125</guid>
-      <pubDate>Sun, 12 May 2013 05:41:27 +10</pubDate>
-      <category>/Permitted Burns</category>
-      <georss:point>-21.122024 149.184746</georss:point>
-    </item>
-    <item>
       <title>QF4-13-047127</title>
       <description>Alert Level: Permitted Burn. Location: Saint Marys Rd, Pioneers Rest. Reported: 12/05/2013 5:58:17 AM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
       <author>Queensland Fire &amp; Rescue Service</author>
@@ -3058,24 +2851,6 @@
       <georss:point>-28.203545 152.153758</georss:point>
     </item>
     <item>
-      <title>QF1-13-047208</title>
-      <description>Alert Level: Advice. Location: Nineteenth Av, Kirwan. Reported: 12/05/2013 11:00:11 AM. Current Status: Closed. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
-      <author>Queensland Fire &amp; Rescue Service</author>
-      <guid isPermaLink="true">QF1-13-047208</guid>
-      <pubDate>Sun, 12 May 2013 11:00:11 +10</pubDate>
-      <category>/Incidents/Closed</category>
-      <georss:point>-19.31548 146.706727</georss:point>
-    </item>
-    <item>
-      <title>QF6-13-047221</title>
-      <description>Alert Level: Advice. Location: Fords Rd, Adare. Reported: 12/05/2013 11:57:29 AM. Current Status: Closed. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
-      <author>Queensland Fire &amp; Rescue Service</author>
-      <guid isPermaLink="true">QF6-13-047221</guid>
-      <pubDate>Sun, 12 May 2013 11:57:29 +10</pubDate>
-      <category>/Incidents/Closed</category>
-      <georss:point>-27.535096 152.254117</georss:point>
-    </item>
-    <item>
       <title>QF2-13-047227</title>
       <description>Alert Level: Permitted Burn. Location: Mineral Rd, Rosedale. Reported: 12/05/2013 12:15:46 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
       <author>Queensland Fire &amp; Rescue Service</author>
@@ -3083,15 +2858,6 @@
       <pubDate>Sun, 12 May 2013 12:15:46 +10</pubDate>
       <category>/Permitted Burns</category>
       <georss:point>-24.657251 151.898485</georss:point>
-    </item>
-    <item>
-      <title>QF6-13-047237</title>
-      <description>Alert Level: Permitted Burn. Location: Winema Dr, Tamborine Mountain. Reported: 12/05/2013 12:51:58 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
-      <author>Queensland Fire &amp; Rescue Service</author>
-      <guid isPermaLink="true">QF6-13-047237</guid>
-      <pubDate>Sun, 12 May 2013 12:51:58 +10</pubDate>
-      <category>/Permitted Burns</category>
-      <georss:point>-27.925463 153.171837</georss:point>
     </item>
     <item>
       <title>QF2-13-047238</title>
@@ -3103,6 +2869,15 @@
       <georss:point>-24.324325 151.545655</georss:point>
     </item>
     <item>
+      <title>QF3-13-047244</title>
+      <description>Alert Level: Permitted Burn. Location: Felton View Rd, Felton South. Reported: 12/05/2013 1:47:04 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
+      <author>Queensland Fire &amp; Rescue Service</author>
+      <guid isPermaLink="true">QF3-13-047244</guid>
+      <pubDate>Sun, 12 May 2013 13:47:04 +10</pubDate>
+      <category>/Permitted Burns</category>
+      <georss:point>-27.898602 151.722445</georss:point>
+    </item>
+    <item>
       <title>QF4-13-047245</title>
       <description>Alert Level: Permitted Burn. Location: Ninderry Rd, Yandina. Reported: 12/05/2013 1:48:50 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
       <author>Queensland Fire &amp; Rescue Service</author>
@@ -3110,24 +2885,6 @@
       <pubDate>Sun, 12 May 2013 13:48:50 +10</pubDate>
       <category>/Permitted Burns</category>
       <georss:point>-26.548907 152.959477</georss:point>
-    </item>
-    <item>
-      <title>QF6-13-047249</title>
-      <description>Alert Level: Advice. Location: Adare Rd, Adare. Reported: 12/05/2013 2:10:21 PM. Current Status: Closed. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
-      <author>Queensland Fire &amp; Rescue Service</author>
-      <guid isPermaLink="true">QF6-13-047249</guid>
-      <pubDate>Sun, 12 May 2013 14:10:21 +10</pubDate>
-      <category>/Incidents/Closed</category>
-      <georss:point>-27.51923 152.287606</georss:point>
-    </item>
-    <item>
-      <title>QF6-13-047258</title>
-      <description>Alert Level: Permitted Burn. Location: Fords Rd, Adare. Reported: 12/05/2013 3:17:08 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
-      <author>Queensland Fire &amp; Rescue Service</author>
-      <guid isPermaLink="true">QF6-13-047258</guid>
-      <pubDate>Sun, 12 May 2013 15:17:08 +10</pubDate>
-      <category>/Permitted Burns</category>
-      <georss:point>-27.535096 152.254117</georss:point>
     </item>
     <item>
       <title>QF3-13-047262</title>
@@ -3146,6 +2903,321 @@
       <pubDate>Sun, 12 May 2013 15:34:23 +10</pubDate>
       <category>/Permitted Burns</category>
       <georss:point>-26.262038 152.871408</georss:point>
+    </item>
+    <item>
+      <title>QF5N-13-047265</title>
+      <description>Alert Level: Permitted Burn. Location: Eaton Lane, Stony Creek. Reported: 12/05/2013 3:36:52 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
+      <author>Queensland Fire &amp; Rescue Service</author>
+      <guid isPermaLink="true">QF5N-13-047265</guid>
+      <pubDate>Sun, 12 May 2013 15:36:52 +10</pubDate>
+      <category>/Permitted Burns</category>
+      <georss:point>-26.906195 152.693243</georss:point>
+    </item>
+    <item>
+      <title>QF7-13-047283</title>
+      <description>Alert Level: Permitted Burn. Location: Hawkins Rd, Paddys Green. Reported: 12/05/2013 4:48:53 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
+      <author>Queensland Fire &amp; Rescue Service</author>
+      <guid isPermaLink="true">QF7-13-047283</guid>
+      <pubDate>Sun, 12 May 2013 16:48:53 +10</pubDate>
+      <category>/Permitted Burns</category>
+      <georss:point>-16.972231 145.32945</georss:point>
+    </item>
+    <item>
+      <title>QF5N-13-047298</title>
+      <description>Alert Level: Permitted Burn. Location: Schrodter Rd, Wamuran. Reported: 12/05/2013 5:19:58 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
+      <author>Queensland Fire &amp; Rescue Service</author>
+      <guid isPermaLink="true">QF5N-13-047298</guid>
+      <pubDate>Sun, 12 May 2013 17:19:58 +10</pubDate>
+      <category>/Permitted Burns</category>
+      <georss:point>-27.065903 152.876607</georss:point>
+    </item>
+    <item>
+      <title>QF1-13-047419</title>
+      <description>Alert Level: Permitted Burn. Location: Reeves Rd, Bowen. Reported: 13/05/2013 9:07:23 AM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
+      <author>Queensland Fire &amp; Rescue Service</author>
+      <guid isPermaLink="true">QF1-13-047419</guid>
+      <pubDate>Mon, 13 May 2013 09:07:23 +10</pubDate>
+      <category>/Permitted Burns</category>
+      <georss:point>-20.113633 148.149705</georss:point>
+    </item>
+    <item>
+      <title>QF1-13-047435</title>
+      <description>Alert Level: Permitted Burn. Location: Lyons Rd, Giru. Reported: 13/05/2013 9:31:22 AM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
+      <author>Queensland Fire &amp; Rescue Service</author>
+      <guid isPermaLink="true">QF1-13-047435</guid>
+      <pubDate>Mon, 13 May 2013 09:31:22 +10</pubDate>
+      <category>/Permitted Burns</category>
+      <georss:point>-19.495049 147.108116</georss:point>
+    </item>
+    <item>
+      <title>QF3-13-047436</title>
+      <description>Alert Level: Permitted Burn. Location: Boggabilla Lane, Goondiwindi. Reported: 13/05/2013 9:35:15 AM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
+      <author>Queensland Fire &amp; Rescue Service</author>
+      <guid isPermaLink="true">QF3-13-047436</guid>
+      <pubDate>Mon, 13 May 2013 09:35:15 +10</pubDate>
+      <category>/Permitted Burns</category>
+      <georss:point>-28.585435 150.40061</georss:point>
+    </item>
+    <item>
+      <title>QF3-13-047442</title>
+      <description>Alert Level: Permitted Burn. Location: Hursley Rd, Glenvale. Reported: 13/05/2013 9:49:24 AM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
+      <author>Queensland Fire &amp; Rescue Service</author>
+      <guid isPermaLink="true">QF3-13-047442</guid>
+      <pubDate>Mon, 13 May 2013 09:49:24 +10</pubDate>
+      <category>/Permitted Burns</category>
+      <georss:point>-27.551928 151.882835</georss:point>
+    </item>
+    <item>
+      <title>QF2-13-047447</title>
+      <description>Alert Level: Permitted Burn. Location: Capricorn Hwy, Barcaldine. Reported: 13/05/2013 10:11:46 AM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
+      <author>Queensland Fire &amp; Rescue Service</author>
+      <guid isPermaLink="true">QF2-13-047447</guid>
+      <pubDate>Mon, 13 May 2013 10:11:46 +10</pubDate>
+      <category>/Permitted Burns</category>
+      <georss:point>-23.555148 145.34149</georss:point>
+    </item>
+    <item>
+      <title>QF2-13-047452</title>
+      <description>Alert Level: Permitted Burn. Location: Saraji Rd, Dysart. Reported: 13/05/2013 10:27:16 AM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
+      <author>Queensland Fire &amp; Rescue Service</author>
+      <guid isPermaLink="true">QF2-13-047452</guid>
+      <pubDate>Mon, 13 May 2013 10:27:16 +10</pubDate>
+      <category>/Permitted Burns</category>
+      <georss:point>-22.478995 148.287963</georss:point>
+    </item>
+    <item>
+      <title>QF2-13-047454</title>
+      <description>Alert Level: Permitted Burn. Location: Hoare Rd, Alton Downs. Reported: 13/05/2013 10:36:45 AM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
+      <author>Queensland Fire &amp; Rescue Service</author>
+      <guid isPermaLink="true">QF2-13-047454</guid>
+      <pubDate>Mon, 13 May 2013 10:36:45 +10</pubDate>
+      <category>/Permitted Burns</category>
+      <georss:point>-23.340309 150.311952</georss:point>
+    </item>
+    <item>
+      <title>QF2-13-047461</title>
+      <description>Alert Level: Permitted Burn. Location: Rafting Ground Rd, Agnes Water. Reported: 13/05/2013 11:09:26 AM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
+      <author>Queensland Fire &amp; Rescue Service</author>
+      <guid isPermaLink="true">QF2-13-047461</guid>
+      <pubDate>Mon, 13 May 2013 11:09:26 +10</pubDate>
+      <category>/Permitted Burns</category>
+      <georss:point>-24.218752 151.878188</georss:point>
+    </item>
+    <item>
+      <title>QF3-13-047481</title>
+      <description>Alert Level: Advice. Location: New England Hwy, Spring Creek. Reported: 13/05/2013 12:17:01 PM. Current Status: Closed. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
+      <author>Queensland Fire &amp; Rescue Service</author>
+      <guid isPermaLink="true">QF3-13-047481</guid>
+      <pubDate>Mon, 13 May 2013 12:17:01 +10</pubDate>
+      <category>/Incidents/Closed</category>
+      <georss:point>-27.970296 151.998679</georss:point>
+    </item>
+    <item>
+      <title>QF3-13-047483</title>
+      <description>Alert Level: Permitted Burn. Location: Aerodrome Rd, Chinchilla. Reported: 13/05/2013 12:23:08 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
+      <author>Queensland Fire &amp; Rescue Service</author>
+      <guid isPermaLink="true">QF3-13-047483</guid>
+      <pubDate>Mon, 13 May 2013 12:23:08 +10</pubDate>
+      <category>/Permitted Burns</category>
+      <georss:point>-26.767635 150.632173</georss:point>
+    </item>
+    <item>
+      <title>QF4-13-047484</title>
+      <description>Alert Level: Advice. Location: David Low Way, Marcoola. Reported: 13/05/2013 12:28:58 PM. Current Status: Closed. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
+      <author>Queensland Fire &amp; Rescue Service</author>
+      <guid isPermaLink="true">QF4-13-047484</guid>
+      <pubDate>Mon, 13 May 2013 12:28:58 +10</pubDate>
+      <category>/Incidents/Closed</category>
+      <georss:point>-26.610764 153.092797</georss:point>
+    </item>
+    <item>
+      <title>QF1-13-047485</title>
+      <description>Alert Level: Advice. Location: Zingari Rd, Cloncurry. Reported: 13/05/2013 12:32:31 PM. Current Status: Closed. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
+      <author>Queensland Fire &amp; Rescue Service</author>
+      <guid isPermaLink="true">QF1-13-047485</guid>
+      <pubDate>Mon, 13 May 2013 12:32:31 +10</pubDate>
+      <category>/Incidents/Closed</category>
+      <georss:point>-20.481946 140.686554</georss:point>
+    </item>
+    <item>
+      <title>QF3-13-047488</title>
+      <description>Alert Level: Permitted Burn. Location: Doyle Rd, Clintonvale. Reported: 13/05/2013 12:44:28 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
+      <author>Queensland Fire &amp; Rescue Service</author>
+      <guid isPermaLink="true">QF3-13-047488</guid>
+      <pubDate>Mon, 13 May 2013 12:44:28 +10</pubDate>
+      <category>/Permitted Burns</category>
+      <georss:point>-28.089939 152.110551</georss:point>
+    </item>
+    <item>
+      <title>QF4-13-047489</title>
+      <description>Alert Level: Permitted Burn. Location: Scotchy Pocket Rd, Scotchy Pocket. Reported: 13/05/2013 12:44:16 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
+      <author>Queensland Fire &amp; Rescue Service</author>
+      <guid isPermaLink="true">QF4-13-047489</guid>
+      <pubDate>Mon, 13 May 2013 12:44:16 +10</pubDate>
+      <category>/Permitted Burns</category>
+      <georss:point>-26.013104 152.522978</georss:point>
+    </item>
+    <item>
+      <title>QF4-13-047493</title>
+      <description>Alert Level: Permitted Burn. Location: Skyring Creek Rd, Belli Park. Reported: 13/05/2013 1:00:38 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
+      <author>Queensland Fire &amp; Rescue Service</author>
+      <guid isPermaLink="true">QF4-13-047493</guid>
+      <pubDate>Mon, 13 May 2013 13:00:38 +10</pubDate>
+      <category>/Permitted Burns</category>
+      <georss:point>-26.488572 152.80256</georss:point>
+    </item>
+    <item>
+      <title>QF7-13-047495</title>
+      <description>Alert Level: Advice. Location: Borzi Rd, Mutchilba. Reported: 13/05/2013 1:04:44 PM. Current Status: Closed. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
+      <author>Queensland Fire &amp; Rescue Service</author>
+      <guid isPermaLink="true">QF7-13-047495</guid>
+      <pubDate>Mon, 13 May 2013 13:04:44 +10</pubDate>
+      <category>/Incidents/Closed</category>
+      <georss:point>-17.118018 145.307835</georss:point>
+    </item>
+    <item>
+      <title>QF5N-13-047501</title>
+      <description>Alert Level: Advice. Location: Cowah Rd, Kingaham. Reported: 13/05/2013 1:12:40 PM. Current Status: Closed. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
+      <author>Queensland Fire &amp; Rescue Service</author>
+      <guid isPermaLink="true">QF5N-13-047501</guid>
+      <pubDate>Mon, 13 May 2013 13:12:40 +10</pubDate>
+      <category>/Incidents/Closed</category>
+      <georss:point>-26.52144 152.339029</georss:point>
+    </item>
+    <item>
+      <title>QF3-13-047502</title>
+      <description>Alert Level: Permitted Burn. Location: Riverton Rd, Maidenhead. Reported: 13/05/2013 1:15:10 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
+      <author>Queensland Fire &amp; Rescue Service</author>
+      <guid isPermaLink="true">QF3-13-047502</guid>
+      <pubDate>Mon, 13 May 2013 13:15:10 +10</pubDate>
+      <category>/Permitted Burns</category>
+      <georss:point>-29.171492 151.376156</georss:point>
+    </item>
+    <item>
+      <title>QF5N-13-047515</title>
+      <description>Alert Level: Permitted Burn. Location: Pumicestone Rd &amp; Hume Rd, Toorbul. Reported: 13/05/2013 1:50:16 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
+      <author>Queensland Fire &amp; Rescue Service</author>
+      <guid isPermaLink="true">QF5N-13-047515</guid>
+      <pubDate>Mon, 13 May 2013 13:50:16 +10</pubDate>
+      <category>/Permitted Burns</category>
+      <georss:point>-27.029812 153.02498</georss:point>
+    </item>
+    <item>
+      <title>QF2-13-047523</title>
+      <description>Alert Level: Permitted Burn. Location: Pringle Rd, Woodwark. Reported: 13/05/2013 2:08:09 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
+      <author>Queensland Fire &amp; Rescue Service</author>
+      <guid isPermaLink="true">QF2-13-047523</guid>
+      <pubDate>Mon, 13 May 2013 14:08:09 +10</pubDate>
+      <category>/Permitted Burns</category>
+      <georss:point>-20.259518 148.672586</georss:point>
+    </item>
+    <item>
+      <title>QF2-13-047528</title>
+      <description>Alert Level: Permitted Burn. Location: Capricorn Hwy, Emerald. Reported: 13/05/2013 2:17:32 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
+      <author>Queensland Fire &amp; Rescue Service</author>
+      <guid isPermaLink="true">QF2-13-047528</guid>
+      <pubDate>Mon, 13 May 2013 14:17:32 +10</pubDate>
+      <category>/Permitted Burns</category>
+      <georss:point>-23.554402 148.251333</georss:point>
+    </item>
+    <item>
+      <title>QF2-13-047539</title>
+      <description>Alert Level: Permitted Burn. Location: Ferry Rd, Rosedale. Reported: 13/05/2013 2:54:05 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
+      <author>Queensland Fire &amp; Rescue Service</author>
+      <guid isPermaLink="true">QF2-13-047539</guid>
+      <pubDate>Mon, 13 May 2013 14:54:05 +10</pubDate>
+      <category>/Permitted Burns</category>
+      <georss:point>-24.515575 151.910529</georss:point>
+    </item>
+    <item>
+      <title>QF4-13-047548</title>
+      <description>Alert Level: Permitted Burn. Location: Whites Rd, Horton. Reported: 13/05/2013 3:15:26 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
+      <author>Queensland Fire &amp; Rescue Service</author>
+      <guid isPermaLink="true">QF4-13-047548</guid>
+      <pubDate>Mon, 13 May 2013 15:15:26 +10</pubDate>
+      <category>/Permitted Burns</category>
+      <georss:point>-25.228078 152.319841</georss:point>
+    </item>
+    <item>
+      <title>QF5N-13-047561</title>
+      <description>Alert Level: Permitted Burn. Location: Oatlands Ct, Wights Mountain. Reported: 13/05/2013 3:47:42 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
+      <author>Queensland Fire &amp; Rescue Service</author>
+      <guid isPermaLink="true">QF5N-13-047561</guid>
+      <pubDate>Mon, 13 May 2013 15:47:42 +10</pubDate>
+      <category>/Permitted Burns</category>
+      <georss:point>-27.40055 152.843497</georss:point>
+    </item>
+    <item>
+      <title>QF3-13-047562</title>
+      <description>Alert Level: Permitted Burn. Location: Gore Hwy, Millmerran. Reported: 13/05/2013 3:48:33 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
+      <author>Queensland Fire &amp; Rescue Service</author>
+      <guid isPermaLink="true">QF3-13-047562</guid>
+      <pubDate>Mon, 13 May 2013 15:48:33 +10</pubDate>
+      <category>/Permitted Burns</category>
+      <georss:point>-27.872137 151.277254</georss:point>
+    </item>
+    <item>
+      <title>QF3-13-047563</title>
+      <description>Alert Level: Permitted Burn. Location: Gore Hwy, Brookstead. Reported: 13/05/2013 3:52:52 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
+      <author>Queensland Fire &amp; Rescue Service</author>
+      <guid isPermaLink="true">QF3-13-047563</guid>
+      <pubDate>Mon, 13 May 2013 15:52:52 +10</pubDate>
+      <category>/Permitted Burns</category>
+      <georss:point>-27.757658 151.489399</georss:point>
+    </item>
+    <item>
+      <title>QF3-13-047567</title>
+      <description>Alert Level: Permitted Burn. Location: Ross Rd, Weranga. Reported: 13/05/2013 4:02:58 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
+      <author>Queensland Fire &amp; Rescue Service</author>
+      <guid isPermaLink="true">QF3-13-047567</guid>
+      <pubDate>Mon, 13 May 2013 16:02:58 +10</pubDate>
+      <category>/Permitted Burns</category>
+      <georss:point>-27.28258 150.731468</georss:point>
+    </item>
+    <item>
+      <title>QF3-13-047568</title>
+      <description>Alert Level: Advice. Location: Ross Rd, Weranga. Reported: 13/05/2013 4:04:45 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
+      <author>Queensland Fire &amp; Rescue Service</author>
+      <guid isPermaLink="true">QF3-13-047568</guid>
+      <pubDate>Mon, 13 May 2013 16:04:45 +10</pubDate>
+      <category>/Incidents/Open</category>
+      <georss:point>-27.28258 150.731468</georss:point>
+    </item>
+    <item>
+      <title>QF2-13-047570</title>
+      <description>Alert Level: Permitted Burn. Location: Landsdowne Rd, West Mackay. Reported: 13/05/2013 4:12:42 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
+      <author>Queensland Fire &amp; Rescue Service</author>
+      <guid isPermaLink="true">QF2-13-047570</guid>
+      <pubDate>Mon, 13 May 2013 16:12:42 +10</pubDate>
+      <category>/Permitted Burns</category>
+      <georss:point>-21.151563 149.151416</georss:point>
+    </item>
+    <item>
+      <title>QF2-13-047580</title>
+      <description>Alert Level: Advice. Location: Lowmead Rd, Lowmead. Reported: 13/05/2013 4:46:30 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
+      <author>Queensland Fire &amp; Rescue Service</author>
+      <guid isPermaLink="true">QF2-13-047580</guid>
+      <pubDate>Mon, 13 May 2013 16:46:30 +10</pubDate>
+      <category>/Incidents/Open</category>
+      <georss:point>-24.552916 151.782213</georss:point>
+    </item>
+    <item>
+      <title>QF2-13-047589</title>
+      <description>Alert Level: Advice. Location: Nott St, Moura. Reported: 13/05/2013 5:03:06 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
+      <author>Queensland Fire &amp; Rescue Service</author>
+      <guid isPermaLink="true">QF2-13-047589</guid>
+      <pubDate>Mon, 13 May 2013 17:03:06 +10</pubDate>
+      <category>/Incidents/Open</category>
+      <georss:point>-24.575604 149.974668</georss:point>
+    </item>
+    <item>
+      <title>QF1-13-047590</title>
+      <description>Alert Level: Permitted Burn. Location: Mount Elliot Dr, Alligator Creek. Reported: 13/05/2013 5:06:06 PM. Current Status: Going. Details: A fire or other emergency has started in the area however there is no immediate threat.</description>
+      <author>Queensland Fire &amp; Rescue Service</author>
+      <guid isPermaLink="true">QF1-13-047590</guid>
+      <pubDate>Mon, 13 May 2013 17:06:06 +10</pubDate>
+      <category>/Permitted Burns</category>
+      <georss:point>-19.421641 146.939013</georss:point>
     </item>
   </channel>
 </rss>
