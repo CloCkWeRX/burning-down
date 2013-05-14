@@ -9,6 +9,10 @@
       <has-kv k="landuse"/>
       <bbox-query n="" s="" e="" w=""/>
     </query>
+    <query type="way">
+      <has-kv k="waterway"/>
+      <bbox-query n="" s="" e="" w=""/>
+    </query>    
   </union>
 
   <union>
