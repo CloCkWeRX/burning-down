@@ -32,11 +32,9 @@
         maxZoom: 18
     }).addTo(map);
 
-    $.ajax({
-      url: 'output.json',
-      success: function(payload) {
-        var data = JSON.parse(payload);
-
+    $.getJSON(
+      'output.json',
+      function(data) {
         $.each(data, function (n, item) {
           if (item.lat && item.long) {
             var marker = L.marker([item.lat, item.long]).addTo(map);
@@ -44,14 +42,11 @@
             marker.bindPopup(item.description);
           }
         });
-      }
-    });
+      });
 
-    $.ajax({
-      url: 'areas.json',
-      success: function(payload) {
-        var data = JSON.parse(payload);
-
+    $.getJSON(
+      'areas.json',
+      function(data) {
         $.each(data, function (n, item) {
           var polygon = L.polygon(item.nodes, {color: 'orange'}).addTo(map);
 
@@ -60,8 +55,7 @@
           }
 
         });
-      }
-    });    
+      });
 
     </script>  
     <div class="copyright">  
