@@ -2,1492 +2,1132 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Sentinel Hostspots</title>
-<description>Sentinel Hotspots as at Mon, 13 May 2013 12:18:32 GMT</description>
+<description>Sentinel Hotspots as at Fri, 17 May 2013 06:00:35 GMT</description>
 <link>http://sentinel.ga.gov.au</link><language>en-AU</language>
 <webMaster>sentinel@ga.gov.au</webMaster>
 <docs>http://www.rssboard.org/rss-specification</docs>
 <atom:link href="http://sentinel.ga.gov.au/RSS/sentinelrss.xml" rel="self" type="application/rss+xml" />
-<pubDate>Mon, 13 May 2013 12:18:32 GMT</pubDate>
+<pubDate>Fri, 17 May 2013 06:00:35 GMT</pubDate>
 <ttl>30</ttl>
 <item>
-<title>12.637S 132.197E</title>
+<title>15.205S 130.521E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:aef1d4620e389d551b0330a4e22bac28</guid>
-<pubDate>Mon, 13 May 2013 04:31:00 GMT</pubDate>
+<guid isPermaLink="false">tag:780747545f6c467933e0c8c48f916a76</guid>
+<pubDate>Fri, 17 May 2013 05:43:20 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -12.637 132.197<br/>TEMPERATURE: 47.5C<br/>CONFIDENCE: 73%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:31:00Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -15.205 130.521<br/>TEMPERATURE: 41.8C<br/>CONFIDENCE: 47%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T05:43:20Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-12.637 132.197</georss:point>
+<georss:point>-15.205 130.521</georss:point>
 </item>
 <item>
-<title>12.639S 132.202E</title>
+<title>15.193S 130.550E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:21ebd7e043fcc941b35cadda92cb446b</guid>
-<pubDate>Mon, 13 May 2013 04:31:00 GMT</pubDate>
+<guid isPermaLink="false">tag:dc80c4db897191f305b7beb24978262e</guid>
+<pubDate>Fri, 17 May 2013 05:43:20 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -12.639 132.202<br/>TEMPERATURE: 50.0C<br/>CONFIDENCE: 76%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:31:00Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -15.193 130.550<br/>TEMPERATURE: 43.8C<br/>CONFIDENCE: 45%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T05:43:20Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-12.639 132.202</georss:point>
+<georss:point>-15.193 130.550</georss:point>
 </item>
 <item>
-<title>12.414S 130.964E</title>
+<title>31.989S 116.300E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:f6e37db54ecefc4f1ce23b55d8691f7c</guid>
-<pubDate>Mon, 13 May 2013 04:31:00 GMT</pubDate>
+<guid isPermaLink="false">tag:614bb9f4f75505b12a9ff9134184d648</guid>
+<pubDate>Fri, 17 May 2013 05:39:40 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -12.414 130.964<br/>TEMPERATURE: 44.0C<br/>CONFIDENCE: 62%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:31:00Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -31.989 116.300<br/>TEMPERATURE: 47.8C<br/>CONFIDENCE: 73%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T05:39:40Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-12.414 130.964</georss:point>
+<georss:point>-31.989 116.300</georss:point>
 </item>
 <item>
-<title>12.411S 130.986E</title>
+<title>31.986S 116.326E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:d49880532d4c1fa8806bfe1fa244e3ea</guid>
-<pubDate>Mon, 13 May 2013 04:31:00 GMT</pubDate>
+<guid isPermaLink="false">tag:c35ef5c3548e8d86bc146b42728eae83</guid>
+<pubDate>Fri, 17 May 2013 05:39:40 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -12.411 130.986<br/>TEMPERATURE: 41.7C<br/>CONFIDENCE: 47%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:31:00Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -31.986 116.326<br/>TEMPERATURE: 51.7C<br/>CONFIDENCE: 78%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T05:39:40Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-12.411 130.986</georss:point>
+<georss:point>-31.986 116.326</georss:point>
 </item>
 <item>
-<title>12.407S 130.968E</title>
+<title>31.975S 116.298E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:0addbbd3210f70ab3d1bdd982da6909e</guid>
-<pubDate>Mon, 13 May 2013 04:31:00 GMT</pubDate>
+<guid isPermaLink="false">tag:246e63f0bccbcdf5c95410f0973e6d26</guid>
+<pubDate>Fri, 17 May 2013 05:39:40 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -12.407 130.968<br/>TEMPERATURE: 47.7C<br/>CONFIDENCE: 73%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:31:00Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -31.975 116.298<br/>TEMPERATURE: 63.9C<br/>CONFIDENCE: 88%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T05:39:40Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-12.407 130.968</georss:point>
+<georss:point>-31.975 116.298</georss:point>
 </item>
 <item>
-<title>13.339S 131.784E</title>
+<title>31.964S 116.273E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:fc22014ae8639461377c53499a9dc876</guid>
-<pubDate>Mon, 13 May 2013 04:30:50 GMT</pubDate>
+<guid isPermaLink="false">tag:d7ad06cd684b6544ff9635336892b043</guid>
+<pubDate>Fri, 17 May 2013 05:39:40 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -13.339 131.784<br/>TEMPERATURE: 45.9C<br/>CONFIDENCE: 67%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:30:50Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -31.964 116.273<br/>TEMPERATURE: 68.7C<br/>CONFIDENCE: 65%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T05:39:40Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-13.339 131.784</georss:point>
+<georss:point>-31.964 116.273</georss:point>
 </item>
 <item>
-<title>13.084S 132.948E</title>
+<title>31.962S 116.297E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:a67833ed68437125b1a4fe7c8a364744</guid>
-<pubDate>Mon, 13 May 2013 04:30:50 GMT</pubDate>
+<guid isPermaLink="false">tag:9e4965067b3a496119780f40c52b5dd6</guid>
+<pubDate>Fri, 17 May 2013 05:39:40 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -13.084 132.948<br/>TEMPERATURE: 47.3C<br/>CONFIDENCE: 44%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:30:50Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -31.962 116.297<br/>TEMPERATURE: 79.9C<br/>CONFIDENCE: 97%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T05:39:40Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-13.084 132.948</georss:point>
+<georss:point>-31.962 116.297</georss:point>
 </item>
 <item>
-<title>13.078S 132.942E</title>
+<title>31.950S 116.271E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:c724dd30685b746c3e85540f768ba7bf</guid>
-<pubDate>Mon, 13 May 2013 04:30:50 GMT</pubDate>
+<guid isPermaLink="false">tag:2d8d69f3724e3a579e3ba5f353f40c59</guid>
+<pubDate>Fri, 17 May 2013 05:39:40 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -13.078 132.942<br/>TEMPERATURE: 57.3C<br/>CONFIDENCE: 83%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:30:50Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -31.950 116.271<br/>TEMPERATURE: 67.2C<br/>CONFIDENCE: 68%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T05:39:40Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-13.078 132.942</georss:point>
+<georss:point>-31.950 116.271</georss:point>
 </item>
 <item>
-<title>13.072S 132.947E</title>
+<title>32.813S 121.219E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:104fff1dcb226653507e905046a35e49</guid>
-<pubDate>Mon, 13 May 2013 04:30:50 GMT</pubDate>
+<guid isPermaLink="false">tag:7bfa513cfb45e3de2e67327a84c54935</guid>
+<pubDate>Fri, 17 May 2013 05:39:20 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -13.072 132.947<br/>TEMPERATURE: 52.4C<br/>CONFIDENCE: 68%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:30:50Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -32.813 121.219<br/>TEMPERATURE: 42.7C<br/>CONFIDENCE: 64%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T05:39:20Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-13.072 132.947</georss:point>
+<georss:point>-32.813 121.219</georss:point>
 </item>
 <item>
-<title>12.954S 132.716E</title>
+<title>16.866S 136.866E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:494f700ce43c8a61760e952c738c0f49</guid>
-<pubDate>Mon, 13 May 2013 04:30:50 GMT</pubDate>
+<guid isPermaLink="false">tag:242689688ef62064919af9265dcd6de4</guid>
+<pubDate>Fri, 17 May 2013 04:05:10 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -12.954 132.716<br/>TEMPERATURE: 44.5C<br/>CONFIDENCE: 42%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:30:50Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.866 136.866<br/>TEMPERATURE: 62.1C<br/>CONFIDENCE: 87%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:05:10Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-12.954 132.716</georss:point>
+<georss:point>-16.866 136.866</georss:point>
 </item>
 <item>
-<title>14.156S 131.009E</title>
+<title>16.863S 136.751E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:3904c0d1c5246b2fa2314fcf89d9c235</guid>
-<pubDate>Mon, 13 May 2013 04:30:40 GMT</pubDate>
+<guid isPermaLink="false">tag:205c6f1932bbb54c50c32437daa6cc53</guid>
+<pubDate>Fri, 17 May 2013 04:05:10 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -14.156 131.009<br/>TEMPERATURE: 63.8C<br/>CONFIDENCE: 88%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:30:40Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.863 136.751<br/>TEMPERATURE: 50.6C<br/>CONFIDENCE: 63%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:05:10Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-14.156 131.009</georss:point>
+<georss:point>-16.863 136.751</georss:point>
 </item>
 <item>
-<title>14.150S 131.001E</title>
+<title>16.863S 136.894E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:423af6f8f9c71caf39710a121f1f1cb6</guid>
-<pubDate>Mon, 13 May 2013 04:30:40 GMT</pubDate>
+<guid isPermaLink="false">tag:fb9a68171cacee0a9284dfb7fecdf30a</guid>
+<pubDate>Fri, 17 May 2013 04:05:10 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -14.150 131.001<br/>TEMPERATURE: 54.9C<br/>CONFIDENCE: 81%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:30:40Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.863 136.894<br/>TEMPERATURE: 46.2C<br/>CONFIDENCE: 71%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:05:10Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-14.150 131.001</georss:point>
+<georss:point>-16.863 136.894</georss:point>
 </item>
 <item>
-<title>14.147S 131.026E</title>
+<title>16.850S 136.744E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:97b9fbde1d20d2e2bac2c7220a59e2b6</guid>
-<pubDate>Mon, 13 May 2013 04:30:40 GMT</pubDate>
+<guid isPermaLink="false">tag:51e58713cca1772c324618a87c3c2528</guid>
+<pubDate>Fri, 17 May 2013 04:05:10 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -14.147 131.026<br/>TEMPERATURE: 51.7C<br/>CONFIDENCE: 78%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:30:40Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.850 136.744<br/>TEMPERATURE: 50.5C<br/>CONFIDENCE: 53%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:05:10Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-14.147 131.026</georss:point>
+<georss:point>-16.850 136.744</georss:point>
 </item>
 <item>
-<title>14.000S 131.027E</title>
+<title>16.848S 136.749E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:b0e2850271202cd7fbdbe43ac5444893</guid>
-<pubDate>Mon, 13 May 2013 04:30:40 GMT</pubDate>
+<guid isPermaLink="false">tag:db68bccccbe9c80a57f181467924955b</guid>
+<pubDate>Fri, 17 May 2013 04:05:10 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -14.000 131.027<br/>TEMPERATURE: 54.2C<br/>CONFIDENCE: 80%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:30:40Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.848 136.749<br/>TEMPERATURE: 54.8C<br/>CONFIDENCE: 81%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:05:10Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-14.000 131.027</georss:point>
+<georss:point>-16.848 136.749</georss:point>
 </item>
 <item>
-<title>13.989S 132.235E</title>
+<title>16.835S 136.742E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:26759fd637f223ec213f2933d1afb231</guid>
-<pubDate>Mon, 13 May 2013 04:30:40 GMT</pubDate>
+<guid isPermaLink="false">tag:24ae5d0b8a415d240773b42517f6f9ba</guid>
+<pubDate>Fri, 17 May 2013 04:05:10 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -13.989 132.235<br/>TEMPERATURE: 46.2C<br/>CONFIDENCE: 67%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:30:40Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.835 136.742<br/>TEMPERATURE: 56.6C<br/>CONFIDENCE: 82%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:05:10Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-13.989 132.235</georss:point>
+<georss:point>-16.835 136.742</georss:point>
 </item>
 <item>
-<title>13.985S 132.247E</title>
+<title>16.833S 136.747E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:dc5bd1d86e8ce7d1d600334a0418224b</guid>
-<pubDate>Mon, 13 May 2013 04:30:40 GMT</pubDate>
+<guid isPermaLink="false">tag:25d6a00b502e5ea10e99ae29fc272b75</guid>
+<pubDate>Fri, 17 May 2013 04:05:10 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -13.985 132.247<br/>TEMPERATURE: 41.0C<br/>CONFIDENCE: 51%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:30:40Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.833 136.747<br/>TEMPERATURE: 58.4C<br/>CONFIDENCE: 84%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:05:10Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-13.985 132.247</georss:point>
+<georss:point>-16.833 136.747</georss:point>
 </item>
 <item>
-<title>13.962S 131.119E</title>
+<title>16.832S 136.772E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:a5bae055d316d99d78d5dc693b85b303</guid>
-<pubDate>Mon, 13 May 2013 04:30:40 GMT</pubDate>
+<guid isPermaLink="false">tag:eaf44f51776d257ce984775ae5ac0e54</guid>
+<pubDate>Fri, 17 May 2013 04:05:10 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -13.962 131.119<br/>TEMPERATURE: 48.6C<br/>CONFIDENCE: 64%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:30:40Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.832 136.772<br/>TEMPERATURE: 57.8C<br/>CONFIDENCE: 82%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:05:10Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-13.962 131.119</georss:point>
+<georss:point>-16.832 136.772</georss:point>
 </item>
 <item>
-<title>13.937S 131.091E</title>
+<title>16.704S 136.691E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:df65f40426c054a0e0fe81fe266d8e2c</guid>
-<pubDate>Mon, 13 May 2013 04:30:40 GMT</pubDate>
+<guid isPermaLink="false">tag:c699c29e105ae1fbeb82b8522dc1d9c1</guid>
+<pubDate>Fri, 17 May 2013 04:05:10 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -13.937 131.091<br/>TEMPERATURE: 59.5C<br/>CONFIDENCE: 85%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:30:40Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.704 136.691<br/>TEMPERATURE: 48.5C<br/>CONFIDENCE: 74%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:05:10Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-13.937 131.091</georss:point>
+<georss:point>-16.704 136.691</georss:point>
 </item>
 <item>
-<title>13.798S 132.523E</title>
+<title>16.661S 136.681E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:cf9e6573b35b1d3dbd89b49b79803527</guid>
-<pubDate>Mon, 13 May 2013 04:30:40 GMT</pubDate>
+<guid isPermaLink="false">tag:91acca424a02f37799b9908b788839d6</guid>
+<pubDate>Fri, 17 May 2013 04:05:10 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -13.798 132.523<br/>TEMPERATURE: 46.2C<br/>CONFIDENCE: 65%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:30:40Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.661 136.681<br/>TEMPERATURE: 46.7C<br/>CONFIDENCE: 54%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:05:10Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-13.798 132.523</georss:point>
+<georss:point>-16.661 136.681</georss:point>
 </item>
 <item>
-<title>13.765S 132.482E</title>
+<title>16.659S 136.685E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:f72ad3110e879a2f982a82a6bd8fbc55</guid>
-<pubDate>Mon, 13 May 2013 04:30:40 GMT</pubDate>
+<guid isPermaLink="false">tag:95fbdb8c0299ad279e12661b0be9c6f6</guid>
+<pubDate>Fri, 17 May 2013 04:05:10 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -13.765 132.482<br/>TEMPERATURE: 65.0C<br/>CONFIDENCE: 84%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:30:40Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.659 136.685<br/>TEMPERATURE: 51.8C<br/>CONFIDENCE: 72%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:05:10Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-13.765 132.482</georss:point>
+<georss:point>-16.659 136.685</georss:point>
 </item>
 <item>
-<title>13.640S 131.988E</title>
+<title>16.658S 136.710E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:5b4a3bc213117bb0f6e9cb5f78d63547</guid>
-<pubDate>Mon, 13 May 2013 04:30:40 GMT</pubDate>
+<guid isPermaLink="false">tag:2c90201f69f74fffcc892804a980fcb4</guid>
+<pubDate>Fri, 17 May 2013 04:05:10 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -13.640 131.988<br/>TEMPERATURE: 60.5C<br/>CONFIDENCE: 81%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:30:40Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.658 136.710<br/>TEMPERATURE: 52.3C<br/>CONFIDENCE: 49%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:05:10Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-13.640 131.988</georss:point>
+<georss:point>-16.658 136.710</georss:point>
 </item>
 <item>
-<title>13.638S 132.001E</title>
+<title>16.636S 136.766E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:4a68569fb866b12f5cea3263d903519e</guid>
-<pubDate>Mon, 13 May 2013 04:30:40 GMT</pubDate>
+<guid isPermaLink="false">tag:0ff3deba9bcdaea8507fcf346dbf958e</guid>
+<pubDate>Fri, 17 May 2013 04:05:10 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -13.638 132.001<br/>TEMPERATURE: 63.7C<br/>CONFIDENCE: 88%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:30:40Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.636 136.766<br/>TEMPERATURE: 51.3C<br/>CONFIDENCE: 78%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:05:10Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-13.638 132.001</georss:point>
+<georss:point>-16.636 136.766</georss:point>
 </item>
 <item>
-<title>13.638S 132.008E</title>
+<title>16.635S 136.770E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:8c79d2f63069b646174a38770dd65594</guid>
-<pubDate>Mon, 13 May 2013 04:30:40 GMT</pubDate>
+<guid isPermaLink="false">tag:7d6409d54bb698153f8b823c7719ffc7</guid>
+<pubDate>Fri, 17 May 2013 04:05:10 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -13.638 132.008<br/>TEMPERATURE: 51.4C<br/>CONFIDENCE: 57%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:30:40Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.635 136.770<br/>TEMPERATURE: 52.1C<br/>CONFIDENCE: 48%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:05:10Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-13.638 132.008</georss:point>
+<georss:point>-16.635 136.770</georss:point>
 </item>
 <item>
-<title>13.615S 132.931E</title>
+<title>16.612S 136.705E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:268556433276f7ab020c5ddc5869ecfb</guid>
-<pubDate>Mon, 13 May 2013 04:30:40 GMT</pubDate>
+<guid isPermaLink="false">tag:641313e3260a5e9859d3db31b482914e</guid>
+<pubDate>Fri, 17 May 2013 04:05:10 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -13.615 132.931<br/>TEMPERATURE: 45.7C<br/>CONFIDENCE: 58%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:30:40Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.612 136.705<br/>TEMPERATURE: 68.7C<br/>CONFIDENCE: 91%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:05:10Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-13.615 132.931</georss:point>
+<georss:point>-16.612 136.705</georss:point>
 </item>
 <item>
-<title>13.552S 132.599E</title>
+<title>16.585S 136.546E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:1039537386dd75f3b290fc35818138f2</guid>
-<pubDate>Mon, 13 May 2013 04:30:40 GMT</pubDate>
+<guid isPermaLink="false">tag:be57f434046a6b7fd25b9459f757f71e</guid>
+<pubDate>Fri, 17 May 2013 04:05:10 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -13.552 132.599<br/>TEMPERATURE: 66.8C<br/>CONFIDENCE: 90%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:30:40Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.585 136.546<br/>TEMPERATURE: 44.4C<br/>CONFIDENCE: 67%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:05:10Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-13.552 132.599</georss:point>
+<georss:point>-16.585 136.546</georss:point>
 </item>
 <item>
-<title>13.542S 132.580E</title>
+<title>16.538S 136.834E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:8cc8bc6ed1c9963dbca6a1110aa24d16</guid>
-<pubDate>Mon, 13 May 2013 04:30:40 GMT</pubDate>
+<guid isPermaLink="false">tag:704c40c7c24163b218c796f834604923</guid>
+<pubDate>Fri, 17 May 2013 04:05:10 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -13.542 132.580<br/>TEMPERATURE: 60.3C<br/>CONFIDENCE: 81%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:30:40Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.538 136.834<br/>TEMPERATURE: 45.0C<br/>CONFIDENCE: 69%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:05:10Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-13.542 132.580</georss:point>
+<georss:point>-16.538 136.834</georss:point>
 </item>
 <item>
-<title>13.540S 132.597E</title>
+<title>16.532S 136.747E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:c7780480ae083cc65cb8516643aab2e0</guid>
-<pubDate>Mon, 13 May 2013 04:30:40 GMT</pubDate>
+<guid isPermaLink="false">tag:d829e792cc0d5bc88bfacfed4c7dcf05</guid>
+<pubDate>Fri, 17 May 2013 04:05:10 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -13.540 132.597<br/>TEMPERATURE: 58.4C<br/>CONFIDENCE: 84%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:30:40Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.532 136.747<br/>TEMPERATURE: 51.8C<br/>CONFIDENCE: 43%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:05:10Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-13.540 132.597</georss:point>
+<georss:point>-16.532 136.747</georss:point>
 </item>
 <item>
-<title>13.434S 132.388E</title>
+<title>16.490S 136.590E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:77dbe711c29845cafae3f6652e1d571f</guid>
-<pubDate>Mon, 13 May 2013 04:30:40 GMT</pubDate>
+<guid isPermaLink="false">tag:db642c90e691022b7f91d133a05307de</guid>
+<pubDate>Fri, 17 May 2013 04:05:10 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -13.434 132.388<br/>TEMPERATURE: 49.1C<br/>CONFIDENCE: 50%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:30:40Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.490 136.590<br/>TEMPERATURE: 41.4C<br/>CONFIDENCE: 47%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:05:10Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-13.434 132.388</georss:point>
+<georss:point>-16.490 136.590</georss:point>
 </item>
 <item>
-<title>13.436S 132.396E</title>
+<title>16.495S 136.679E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:3b449722429454c5274bfed4f9bc021f</guid>
-<pubDate>Mon, 13 May 2013 04:30:40 GMT</pubDate>
+<guid isPermaLink="false">tag:cb0b3d0129865bc4a3d1e96ca4e0dbc0</guid>
+<pubDate>Fri, 17 May 2013 04:05:10 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -13.436 132.396<br/>TEMPERATURE: 49.4C<br/>CONFIDENCE: 65%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:30:40Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.495 136.679<br/>TEMPERATURE: 49.2C<br/>CONFIDENCE: 53%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:05:10Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-13.436 132.396</georss:point>
+<georss:point>-16.495 136.679</georss:point>
 </item>
 <item>
-<title>13.424S 132.394E</title>
+<title>16.493S 136.684E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:18156148e965a6dbb08b3c30f022659f</guid>
-<pubDate>Mon, 13 May 2013 04:30:40 GMT</pubDate>
+<guid isPermaLink="false">tag:5ddaba482f94c524f8b1e584a470bb23</guid>
+<pubDate>Fri, 17 May 2013 04:05:10 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -13.424 132.394<br/>TEMPERATURE: 54.0C<br/>CONFIDENCE: 80%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:30:40Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.493 136.684<br/>TEMPERATURE: 53.7C<br/>CONFIDENCE: 80%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:05:10Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-13.424 132.394</georss:point>
+<georss:point>-16.493 136.684</georss:point>
 </item>
 <item>
-<title>13.386S 132.363E</title>
+<title>16.454S 136.620E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:e52fb9df3b6f9559ae3fc10eb6e145b8</guid>
-<pubDate>Mon, 13 May 2013 04:30:40 GMT</pubDate>
+<guid isPermaLink="false">tag:6922cbb2a4539eb28bc5da71b72123c3</guid>
+<pubDate>Fri, 17 May 2013 04:05:10 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -13.386 132.363<br/>TEMPERATURE: 51.7C<br/>CONFIDENCE: 78%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:30:40Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.454 136.620<br/>TEMPERATURE: 62.4C<br/>CONFIDENCE: 87%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:05:10Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-13.386 132.363</georss:point>
+<georss:point>-16.454 136.620</georss:point>
 </item>
 <item>
-<title>14.854S 130.140E</title>
+<title>16.364S 136.774E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:7dfa86073c6388505626bb780d18de70</guid>
-<pubDate>Mon, 13 May 2013 04:30:30 GMT</pubDate>
+<guid isPermaLink="false">tag:7fa8ed94e29d501159dcdbaab17f881e</guid>
+<pubDate>Fri, 17 May 2013 04:05:10 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -14.854 130.140<br/>TEMPERATURE: 45.1C<br/>CONFIDENCE: 60%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:30:30Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.364 136.774<br/>TEMPERATURE: 46.9C<br/>CONFIDENCE: 68%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:05:10Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-14.854 130.140</georss:point>
+<georss:point>-16.364 136.774</georss:point>
 </item>
 <item>
-<title>14.556S 132.161E</title>
+<title>16.363S 136.781E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:a91d2c6f08785e5f25aa13269e133fd5</guid>
-<pubDate>Mon, 13 May 2013 04:30:30 GMT</pubDate>
+<guid isPermaLink="false">tag:bd030f22af41bf3077bfa46d6f0a92d2</guid>
+<pubDate>Fri, 17 May 2013 04:05:10 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -14.556 132.161<br/>TEMPERATURE: 41.4C<br/>CONFIDENCE: 49%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:30:30Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.363 136.781<br/>TEMPERATURE: 51.7C<br/>CONFIDENCE: 78%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:05:10Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-14.556 132.161</georss:point>
+<georss:point>-16.363 136.781</georss:point>
 </item>
 <item>
-<title>14.554S 132.174E</title>
+<title>16.361S 136.802E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:8c123e1cd5a3d6185f14143f37540494</guid>
-<pubDate>Mon, 13 May 2013 04:30:30 GMT</pubDate>
+<guid isPermaLink="false">tag:e6c7b57d89d66ad5df0012afee92f832</guid>
+<pubDate>Fri, 17 May 2013 04:05:10 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -14.554 132.174<br/>TEMPERATURE: 45.8C<br/>CONFIDENCE: 53%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:30:30Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.361 136.802<br/>TEMPERATURE: 45.2C<br/>CONFIDENCE: 54%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:05:10Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-14.554 132.174</georss:point>
+<georss:point>-16.361 136.802</georss:point>
 </item>
 <item>
-<title>14.554S 132.181E</title>
+<title>16.357S 137.654E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:3c57168952ea66d56a95d6d551680cf4</guid>
-<pubDate>Mon, 13 May 2013 04:30:30 GMT</pubDate>
+<guid isPermaLink="false">tag:954d09761b716a44695b32530c0564c5</guid>
+<pubDate>Fri, 17 May 2013 04:05:10 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -14.554 132.181<br/>TEMPERATURE: 41.6C<br/>CONFIDENCE: 55%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:30:30Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.357 137.654<br/>TEMPERATURE: 60.9C<br/>CONFIDENCE: 86%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:05:10Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-14.554 132.181</georss:point>
+<georss:point>-16.357 137.654</georss:point>
 </item>
 <item>
-<title>14.465S 131.357E</title>
+<title>16.319S 136.768E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:5042a98623ab681e9244cb2685596fd8</guid>
-<pubDate>Mon, 13 May 2013 04:30:30 GMT</pubDate>
+<guid isPermaLink="false">tag:8ab57dfa11c12927761a2f374867e698</guid>
+<pubDate>Fri, 17 May 2013 04:05:10 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -14.465 131.357<br/>TEMPERATURE: 39.9C<br/>CONFIDENCE: 52%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:30:30Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.319 136.768<br/>TEMPERATURE: 47.0C<br/>CONFIDENCE: 72%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:05:10Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-14.465 131.357</georss:point>
+<georss:point>-16.319 136.768</georss:point>
 </item>
 <item>
-<title>14.366S 131.892E</title>
+<title>17.046S 136.724E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:46e295734f1770577719d082b92c3fa8</guid>
-<pubDate>Mon, 13 May 2013 04:30:30 GMT</pubDate>
+<guid isPermaLink="false">tag:2e973437a6919e44b637c90dfcfdbb6e</guid>
+<pubDate>Fri, 17 May 2013 04:05:00 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -14.366 131.892<br/>TEMPERATURE: 42.0C<br/>CONFIDENCE: 62%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:30:30Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -17.046 136.724<br/>TEMPERATURE: 51.0C<br/>CONFIDENCE: 42%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:05:00Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-14.366 131.892</georss:point>
+<georss:point>-17.046 136.724</georss:point>
 </item>
 <item>
-<title>14.136S 131.654E</title>
+<title>17.043S 136.753E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:307570ce7e2e67b49fc894512b3bf274</guid>
-<pubDate>Mon, 13 May 2013 04:30:30 GMT</pubDate>
+<guid isPermaLink="false">tag:7490e05da2ec25cbf706f964fe9c887f</guid>
+<pubDate>Fri, 17 May 2013 04:05:00 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -14.136 131.654<br/>TEMPERATURE: 43.8C<br/>CONFIDENCE: 59%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:30:30Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -17.043 136.753<br/>TEMPERATURE: 67.7C<br/>CONFIDENCE: 90%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:05:00Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-14.136 131.654</georss:point>
+<georss:point>-17.043 136.753</georss:point>
 </item>
 <item>
-<title>14.133S 131.676E</title>
+<title>17.038S 136.955E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:03c3f25555253c5a22483f5a03769755</guid>
-<pubDate>Mon, 13 May 2013 04:30:30 GMT</pubDate>
+<guid isPermaLink="false">tag:c349e9ec7c6ac94ddd26d42336e61e15</guid>
+<pubDate>Fri, 17 May 2013 04:05:00 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -14.133 131.676<br/>TEMPERATURE: 54.7C<br/>CONFIDENCE: 81%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:30:30Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -17.038 136.955<br/>TEMPERATURE: 46.8C<br/>CONFIDENCE: 72%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:05:00Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-14.133 131.676</georss:point>
+<georss:point>-17.038 136.955</georss:point>
 </item>
 <item>
-<title>15.200S 129.471E</title>
+<title>17.031S 136.722E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:e8b99d51a835b2500fe1fb26eb038c4e</guid>
-<pubDate>Mon, 13 May 2013 04:30:20 GMT</pubDate>
+<guid isPermaLink="false">tag:2d137b3f537af827856fc666194ba03f</guid>
+<pubDate>Fri, 17 May 2013 04:05:00 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -15.200 129.471<br/>TEMPERATURE: 45.2C<br/>CONFIDENCE: 64%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:30:20Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -17.031 136.722<br/>TEMPERATURE: 55.6C<br/>CONFIDENCE: 43%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:05:00Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-15.200 129.471</georss:point>
+<georss:point>-17.031 136.722</georss:point>
 </item>
 <item>
-<title>15.033S 131.151E</title>
+<title>17.031S 136.747E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:61f6fc6c8b52ef68a045bac42217ab83</guid>
-<pubDate>Mon, 13 May 2013 04:30:20 GMT</pubDate>
+<guid isPermaLink="false">tag:8a60fb8d5822a2d30c6502acaa050a87</guid>
+<pubDate>Fri, 17 May 2013 04:05:00 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -15.033 131.151<br/>TEMPERATURE: 43.9C<br/>CONFIDENCE: 55%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:30:20Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -17.031 136.747<br/>TEMPERATURE: 67.9C<br/>CONFIDENCE: 90%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:05:00Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-15.033 131.151</georss:point>
+<georss:point>-17.031 136.747</georss:point>
 </item>
 <item>
-<title>16.649S 137.464E</title>
+<title>16.982S 136.771E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:4c341beee5290259cce2c4989d2225ff</guid>
-<pubDate>Mon, 13 May 2013 04:29:40 GMT</pubDate>
+<guid isPermaLink="false">tag:490cf51b76fa75528b11ca0252206ba9</guid>
+<pubDate>Fri, 17 May 2013 04:05:00 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -16.649 137.464<br/>TEMPERATURE: 47.5C<br/>CONFIDENCE: 41%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:29:40Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.982 136.771<br/>TEMPERATURE: 55.3C<br/>CONFIDENCE: 57%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:05:00Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-16.649 137.464</georss:point>
+<georss:point>-16.982 136.771</georss:point>
 </item>
 <item>
-<title>16.312S 137.706E</title>
+<title>16.976S 136.682E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:5aed1f11663e793d0b63a032003b485a</guid>
-<pubDate>Mon, 13 May 2013 04:29:40 GMT</pubDate>
+<guid isPermaLink="false">tag:889b4c410a0bf234c78955d1b1e8fb17</guid>
+<pubDate>Fri, 17 May 2013 04:05:00 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -16.312 137.706<br/>TEMPERATURE: 62.0C<br/>CONFIDENCE: 82%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:29:40Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.976 136.682<br/>TEMPERATURE: 56.8C<br/>CONFIDENCE: 62%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:05:00Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-16.312 137.706</georss:point>
+<georss:point>-16.976 136.682</georss:point>
 </item>
 <item>
-<title>16.311S 137.716E</title>
+<title>16.980S 136.775E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:4a349fedfa5c8142a888940ca46a0c4a</guid>
-<pubDate>Mon, 13 May 2013 04:29:40 GMT</pubDate>
+<guid isPermaLink="false">tag:d6cc3339037c7ff1dca926534c477c38</guid>
+<pubDate>Fri, 17 May 2013 04:05:00 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -16.311 137.716<br/>TEMPERATURE: 50.7C<br/>CONFIDENCE: 41%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:29:40Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.980 136.775<br/>TEMPERATURE: 55.1C<br/>CONFIDENCE: 65%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:05:00Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-16.311 137.716</georss:point>
+<georss:point>-16.980 136.775</georss:point>
 </item>
 <item>
-<title>16.305S 137.710E</title>
+<title>16.934S 136.647E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:1be336a2a35f943b950ea0f53447fa3e</guid>
-<pubDate>Mon, 13 May 2013 04:29:40 GMT</pubDate>
+<guid isPermaLink="false">tag:e944723b6bad6340b6e5adce976b368e</guid>
+<pubDate>Fri, 17 May 2013 04:05:00 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -16.305 137.710<br/>TEMPERATURE: 48.9C<br/>CONFIDENCE: 75%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:29:40Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.934 136.647<br/>TEMPERATURE: 50.3C<br/>CONFIDENCE: 43%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:05:00Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-16.305 137.710</georss:point>
+<georss:point>-16.934 136.647</georss:point>
 </item>
 <item>
-<title>16.303S 137.719E</title>
+<title>16.933S 136.669E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:24c09f068c68b6287caf4aa37f7a8f5b</guid>
-<pubDate>Mon, 13 May 2013 04:29:40 GMT</pubDate>
+<guid isPermaLink="false">tag:1b055308b576c08a2ed04be656a146a1</guid>
+<pubDate>Fri, 17 May 2013 04:05:00 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -16.303 137.719<br/>TEMPERATURE: 45.7C<br/>CONFIDENCE: 57%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:29:40Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.933 136.669<br/>TEMPERATURE: 52.8C<br/>CONFIDENCE: 71%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:05:00Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-16.303 137.719</georss:point>
+<georss:point>-16.933 136.669</georss:point>
 </item>
 <item>
-<title>35.155S 138.724E</title>
+<title>16.890S 136.782E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:c825fdbf618891d7f157e184ba7578e6</guid>
-<pubDate>Mon, 13 May 2013 04:24:40 GMT</pubDate>
+<guid isPermaLink="false">tag:423cb3ef80733baf3df3c35ef18b9e73</guid>
+<pubDate>Fri, 17 May 2013 04:05:00 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -35.155 138.724<br/>TEMPERATURE: 56.4C<br/>CONFIDENCE: 82%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:24:40Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.890 136.782<br/>TEMPERATURE: 55.8C<br/>CONFIDENCE: 82%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:05:00Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-35.155 138.724</georss:point>
+<georss:point>-16.890 136.782</georss:point>
 </item>
 <item>
-<title>35.154S 138.740E</title>
+<title>16.889S 136.789E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:e976c53ffdcc69527d110527fd611cd0</guid>
-<pubDate>Mon, 13 May 2013 04:24:40 GMT</pubDate>
+<guid isPermaLink="false">tag:908aa81e08ea3916eee31578658094e9</guid>
+<pubDate>Fri, 17 May 2013 04:05:00 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -35.154 138.740<br/>TEMPERATURE: 81.7C<br/>CONFIDENCE: 97%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:24:40Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.889 136.789<br/>TEMPERATURE: 55.4C<br/>CONFIDENCE: 81%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:05:00Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-35.154 138.740</georss:point>
+<georss:point>-16.889 136.789</georss:point>
 </item>
 <item>
-<title>37.885S 140.970E</title>
+<title>16.887S 136.811E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:fde7ca9410267d6d227804dab8205071</guid>
-<pubDate>Mon, 13 May 2013 04:23:50 GMT</pubDate>
+<guid isPermaLink="false">tag:2aabd90f7195adcffe691340b33c69b4</guid>
+<pubDate>Fri, 17 May 2013 04:05:00 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -37.885 140.970<br/>TEMPERATURE: 41.6C<br/>CONFIDENCE: 62%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:23:50Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.887 136.811<br/>TEMPERATURE: 51.1C<br/>CONFIDENCE: 65%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:05:00Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-37.885 140.970</georss:point>
+<georss:point>-16.887 136.811</georss:point>
 </item>
 <item>
-<title>37.834S 141.323E</title>
+<title>16.571S 145.023E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:b4b17d92f6ce41ac5a045507c10a3063</guid>
-<pubDate>Mon, 13 May 2013 04:23:50 GMT</pubDate>
+<guid isPermaLink="false">tag:865ef0f4179c0e4788abaa9260f3866c</guid>
+<pubDate>Fri, 17 May 2013 04:04:50 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -37.834 141.323<br/>TEMPERATURE: 88.9C<br/>CONFIDENCE: 100%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:23:50Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.571 145.023<br/>TEMPERATURE: 51.3C<br/>CONFIDENCE: 46%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:04:50Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-37.834 141.323</georss:point>
+<georss:point>-16.571 145.023</georss:point>
 </item>
 <item>
-<title>37.763S 140.516E</title>
+<title>16.513S 144.980E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:957c44f6ac63966d108e4977bc10b675</guid>
-<pubDate>Mon, 13 May 2013 04:23:50 GMT</pubDate>
+<guid isPermaLink="false">tag:2d5e552d6f9c5a0045e89e7ff334a145</guid>
+<pubDate>Fri, 17 May 2013 04:04:50 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -37.763 140.516<br/>TEMPERATURE: 86.7C<br/>CONFIDENCE: 99%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-13T04:23:50Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.513 144.980<br/>TEMPERATURE: 49.7C<br/>CONFIDENCE: 68%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:04:50Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-37.763 140.516</georss:point>
+<georss:point>-16.513 144.980</georss:point>
 </item>
 <item>
-<title>18.816S 125.318E</title>
+<title>16.604S 145.114E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:b979b5e3c86af4f7d15cec2ad5abc6e4</guid>
-<pubDate>Mon, 13 May 2013 01:42:30 GMT</pubDate>
+<guid isPermaLink="false">tag:2f335941ea6632a86d62f893c3f405ce</guid>
+<pubDate>Fri, 17 May 2013 04:04:40 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -18.816 125.318<br/>TEMPERATURE: 44.6C<br/>CONFIDENCE: 52%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:42:30Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.604 145.114<br/>TEMPERATURE: 50.6C<br/>CONFIDENCE: 46%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:04:40Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-18.816 125.318</georss:point>
+<georss:point>-16.604 145.114</georss:point>
 </item>
 <item>
-<title>17.848S 123.841E</title>
+<title>16.587S 145.035E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:aa5fa1d5fc075fa30cf4aac87c425c4e</guid>
-<pubDate>Mon, 13 May 2013 01:42:20 GMT</pubDate>
+<guid isPermaLink="false">tag:301550b5a1efb606950ea602362a5e6a</guid>
+<pubDate>Fri, 17 May 2013 04:04:40 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -17.848 123.841<br/>TEMPERATURE: 53.7C<br/>CONFIDENCE: 80%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:42:20Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.587 145.035<br/>TEMPERATURE: 47.0C<br/>CONFIDENCE: 63%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:04:40Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-17.848 123.841</georss:point>
+<georss:point>-16.587 145.035</georss:point>
 </item>
 <item>
-<title>17.851S 123.857E</title>
+<title>16.580S 145.024E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:df4175ce8960b5c81f283a1dd8bdc0ae</guid>
-<pubDate>Mon, 13 May 2013 01:42:20 GMT</pubDate>
+<guid isPermaLink="false">tag:e325fbc8fb25adadfc0a5dd83545ab4b</guid>
+<pubDate>Fri, 17 May 2013 04:04:40 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -17.851 123.857<br/>TEMPERATURE: 52.2C<br/>CONFIDENCE: 78%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:42:20Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.580 145.024<br/>TEMPERATURE: 74.1C<br/>CONFIDENCE: 94%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:04:40Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-17.851 123.857</georss:point>
+<georss:point>-16.580 145.024</georss:point>
 </item>
 <item>
-<title>17.741S 123.027E</title>
+<title>16.578S 145.034E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:a77cd7e758802cd43fc5ce21cf7660ab</guid>
-<pubDate>Mon, 13 May 2013 01:42:20 GMT</pubDate>
+<guid isPermaLink="false">tag:7f521966f402bc2755c4320d9c345b2f</guid>
+<pubDate>Fri, 17 May 2013 04:04:40 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -17.741 123.027<br/>TEMPERATURE: 51.4C<br/>CONFIDENCE: 78%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:42:20Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.578 145.034<br/>TEMPERATURE: 54.6C<br/>CONFIDENCE: 46%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:04:40Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-17.741 123.027</georss:point>
+<georss:point>-16.578 145.034</georss:point>
 </item>
 <item>
-<title>17.287S 126.823E</title>
+<title>18.253S 144.564E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:b93272e70de168798d0484c5b1328727</guid>
-<pubDate>Mon, 13 May 2013 01:42:00 GMT</pubDate>
+<guid isPermaLink="false">tag:ad2960e5fbaa20894fe92fb3c2157172</guid>
+<pubDate>Fri, 17 May 2013 04:04:20 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -17.287 126.823<br/>TEMPERATURE: 47.2C<br/>CONFIDENCE: 49%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:42:00Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -18.253 144.564<br/>TEMPERATURE: 45.3C<br/>CONFIDENCE: 58%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:04:20Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-17.287 126.823</georss:point>
+<georss:point>-18.253 144.564</georss:point>
 </item>
 <item>
-<title>15.791S 128.704E</title>
+<title>18.221S 144.658E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:dd24b66f4464366ade37f89d0896366e</guid>
-<pubDate>Mon, 13 May 2013 01:41:30 GMT</pubDate>
+<guid isPermaLink="false">tag:57533b298d9fc9a4f853403d8f2eda59</guid>
+<pubDate>Fri, 17 May 2013 04:04:20 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -15.791 128.704<br/>TEMPERATURE: 40.5C<br/>CONFIDENCE: 43%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:30Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -18.221 144.658<br/>TEMPERATURE: 48.8C<br/>CONFIDENCE: 70%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:04:20Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-15.791 128.704</georss:point>
+<georss:point>-18.221 144.658</georss:point>
 </item>
 <item>
-<title>15.482S 128.729E</title>
+<title>26.619S 150.248E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:bfc3e6ef41000ee6ed7c698923d1d108</guid>
-<pubDate>Mon, 13 May 2013 01:41:30 GMT</pubDate>
+<guid isPermaLink="false">tag:b438be5badb2abb706d1991481686033</guid>
+<pubDate>Fri, 17 May 2013 04:01:50 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -15.482 128.729<br/>TEMPERATURE: 48.5C<br/>CONFIDENCE: 72%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:30Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -26.619 150.248<br/>TEMPERATURE: 39.1C<br/>CONFIDENCE: 53%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:01:50Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-15.482 128.729</georss:point>
+<georss:point>-26.619 150.248</georss:point>
 </item>
 <item>
-<title>15.418S 128.739E</title>
+<title>26.516S 149.740E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:afa0b4be6ca8bce33846ffd3a7267f8e</guid>
-<pubDate>Mon, 13 May 2013 01:41:30 GMT</pubDate>
+<guid isPermaLink="false">tag:9a78248599588b5ba31a4c87afd564c3</guid>
+<pubDate>Fri, 17 May 2013 04:01:50 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -15.418 128.739<br/>TEMPERATURE: 53.1C<br/>CONFIDENCE: 79%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:30Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -26.516 149.740<br/>TEMPERATURE: 45.3C<br/>CONFIDENCE: 68%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:01:50Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-15.418 128.739</georss:point>
+<georss:point>-26.516 149.740</georss:point>
 </item>
 <item>
-<title>15.417S 128.730E</title>
+<title>26.511S 149.745E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:a3e0c2f7153b13ce3fb421881de1ff6d</guid>
-<pubDate>Mon, 13 May 2013 01:41:30 GMT</pubDate>
+<guid isPermaLink="false">tag:b312374d46f394f8f50f00a2c7679074</guid>
+<pubDate>Fri, 17 May 2013 04:01:50 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -15.417 128.730<br/>TEMPERATURE: 49.6C<br/>CONFIDENCE: 50%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:30Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -26.511 149.745<br/>TEMPERATURE: 47.5C<br/>CONFIDENCE: 73%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:01:50Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-15.417 128.730</georss:point>
+<georss:point>-26.511 149.745</georss:point>
 </item>
 <item>
-<title>15.325S 126.920E</title>
+<title>28.746S 147.093E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:648f42d08907503b45eebfe6075d0883</guid>
-<pubDate>Mon, 13 May 2013 01:41:30 GMT</pubDate>
+<guid isPermaLink="false">tag:e3825a449896f45e7398041f06bf342d</guid>
+<pubDate>Fri, 17 May 2013 04:01:30 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -15.325 126.920<br/>TEMPERATURE: 55.7C<br/>CONFIDENCE: 53%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:30Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -28.746 147.093<br/>TEMPERATURE: 40.1C<br/>CONFIDENCE: 57%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:01:30Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-15.325 126.920</georss:point>
+<georss:point>-28.746 147.093</georss:point>
 </item>
 <item>
-<title>15.292S 126.902E</title>
+<title>28.745S 147.104E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:b661896189436912e11259886f9c3141</guid>
-<pubDate>Mon, 13 May 2013 01:41:30 GMT</pubDate>
+<guid isPermaLink="false">tag:07cf4aadd9160d258312c611aba40769</guid>
+<pubDate>Fri, 17 May 2013 04:01:30 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -15.292 126.902<br/>TEMPERATURE: 67.6C<br/>CONFIDENCE: 90%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:30Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -28.745 147.104<br/>TEMPERATURE: 41.9C<br/>CONFIDENCE: 62%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:01:30Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-15.292 126.902</georss:point>
+<georss:point>-28.745 147.104</georss:point>
 </item>
 <item>
-<title>15.292S 126.909E</title>
+<title>28.905S 148.525E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:fcd6934612d71664d56d9b700d131bae</guid>
-<pubDate>Mon, 13 May 2013 01:41:30 GMT</pubDate>
+<guid isPermaLink="false">tag:34adf28ffa4a50d7ef61a3cc9bb817c3</guid>
+<pubDate>Fri, 17 May 2013 04:01:20 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -15.292 126.909<br/>TEMPERATURE: 70.1C<br/>CONFIDENCE: 92%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:30Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -28.905 148.525<br/>TEMPERATURE: 39.1C<br/>CONFIDENCE: 50%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:01:20Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-15.292 126.909</georss:point>
+<georss:point>-28.905 148.525</georss:point>
 </item>
 <item>
-<title>15.282S 126.910E</title>
+<title>31.531S 152.665E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:8cf217b2b3573abfc4b304ab872c549d</guid>
-<pubDate>Mon, 13 May 2013 01:41:30 GMT</pubDate>
+<guid isPermaLink="false">tag:948be172744f82feb512003667b8a5c0</guid>
+<pubDate>Fri, 17 May 2013 04:00:20 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -15.282 126.910<br/>TEMPERATURE: 53.3C<br/>CONFIDENCE: 80%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:30Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -31.531 152.665<br/>TEMPERATURE: 39.8C<br/>CONFIDENCE: 56%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:00:20Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-15.282 126.910</georss:point>
+<georss:point>-31.531 152.665</georss:point>
 </item>
 <item>
-<title>15.050S 126.675E</title>
+<title>31.529S 152.678E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:5debeead640c946a4455e1b90612999d</guid>
-<pubDate>Mon, 13 May 2013 01:41:30 GMT</pubDate>
+<guid isPermaLink="false">tag:7730d27895c94b6a2e9b3718bcbe7537</guid>
+<pubDate>Fri, 17 May 2013 04:00:20 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -15.050 126.675<br/>TEMPERATURE: 45.6C<br/>CONFIDENCE: 60%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:30Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -31.529 152.678<br/>TEMPERATURE: 41.2C<br/>CONFIDENCE: 61%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:00:20Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-15.050 126.675</georss:point>
+<georss:point>-31.529 152.678</georss:point>
 </item>
 <item>
-<title>15.317S 129.526E</title>
+<title>33.436S 147.818E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:4032ed521973b36114d049991100a1af</guid>
-<pubDate>Mon, 13 May 2013 01:41:20 GMT</pubDate>
+<guid isPermaLink="false">tag:df4f6912eaba6d6273540f1d6b439747</guid>
+<pubDate>Fri, 17 May 2013 04:00:10 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -15.317 129.526<br/>TEMPERATURE: 50.9C<br/>CONFIDENCE: 77%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:20Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -33.436 147.818<br/>TEMPERATURE: 39.4C<br/>CONFIDENCE: 51%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T04:00:10Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-15.317 129.526</georss:point>
+<georss:point>-33.436 147.818</georss:point>
 </item>
 <item>
-<title>15.315S 129.516E</title>
+<title>34.878S 145.878E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:6c4c07d2bb2948a62719fd779cfa4f94</guid>
-<pubDate>Mon, 13 May 2013 01:41:20 GMT</pubDate>
+<guid isPermaLink="false">tag:b8cdfd8e4b69ce74c03b06c9fc7b9e34</guid>
+<pubDate>Fri, 17 May 2013 03:59:50 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -15.315 129.516<br/>TEMPERATURE: 47.0C<br/>CONFIDENCE: 65%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:20Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -34.878 145.878<br/>TEMPERATURE: 39.8C<br/>CONFIDENCE: 42%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T03:59:50Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-15.315 129.516</georss:point>
+<georss:point>-34.878 145.878</georss:point>
 </item>
 <item>
-<title>15.205S 129.454E</title>
+<title>35.584S 150.228E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:c63d0ffdb84c6d348dd5ef016c2f7403</guid>
-<pubDate>Mon, 13 May 2013 01:41:20 GMT</pubDate>
+<guid isPermaLink="false">tag:43de88235ed34bfb98ab50126bf6f28b</guid>
+<pubDate>Fri, 17 May 2013 03:59:30 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -15.205 129.454<br/>TEMPERATURE: 57.9C<br/>CONFIDENCE: 84%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:20Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -35.584 150.228<br/>TEMPERATURE: 75.0C<br/>CONFIDENCE: 89%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T03:59:30Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-15.205 129.454</georss:point>
+<georss:point>-35.584 150.228</georss:point>
 </item>
 <item>
-<title>15.206S 129.463E</title>
+<title>35.583S 150.239E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:3c40c0ed927df47642c777c78e882e6a</guid>
-<pubDate>Mon, 13 May 2013 01:41:20 GMT</pubDate>
+<guid isPermaLink="false">tag:f35295e71a92dd830ff3a80f72a14660</guid>
+<pubDate>Fri, 17 May 2013 03:59:30 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -15.206 129.463<br/>TEMPERATURE: 51.7C<br/>CONFIDENCE: 72%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:20Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -35.583 150.239<br/>TEMPERATURE: 48.8C<br/>CONFIDENCE: 75%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T03:59:30Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-15.206 129.463</georss:point>
+<georss:point>-35.583 150.239</georss:point>
 </item>
 <item>
-<title>15.200S 129.483E</title>
+<title>36.765S 149.883E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:5dd54955baf0f954e75436f8cc345afc</guid>
-<pubDate>Mon, 13 May 2013 01:41:20 GMT</pubDate>
+<guid isPermaLink="false">tag:85cb122abf341077cfddfda96a5c8485</guid>
+<pubDate>Fri, 17 May 2013 03:59:10 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -15.200 129.483<br/>TEMPERATURE: 54.3C<br/>CONFIDENCE: 66%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:20Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -36.765 149.883<br/>TEMPERATURE: 49.9C<br/>CONFIDENCE: 45%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-17T03:59:10Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-15.200 129.483</georss:point>
+<georss:point>-36.765 149.883</georss:point>
 </item>
 <item>
-<title>15.201S 129.493E</title>
+<title>20.731S 139.472E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:5efca870e073e4f6f1a6947d2e7620f7</guid>
-<pubDate>Mon, 13 May 2013 01:41:20 GMT</pubDate>
+<guid isPermaLink="false">tag:592c6da346279f5179a5c0a650dd398a</guid>
+<pubDate>Fri, 17 May 2013 01:17:50 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -15.201 129.493<br/>TEMPERATURE: 53.6C<br/>CONFIDENCE: 80%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:20Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -20.731 139.472<br/>TEMPERATURE: 46.4C<br/>CONFIDENCE: 71%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-17T01:17:50Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-15.201 129.493</georss:point>
+<georss:point>-20.731 139.472</georss:point>
 </item>
 <item>
-<title>15.202S 129.502E</title>
+<title>20.733S 139.487E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:229f4e06d91ee4a5c38e59a92b744d6b</guid>
-<pubDate>Mon, 13 May 2013 01:41:20 GMT</pubDate>
+<guid isPermaLink="false">tag:7d28fa788bb575b336a8361fa4f5ab77</guid>
+<pubDate>Fri, 17 May 2013 01:17:50 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -15.202 129.502<br/>TEMPERATURE: 46.5C<br/>CONFIDENCE: 41%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:20Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -20.733 139.487<br/>TEMPERATURE: 41.9C<br/>CONFIDENCE: 62%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-17T01:17:50Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-15.202 129.502</georss:point>
+<georss:point>-20.733 139.487</georss:point>
 </item>
 <item>
-<title>15.197S 129.465E</title>
+<title>16.964S 136.771E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:f1df9d3dfa31c319d48d64364418aa4a</guid>
-<pubDate>Mon, 13 May 2013 01:41:20 GMT</pubDate>
+<guid isPermaLink="false">tag:892792a6f27ade17c580c2583f7048db</guid>
+<pubDate>Fri, 17 May 2013 01:16:50 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -15.197 129.465<br/>TEMPERATURE: 66.7C<br/>CONFIDENCE: 90%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:20Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.964 136.771<br/>TEMPERATURE: 40.8C<br/>CONFIDENCE: 60%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-17T01:16:50Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-15.197 129.465</georss:point>
+<georss:point>-16.964 136.771</georss:point>
 </item>
 <item>
-<title>15.198S 129.474E</title>
+<title>16.938S 136.658E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:53df43852d56e253956b30c0798c7948</guid>
-<pubDate>Mon, 13 May 2013 01:41:20 GMT</pubDate>
+<guid isPermaLink="false">tag:988ee0978e289b3a5c0ceee9ce552b07</guid>
+<pubDate>Fri, 17 May 2013 01:16:50 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -15.198 129.474<br/>TEMPERATURE: 50.4C<br/>CONFIDENCE: 68%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:20Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.938 136.658<br/>TEMPERATURE: 60.4C<br/>CONFIDENCE: 41%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-17T01:16:50Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-15.198 129.474</georss:point>
+<georss:point>-16.938 136.658</georss:point>
 </item>
 <item>
-<title>15.192S 129.494E</title>
+<title>16.939S 136.667E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:95272a1fac7c74d1cf2c57ab6c8c225e</guid>
-<pubDate>Mon, 13 May 2013 01:41:20 GMT</pubDate>
+<guid isPermaLink="false">tag:a6b6a64d989046a97d024625c6466a6b</guid>
+<pubDate>Fri, 17 May 2013 01:16:50 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -15.192 129.494<br/>TEMPERATURE: 53.5C<br/>CONFIDENCE: 74%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:20Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.939 136.667<br/>TEMPERATURE: 79.0C<br/>CONFIDENCE: 96%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-17T01:16:50Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-15.192 129.494</georss:point>
+<georss:point>-16.939 136.667</georss:point>
 </item>
 <item>
-<title>15.193S 129.503E</title>
+<title>16.891S 136.587E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:300ac1463a0c27dc1e4e172359453377</guid>
-<pubDate>Mon, 13 May 2013 01:41:20 GMT</pubDate>
+<guid isPermaLink="false">tag:e92e3a10fca2ccf6d0aeb4600c78be0f</guid>
+<pubDate>Fri, 17 May 2013 01:16:50 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -15.193 129.503<br/>TEMPERATURE: 47.9C<br/>CONFIDENCE: 50%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:20Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.891 136.587<br/>TEMPERATURE: 40.5C<br/>CONFIDENCE: 56%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-17T01:16:50Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-15.193 129.503</georss:point>
+<georss:point>-16.891 136.587</georss:point>
 </item>
 <item>
-<title>15.164S 128.641E</title>
+<title>16.892S 136.597E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:a05267175168d5189bb7eba80199e32d</guid>
-<pubDate>Mon, 13 May 2013 01:41:20 GMT</pubDate>
+<guid isPermaLink="false">tag:6035476f05051ddbc6da384808723c75</guid>
+<pubDate>Fri, 17 May 2013 01:16:50 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -15.164 128.641<br/>TEMPERATURE: 53.0C<br/>CONFIDENCE: 79%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:20Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.892 136.597<br/>TEMPERATURE: 57.8C<br/>CONFIDENCE: 84%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-17T01:16:50Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-15.164 128.641</georss:point>
+<georss:point>-16.892 136.597</georss:point>
 </item>
 <item>
-<title>15.166S 128.651E</title>
+<title>16.887S 136.626E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:347ff33f98088cf6017bb4816db7bb54</guid>
-<pubDate>Mon, 13 May 2013 01:41:20 GMT</pubDate>
+<guid isPermaLink="false">tag:b66eee723ca07997a61cc9952524465d</guid>
+<pubDate>Fri, 17 May 2013 01:16:50 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -15.166 128.651<br/>TEMPERATURE: 43.4C<br/>CONFIDENCE: 66%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:20Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.887 136.626<br/>TEMPERATURE: 50.3C<br/>CONFIDENCE: 76%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-17T01:16:50Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-15.166 128.651</georss:point>
+<georss:point>-16.887 136.626</georss:point>
 </item>
 <item>
-<title>15.154S 128.633E</title>
+<title>16.873S 136.658E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:972d02f58c69bf749a6ab00b31b8d6cc</guid>
-<pubDate>Mon, 13 May 2013 01:41:20 GMT</pubDate>
+<guid isPermaLink="false">tag:b7348e39b8921305bb740a326e5fd5c3</guid>
+<pubDate>Fri, 17 May 2013 01:16:50 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -15.154 128.633<br/>TEMPERATURE: 52.4C<br/>CONFIDENCE: 79%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:20Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.873 136.658<br/>TEMPERATURE: 50.8C<br/>CONFIDENCE: 52%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-17T01:16:50Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-15.154 128.633</georss:point>
+<georss:point>-16.873 136.658</georss:point>
 </item>
 <item>
-<title>15.155S 128.643E</title>
+<title>16.875S 136.731E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:1c79440cc352f381ad16796481cbff2a</guid>
-<pubDate>Mon, 13 May 2013 01:41:20 GMT</pubDate>
+<guid isPermaLink="false">tag:62384bb2a2f7eb167c953514ac636dec</guid>
+<pubDate>Fri, 17 May 2013 01:16:50 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -15.155 128.643<br/>TEMPERATURE: 53.7C<br/>CONFIDENCE: 80%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:20Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.875 136.731<br/>TEMPERATURE: 53.4C<br/>CONFIDENCE: 61%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-17T01:16:50Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-15.155 128.643</georss:point>
+<georss:point>-16.875 136.731</georss:point>
 </item>
 <item>
-<title>14.857S 130.154E</title>
+<title>16.877S 136.741E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:4838a6e6448c8d2632095c9ed1f080e5</guid>
-<pubDate>Mon, 13 May 2013 01:41:10 GMT</pubDate>
+<guid isPermaLink="false">tag:63f7e532b70d6f302a210448004ad805</guid>
+<pubDate>Fri, 17 May 2013 01:16:50 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -14.857 130.154<br/>TEMPERATURE: 53.3C<br/>CONFIDENCE: 75%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:10Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.877 136.741<br/>TEMPERATURE: 53.6C<br/>CONFIDENCE: 63%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-17T01:16:50Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-14.857 130.154</georss:point>
+<georss:point>-16.877 136.741</georss:point>
 </item>
 <item>
-<title>14.767S 130.164E</title>
+<title>16.866S 136.733E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:72d8d7b896f2f8639a54ddd6fb0c0e0f</guid>
-<pubDate>Mon, 13 May 2013 01:41:10 GMT</pubDate>
+<guid isPermaLink="false">tag:204e24b40d56799c04c7b1e1e2ecbece</guid>
+<pubDate>Fri, 17 May 2013 01:16:50 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -14.767 130.164<br/>TEMPERATURE: 61.4C<br/>CONFIDENCE: 86%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:10Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.866 136.733<br/>TEMPERATURE: 89.6C<br/>CONFIDENCE: 100%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-17T01:16:50Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-14.767 130.164</georss:point>
+<georss:point>-16.866 136.733</georss:point>
 </item>
 <item>
-<title>14.749S 130.044E</title>
+<title>16.867S 136.742E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:7674ce046895fded5785e752cd135f79</guid>
-<pubDate>Mon, 13 May 2013 01:41:10 GMT</pubDate>
+<guid isPermaLink="false">tag:8181f1727c666a728ad7be1ed4a82b65</guid>
+<pubDate>Fri, 17 May 2013 01:16:50 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -14.749 130.044<br/>TEMPERATURE: 48.6C<br/>CONFIDENCE: 74%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:10Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.867 136.742<br/>TEMPERATURE: 76.3C<br/>CONFIDENCE: 95%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-17T01:16:50Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-14.749 130.044</georss:point>
+<georss:point>-16.867 136.742</georss:point>
 </item>
 <item>
-<title>14.740S 130.046E</title>
+<title>16.844S 136.775E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:5fc90acbe8c905334219031c62708525</guid>
-<pubDate>Mon, 13 May 2013 01:41:10 GMT</pubDate>
+<guid isPermaLink="false">tag:d90cc2ff1c51c34c1b123a3d3c157c41</guid>
+<pubDate>Fri, 17 May 2013 01:16:50 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -14.740 130.046<br/>TEMPERATURE: 55.2C<br/>CONFIDENCE: 81%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:10Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.844 136.775<br/>TEMPERATURE: 55.5C<br/>CONFIDENCE: 50%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-17T01:16:50Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-14.740 130.046</georss:point>
+<georss:point>-16.844 136.775</georss:point>
 </item>
 <item>
-<title>14.729S 131.300E</title>
+<title>16.653S 136.787E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:ddb4912ab3bf5f639d097460e029dcb4</guid>
-<pubDate>Mon, 13 May 2013 01:41:10 GMT</pubDate>
+<guid isPermaLink="false">tag:3904df68459a2a8c45fc5bd6d21005a6</guid>
+<pubDate>Fri, 17 May 2013 01:16:50 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -14.729 131.300<br/>TEMPERATURE: 52.6C<br/>CONFIDENCE: 79%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:10Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.653 136.787<br/>TEMPERATURE: 46.6C<br/>CONFIDENCE: 72%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-17T01:16:50Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-14.729 131.300</georss:point>
+<georss:point>-16.653 136.787</georss:point>
 </item>
 <item>
-<title>14.730S 131.310E</title>
+<title>16.652S 136.778E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:dfc54631d5aef8686b74a615746be3ee</guid>
-<pubDate>Mon, 13 May 2013 01:41:10 GMT</pubDate>
+<guid isPermaLink="false">tag:30ac3992f9642c8a5d5555347d98fd58</guid>
+<pubDate>Fri, 17 May 2013 01:16:50 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -14.730 131.310<br/>TEMPERATURE: 46.8C<br/>CONFIDENCE: 59%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:10Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.652 136.778<br/>TEMPERATURE: 44.3C<br/>CONFIDENCE: 50%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-17T01:16:50Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-14.730 131.310</georss:point>
+<georss:point>-16.652 136.778</georss:point>
 </item>
 <item>
-<title>14.721S 131.311E</title>
+<title>16.633S 136.780E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:0a491aa7c10dc55c3bb3f1d289b58e8c</guid>
-<pubDate>Mon, 13 May 2013 01:41:10 GMT</pubDate>
+<guid isPermaLink="false">tag:ac93741ab602894ffe52c73fdb831435</guid>
+<pubDate>Fri, 17 May 2013 01:16:50 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -14.721 131.311<br/>TEMPERATURE: 44.9C<br/>CONFIDENCE: 43%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:10Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.633 136.780<br/>TEMPERATURE: 71.0C<br/>CONFIDENCE: 92%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-17T01:16:50Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-14.721 131.311</georss:point>
+<georss:point>-16.633 136.780</georss:point>
 </item>
 <item>
-<title>14.695S 130.616E</title>
+<title>16.624S 136.782E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:da7b37066c0849f3cc537e21dfb8424e</guid>
-<pubDate>Mon, 13 May 2013 01:41:10 GMT</pubDate>
+<guid isPermaLink="false">tag:3d2c3aec7a458f926c40c7b0cd2c46a9</guid>
+<pubDate>Fri, 17 May 2013 01:16:50 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -14.695 130.616<br/>TEMPERATURE: 48.1C<br/>CONFIDENCE: 74%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:10Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.624 136.782<br/>TEMPERATURE: 55.1C<br/>CONFIDENCE: 81%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-17T01:16:50Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-14.695 130.616</georss:point>
+<georss:point>-16.624 136.782</georss:point>
 </item>
 <item>
-<title>14.662S 130.262E</title>
+<title>16.551S 136.848E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:21506103f8cb69a774e42ec2122be530</guid>
-<pubDate>Mon, 13 May 2013 01:41:10 GMT</pubDate>
+<guid isPermaLink="false">tag:b99529b7fc2ba49e5532cd46c085303d</guid>
+<pubDate>Fri, 17 May 2013 01:16:50 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -14.662 130.262<br/>TEMPERATURE: 46.0C<br/>CONFIDENCE: 57%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:10Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.551 136.848<br/>TEMPERATURE: 64.2C<br/>CONFIDENCE: 88%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-17T01:16:50Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-14.662 130.262</georss:point>
+<georss:point>-16.551 136.848</georss:point>
 </item>
 <item>
-<title>14.659S 130.121E</title>
+<title>16.550S 136.838E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:abb09aef923aa16b1f1e2f36274f5e4c</guid>
-<pubDate>Mon, 13 May 2013 01:41:10 GMT</pubDate>
+<guid isPermaLink="false">tag:27649093157383663c965e4500c2edc0</guid>
+<pubDate>Fri, 17 May 2013 01:16:50 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -14.659 130.121<br/>TEMPERATURE: 44.8C<br/>CONFIDENCE: 69%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:10Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.550 136.838<br/>TEMPERATURE: 49.5C<br/>CONFIDENCE: 75%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-17T01:16:50Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-14.659 130.121</georss:point>
+<georss:point>-16.550 136.838</georss:point>
 </item>
 <item>
-<title>14.623S 130.315E</title>
+<title>16.541S 136.840E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:014f77007122727e8f5695c17281bab1</guid>
-<pubDate>Mon, 13 May 2013 01:41:10 GMT</pubDate>
+<guid isPermaLink="false">tag:8866ad4014e129b8c896e69362a9f749</guid>
+<pubDate>Fri, 17 May 2013 01:16:50 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -14.623 130.315<br/>TEMPERATURE: 79.1C<br/>CONFIDENCE: 96%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:10Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.541 136.840<br/>TEMPERATURE: 83.4C<br/>CONFIDENCE: 98%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-17T01:16:50Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-14.623 130.315</georss:point>
+<georss:point>-16.541 136.840</georss:point>
 </item>
 <item>
-<title>14.625S 130.324E</title>
+<title>16.542S 136.849E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:70618fb1afb2fd9f760649e50f9930e4</guid>
-<pubDate>Mon, 13 May 2013 01:41:10 GMT</pubDate>
+<guid isPermaLink="false">tag:670938ada118074589bb6ac4712bf6d2</guid>
+<pubDate>Fri, 17 May 2013 01:16:50 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -14.625 130.324<br/>TEMPERATURE: 54.2C<br/>CONFIDENCE: 80%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:10Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.542 136.849<br/>TEMPERATURE: 61.2C<br/>CONFIDENCE: 86%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-17T01:16:50Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-14.625 130.324</georss:point>
+<georss:point>-16.542 136.849</georss:point>
 </item>
 <item>
-<title>14.601S 130.986E</title>
+<title>16.532S 136.841E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:e99fa08f3606b6804e1f6ad0692afdfa</guid>
-<pubDate>Mon, 13 May 2013 01:41:10 GMT</pubDate>
+<guid isPermaLink="false">tag:101f8baad9a7909133b5251ea7adff0d</guid>
+<pubDate>Fri, 17 May 2013 01:16:50 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -14.601 130.986<br/>TEMPERATURE: 52.1C<br/>CONFIDENCE: 75%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:10Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.532 136.841<br/>TEMPERATURE: 52.6C<br/>CONFIDENCE: 79%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-17T01:16:50Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-14.601 130.986</georss:point>
+<georss:point>-16.532 136.841</georss:point>
 </item>
 <item>
-<title>14.591S 130.978E</title>
+<title>16.533S 136.851E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:cecb3f8bbb4b4163f2fdcae49ea34ff6</guid>
-<pubDate>Mon, 13 May 2013 01:41:10 GMT</pubDate>
+<guid isPermaLink="false">tag:6cd86c9dce3f65d43b3711c7c8cd2cd0</guid>
+<pubDate>Fri, 17 May 2013 01:16:50 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -14.591 130.978<br/>TEMPERATURE: 46.4C<br/>CONFIDENCE: 64%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:10Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.533 136.851<br/>TEMPERATURE: 48.4C<br/>CONFIDENCE: 74%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-17T01:16:50Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-14.591 130.978</georss:point>
+<georss:point>-16.533 136.851</georss:point>
 </item>
 <item>
-<title>14.576S 130.243E</title>
+<title>16.516S 136.791E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:67b1b07cdb9634a48982aeb6c7d4a721</guid>
-<pubDate>Mon, 13 May 2013 01:41:10 GMT</pubDate>
+<guid isPermaLink="false">tag:06096c8cca964dc7846533c87ff02dfc</guid>
+<pubDate>Fri, 17 May 2013 01:16:50 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -14.576 130.243<br/>TEMPERATURE: 46.2C<br/>CONFIDENCE: 43%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:10Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.516 136.791<br/>TEMPERATURE: 43.4C<br/>CONFIDENCE: 66%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-17T01:16:50Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-14.576 130.243</georss:point>
+<georss:point>-16.516 136.791</georss:point>
 </item>
 <item>
-<title>14.488S 130.273E</title>
+<title>16.427S 136.811E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:c5d5757723013aede1c694a715f76fd7</guid>
-<pubDate>Mon, 13 May 2013 01:41:10 GMT</pubDate>
+<guid isPermaLink="false">tag:a32bc5ec27ae661c0a5a356819b23d0e</guid>
+<pubDate>Fri, 17 May 2013 01:16:50 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -14.488 130.273<br/>TEMPERATURE: 49.7C<br/>CONFIDENCE: 68%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:10Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.427 136.811<br/>TEMPERATURE: 42.4C<br/>CONFIDENCE: 60%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-17T01:16:50Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-14.488 130.273</georss:point>
+<georss:point>-16.427 136.811</georss:point>
 </item>
 <item>
-<title>14.448S 130.062E</title>
+<title>16.418S 136.812E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:a2ebac36d342dee3e9c81030ab2db017</guid>
-<pubDate>Mon, 13 May 2013 01:41:10 GMT</pubDate>
+<guid isPermaLink="false">tag:196cec4a5921014e4bee0749cd7a7374</guid>
+<pubDate>Fri, 17 May 2013 01:16:50 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -14.448 130.062<br/>TEMPERATURE: 45.5C<br/>CONFIDENCE: 51%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:10Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.418 136.812<br/>TEMPERATURE: 44.8C<br/>CONFIDENCE: 69%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-17T01:16:50Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-14.448 130.062</georss:point>
+<georss:point>-16.418 136.812</georss:point>
 </item>
 <item>
-<title>14.439S 130.064E</title>
+<title>16.419S 136.822E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:4c7e263860f6204869cf08a4e0f9f942</guid>
-<pubDate>Mon, 13 May 2013 01:41:10 GMT</pubDate>
+<guid isPermaLink="false">tag:bbc45a3fc77a1f05bcd6b0c8f6737e24</guid>
+<pubDate>Fri, 17 May 2013 01:16:50 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -14.439 130.064<br/>TEMPERATURE: 45.0C<br/>CONFIDENCE: 44%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:10Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.419 136.822<br/>TEMPERATURE: 52.3C<br/>CONFIDENCE: 79%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-17T01:16:50Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-14.439 130.064</georss:point>
+<georss:point>-16.419 136.822</georss:point>
 </item>
 <item>
-<title>14.206S 126.413E</title>
+<title>15.350S 129.442E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:694d8a0782b392a92c30112d7597c1fb</guid>
-<pubDate>Mon, 13 May 2013 01:41:10 GMT</pubDate>
+<guid isPermaLink="false">tag:cf340755f358f21b2b83dc4f4b51f2f3</guid>
+<pubDate>Fri, 17 May 2013 01:16:50 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -14.206 126.413<br/>TEMPERATURE: 51.1C<br/>CONFIDENCE: 74%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:10Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -15.350 129.442<br/>TEMPERATURE: 44.8C<br/>CONFIDENCE: 47%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-17T01:16:50Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-14.206 126.413</georss:point>
+<georss:point>-15.350 129.442</georss:point>
 </item>
 <item>
-<title>14.199S 126.407E</title>
+<title>16.376S 137.629E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:a63bd064ba2bc5ae921d1f91d67eb446</guid>
-<pubDate>Mon, 13 May 2013 01:41:10 GMT</pubDate>
+<guid isPermaLink="false">tag:53927f797ec7777bf22f486ef6eab94b</guid>
+<pubDate>Fri, 17 May 2013 01:16:40 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -14.199 126.407<br/>TEMPERATURE: 50.9C<br/>CONFIDENCE: 75%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:10Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.376 137.629<br/>TEMPERATURE: 45.1C<br/>CONFIDENCE: 43%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-17T01:16:40Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-14.199 126.407</georss:point>
+<georss:point>-16.376 137.629</georss:point>
 </item>
 <item>
-<title>14.552S 131.032E</title>
+<title>16.356S 137.669E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:763eadec5fcbcc0e9ce032bc38590124</guid>
-<pubDate>Mon, 13 May 2013 01:41:00 GMT</pubDate>
+<guid isPermaLink="false">tag:1f80f2c747ecc1090ed364597ab03f36</guid>
+<pubDate>Fri, 17 May 2013 01:16:40 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -14.552 131.032<br/>TEMPERATURE: 49.7C<br/>CONFIDENCE: 66%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:00Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.356 137.669<br/>TEMPERATURE: 47.2C<br/>CONFIDENCE: 70%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-17T01:16:40Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-14.552 131.032</georss:point>
+<georss:point>-16.356 137.669</georss:point>
 </item>
 <item>
-<title>14.542S 131.024E</title>
+<title>16.342S 137.641E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:7af8465ecf2be16f775cc89d865f9baf</guid>
-<pubDate>Mon, 13 May 2013 01:41:00 GMT</pubDate>
+<guid isPermaLink="false">tag:7edbcc4e28de0a6c52351751b79f9521</guid>
+<pubDate>Fri, 17 May 2013 01:16:40 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -14.542 131.024<br/>TEMPERATURE: 53.7C<br/>CONFIDENCE: 76%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:00Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.342 137.641<br/>TEMPERATURE: 43.1C<br/>CONFIDENCE: 52%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-17T01:16:40Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-14.542 131.024</georss:point>
+<georss:point>-16.342 137.641</georss:point>
 </item>
 <item>
-<title>14.533S 131.021E</title>
+<title>16.271S 137.539E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:04a1fce946587ac72da0b499dd2fee95</guid>
-<pubDate>Mon, 13 May 2013 01:41:00 GMT</pubDate>
+<guid isPermaLink="false">tag:c9e5d8e1dad12e3aa981a9ab23575717</guid>
+<pubDate>Fri, 17 May 2013 01:16:40 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -14.533 131.021<br/>TEMPERATURE: 56.9C<br/>CONFIDENCE: 83%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:00Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.271 137.539<br/>TEMPERATURE: 41.1C<br/>CONFIDENCE: 60%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-17T01:16:40Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-14.533 131.021</georss:point>
+<georss:point>-16.271 137.539</georss:point>
 </item>
 <item>
-<title>14.427S 130.297E</title>
+<title>16.273S 137.549E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:2d7b12dd1fbba8a92b834bc9904f2179</guid>
-<pubDate>Mon, 13 May 2013 01:41:00 GMT</pubDate>
+<guid isPermaLink="false">tag:27e8159821fdda2170991152ec1481a3</guid>
+<pubDate>Fri, 17 May 2013 01:16:40 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -14.427 130.297<br/>TEMPERATURE: 67.8C<br/>CONFIDENCE: 90%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:00Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -16.273 137.549<br/>TEMPERATURE: 40.6C<br/>CONFIDENCE: 59%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-17T01:16:40Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-14.427 130.297</georss:point>
+<georss:point>-16.273 137.549</georss:point>
 </item>
 <item>
-<title>14.429S 130.306E</title>
+<title>14.594S 131.021E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:53d7806410c8f9ede613249c96cd0e3a</guid>
-<pubDate>Mon, 13 May 2013 01:41:00 GMT</pubDate>
+<guid isPermaLink="false">tag:201f10854769acd40c873408bec1d974</guid>
+<pubDate>Fri, 17 May 2013 01:16:40 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -14.429 130.306<br/>TEMPERATURE: 51.3C<br/>CONFIDENCE: 77%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:00Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -14.594 131.021<br/>TEMPERATURE: 51.0C<br/>CONFIDENCE: 77%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-17T01:16:40Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-14.429 130.306</georss:point>
+<georss:point>-14.594 131.021</georss:point>
 </item>
 <item>
-<title>14.358S 131.409E</title>
+<title>14.177S 132.246E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:93a46797575e74ba8934691cda5e07fe</guid>
-<pubDate>Mon, 13 May 2013 01:41:00 GMT</pubDate>
+<guid isPermaLink="false">tag:ad28357826f868ef7116d53e020bf6e8</guid>
+<pubDate>Fri, 17 May 2013 01:16:30 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -14.358 131.409<br/>TEMPERATURE: 49.4C<br/>CONFIDENCE: 41%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:00Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -14.177 132.246<br/>TEMPERATURE: 50.8C<br/>CONFIDENCE: 77%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-17T01:16:30Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-14.358 131.409</georss:point>
+<georss:point>-14.177 132.246</georss:point>
 </item>
 <item>
-<title>14.359S 131.418E</title>
+<title>14.141S 131.691E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:82a08b48e5560a9c272cd7fe4d237628</guid>
-<pubDate>Mon, 13 May 2013 01:41:00 GMT</pubDate>
+<guid isPermaLink="false">tag:7ba57ca21fd8eca7ab877a9cc9f17d40</guid>
+<pubDate>Fri, 17 May 2013 01:16:30 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -14.359 131.418<br/>TEMPERATURE: 50.2C<br/>CONFIDENCE: 56%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:00Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -14.141 131.691<br/>TEMPERATURE: 42.0C<br/>CONFIDENCE: 58%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-17T01:16:30Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-14.359 131.418</georss:point>
+<georss:point>-14.141 131.691</georss:point>
 </item>
 <item>
-<title>14.349S 131.410E</title>
+<title>13.781S 132.509E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:43e6f839a30afd44c79590f9a2aa9caa</guid>
-<pubDate>Mon, 13 May 2013 01:41:00 GMT</pubDate>
+<guid isPermaLink="false">tag:31efb02b078f7f3d93544219fd2ef223</guid>
+<pubDate>Fri, 17 May 2013 01:16:20 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -14.349 131.410<br/>TEMPERATURE: 52.1C<br/>CONFIDENCE: 55%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:00Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -13.781 132.509<br/>TEMPERATURE: 39.9C<br/>CONFIDENCE: 57%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-17T01:16:20Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-14.349 131.410</georss:point>
+<georss:point>-13.781 132.509</georss:point>
 </item>
 <item>
-<title>14.293S 131.021E</title>
+<title>13.489S 131.787E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:692603c835110c4a79f0dad0618c52c4</guid>
-<pubDate>Mon, 13 May 2013 01:41:00 GMT</pubDate>
+<guid isPermaLink="false">tag:d22a5cec723a68e47b682799c4c2911f</guid>
+<pubDate>Fri, 17 May 2013 01:16:20 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -14.293 131.021<br/>TEMPERATURE: 49.6C<br/>CONFIDENCE: 65%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:00Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -13.489 131.787<br/>TEMPERATURE: 73.9C<br/>CONFIDENCE: 94%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-17T01:16:20Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-14.293 131.021</georss:point>
+<georss:point>-13.489 131.787</georss:point>
 </item>
 <item>
-<title>14.284S 131.023E</title>
+<title>13.491S 131.802E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:020a016876b45dc70cf8b532a89d6b5d</guid>
-<pubDate>Mon, 13 May 2013 01:41:00 GMT</pubDate>
+<guid isPermaLink="false">tag:855d7fe46a4bee33636de9c2ea677c8d</guid>
+<pubDate>Fri, 17 May 2013 01:16:20 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -14.284 131.023<br/>TEMPERATURE: 62.2C<br/>CONFIDENCE: 87%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:00Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -13.491 131.802<br/>TEMPERATURE: 66.3C<br/>CONFIDENCE: 89%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-17T01:16:20Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-14.284 131.023</georss:point>
+<georss:point>-13.491 131.802</georss:point>
 </item>
 <item>
-<title>14.238S 130.013E</title>
+<title>13.494S 131.817E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:6cc092b7f59fdb1cd11be8f4fdd6c572</guid>
-<pubDate>Mon, 13 May 2013 01:41:00 GMT</pubDate>
+<guid isPermaLink="false">tag:ffbebea195d9f6231f6f6249e6b0498b</guid>
+<pubDate>Fri, 17 May 2013 01:16:20 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -14.238 130.013<br/>TEMPERATURE: 41.8C<br/>CONFIDENCE: 62%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:00Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -13.494 131.817<br/>TEMPERATURE: 46.8C<br/>CONFIDENCE: 72%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-17T01:16:20Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-14.238 130.013</georss:point>
+<georss:point>-13.494 131.817</georss:point>
 </item>
 <item>
-<title>14.158S 131.035E</title>
+<title>13.486S 131.772E</title>
 <category>modis</category>
-<guid isPermaLink="false">tag:436f57e5033af816eb941d24a923a011</guid>
-<pubDate>Mon, 13 May 2013 01:41:00 GMT</pubDate>
+<guid isPermaLink="false">tag:6b691549cba3f78f7a6adb345b26f28a</guid>
+<pubDate>Fri, 17 May 2013 01:16:20 GMT</pubDate>
 <description>
-<![CDATA[LOCATION: -14.158 131.035<br/>TEMPERATURE: 54.6C<br/>CONFIDENCE: 81%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:00Z<br/>GRID: 1km]]>
+<![CDATA[LOCATION: -13.486 131.772<br/>TEMPERATURE: 48.8C<br/>CONFIDENCE: 75%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-17T01:16:20Z<br/>GRID: 1km]]>
 </description>
-<georss:point>-14.158 131.035</georss:point>
-</item>
-<item>
-<title>14.159S 131.044E</title>
-<category>modis</category>
-<guid isPermaLink="false">tag:a44b36729e7288fd9b53925cf95dceed</guid>
-<pubDate>Mon, 13 May 2013 01:41:00 GMT</pubDate>
-<description>
-<![CDATA[LOCATION: -14.159 131.044<br/>TEMPERATURE: 49.1C<br/>CONFIDENCE: 75%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:00Z<br/>GRID: 1km]]>
-</description>
-<georss:point>-14.159 131.044</georss:point>
-</item>
-<item>
-<title>14.138S 131.666E</title>
-<category>modis</category>
-<guid isPermaLink="false">tag:3255bfd970b7c9fac8130d35704b86e9</guid>
-<pubDate>Mon, 13 May 2013 01:41:00 GMT</pubDate>
-<description>
-<![CDATA[LOCATION: -14.138 131.666<br/>TEMPERATURE: 50.8C<br/>CONFIDENCE: 66%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:00Z<br/>GRID: 1km]]>
-</description>
-<georss:point>-14.138 131.666</georss:point>
-</item>
-<item>
-<title>14.139S 131.676E</title>
-<category>modis</category>
-<guid isPermaLink="false">tag:241d3950930337edeb72847f0d450792</guid>
-<pubDate>Mon, 13 May 2013 01:41:00 GMT</pubDate>
-<description>
-<![CDATA[LOCATION: -14.139 131.676<br/>TEMPERATURE: 57.3C<br/>CONFIDENCE: 82%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:00Z<br/>GRID: 1km]]>
-</description>
-<georss:point>-14.139 131.676</georss:point>
-</item>
-<item>
-<title>14.140S 131.686E</title>
-<category>modis</category>
-<guid isPermaLink="false">tag:4d074951e8f5e50405df6c73eb2b293b</guid>
-<pubDate>Mon, 13 May 2013 01:41:00 GMT</pubDate>
-<description>
-<![CDATA[LOCATION: -14.140 131.686<br/>TEMPERATURE: 52.1C<br/>CONFIDENCE: 41%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:00Z<br/>GRID: 1km]]>
-</description>
-<georss:point>-14.140 131.686</georss:point>
-</item>
-<item>
-<title>13.998S 131.138E</title>
-<category>modis</category>
-<guid isPermaLink="false">tag:920e561547745c7acabc9b9606d1521a</guid>
-<pubDate>Mon, 13 May 2013 01:41:00 GMT</pubDate>
-<description>
-<![CDATA[LOCATION: -13.998 131.138<br/>TEMPERATURE: 55.8C<br/>CONFIDENCE: 82%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:00Z<br/>GRID: 1km]]>
-</description>
-<georss:point>-13.998 131.138</georss:point>
-</item>
-<item>
-<title>13.994S 130.733E</title>
-<category>modis</category>
-<guid isPermaLink="false">tag:ed7813823803fe9235a044df877abdd5</guid>
-<pubDate>Mon, 13 May 2013 01:41:00 GMT</pubDate>
-<description>
-<![CDATA[LOCATION: -13.994 130.733<br/>TEMPERATURE: 47.5C<br/>CONFIDENCE: 52%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:00Z<br/>GRID: 1km]]>
-</description>
-<georss:point>-13.994 130.733</georss:point>
-</item>
-<item>
-<title>13.989S 131.139E</title>
-<category>modis</category>
-<guid isPermaLink="false">tag:a973625fde31e9ebe6f5c430796aad06</guid>
-<pubDate>Mon, 13 May 2013 01:41:00 GMT</pubDate>
-<description>
-<![CDATA[LOCATION: -13.989 131.139<br/>TEMPERATURE: 105.2C<br/>CONFIDENCE: 100%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:00Z<br/>GRID: 1km]]>
-</description>
-<georss:point>-13.989 131.139</georss:point>
-</item>
-<item>
-<title>13.990S 131.149E</title>
-<category>modis</category>
-<guid isPermaLink="false">tag:9cc313c08113f1b788abf2479cf4759f</guid>
-<pubDate>Mon, 13 May 2013 01:41:00 GMT</pubDate>
-<description>
-<![CDATA[LOCATION: -13.990 131.149<br/>TEMPERATURE: 62.7C<br/>CONFIDENCE: 87%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:00Z<br/>GRID: 1km]]>
-</description>
-<georss:point>-13.990 131.149</georss:point>
-</item>
-<item>
-<title>13.985S 130.734E</title>
-<category>modis</category>
-<guid isPermaLink="false">tag:8d089ab949ca1445f519ba073672d10b</guid>
-<pubDate>Mon, 13 May 2013 01:41:00 GMT</pubDate>
-<description>
-<![CDATA[LOCATION: -13.985 130.734<br/>TEMPERATURE: 66.7C<br/>CONFIDENCE: 90%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:00Z<br/>GRID: 1km]]>
-</description>
-<georss:point>-13.985 130.734</georss:point>
-</item>
-<item>
-<title>13.965S 129.913E</title>
-<category>modis</category>
-<guid isPermaLink="false">tag:54be654e789ca42724e574e995a51948</guid>
-<pubDate>Mon, 13 May 2013 01:41:00 GMT</pubDate>
-<description>
-<![CDATA[LOCATION: -13.965 129.913<br/>TEMPERATURE: 42.7C<br/>CONFIDENCE: 56%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:41:00Z<br/>GRID: 1km]]>
-</description>
-<georss:point>-13.965 129.913</georss:point>
-</item>
-<item>
-<title>13.968S 131.123E</title>
-<category>modis</category>
-<guid isPermaLink="false">tag:4b13620cd57ff43d35dde51d6d8a5694</guid>
-<pubDate>Mon, 13 May 2013 01:40:50 GMT</pubDate>
-<description>
-<![CDATA[LOCATION: -13.968 131.123<br/>TEMPERATURE: 62.6C<br/>CONFIDENCE: 87%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:40:50Z<br/>GRID: 1km]]>
-</description>
-<georss:point>-13.968 131.123</georss:point>
-</item>
-<item>
-<title>13.969S 131.133E</title>
-<category>modis</category>
-<guid isPermaLink="false">tag:d3675fd6629cf085794df8d1a7770e03</guid>
-<pubDate>Mon, 13 May 2013 01:40:50 GMT</pubDate>
-<description>
-<![CDATA[LOCATION: -13.969 131.133<br/>TEMPERATURE: 50.1C<br/>CONFIDENCE: 63%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:40:50Z<br/>GRID: 1km]]>
-</description>
-<georss:point>-13.969 131.133</georss:point>
-</item>
-<item>
-<title>13.957S 131.115E</title>
-<category>modis</category>
-<guid isPermaLink="false">tag:1c00331b8e8e0a44cf04f24986481cf3</guid>
-<pubDate>Mon, 13 May 2013 01:40:50 GMT</pubDate>
-<description>
-<![CDATA[LOCATION: -13.957 131.115<br/>TEMPERATURE: 66.5C<br/>CONFIDENCE: 90%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:40:50Z<br/>GRID: 1km]]>
-</description>
-<georss:point>-13.957 131.115</georss:point>
-</item>
-<item>
-<title>13.777S 132.505E</title>
-<category>modis</category>
-<guid isPermaLink="false">tag:1893c95bebac2ffc9e8160359a61cf5f</guid>
-<pubDate>Mon, 13 May 2013 01:40:50 GMT</pubDate>
-<description>
-<![CDATA[LOCATION: -13.777 132.505<br/>TEMPERATURE: 39.3C<br/>CONFIDENCE: 54%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:40:50Z<br/>GRID: 1km]]>
-</description>
-<georss:point>-13.777 132.505</georss:point>
-</item>
-<item>
-<title>13.716S 130.718E</title>
-<category>modis</category>
-<guid isPermaLink="false">tag:88573feb1307468c2c495e62e1232e7f</guid>
-<pubDate>Mon, 13 May 2013 01:40:50 GMT</pubDate>
-<description>
-<![CDATA[LOCATION: -13.716 130.718<br/>TEMPERATURE: 56.9C<br/>CONFIDENCE: 83%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:40:50Z<br/>GRID: 1km]]>
-</description>
-<georss:point>-13.716 130.718</georss:point>
-</item>
-<item>
-<title>13.689S 130.722E</title>
-<category>modis</category>
-<guid isPermaLink="false">tag:01bba1be197b17e0e63da8ccab1c1a3b</guid>
-<pubDate>Mon, 13 May 2013 01:40:50 GMT</pubDate>
-<description>
-<![CDATA[LOCATION: -13.689 130.722<br/>TEMPERATURE: 51.2C<br/>CONFIDENCE: 77%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:40:50Z<br/>GRID: 1km]]>
-</description>
-<georss:point>-13.689 130.722</georss:point>
-</item>
-<item>
-<title>13.690S 130.731E</title>
-<category>modis</category>
-<guid isPermaLink="false">tag:346424a1eb65e2a72655a14f4a435e2e</guid>
-<pubDate>Mon, 13 May 2013 01:40:50 GMT</pubDate>
-<description>
-<![CDATA[LOCATION: -13.690 130.731<br/>TEMPERATURE: 44.5C<br/>CONFIDENCE: 65%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:40:50Z<br/>GRID: 1km]]>
-</description>
-<georss:point>-13.690 130.731</georss:point>
-</item>
-<item>
-<title>13.653S 132.003E</title>
-<category>modis</category>
-<guid isPermaLink="false">tag:e2ce779c7f62d3f08cfd411785647eaa</guid>
-<pubDate>Mon, 13 May 2013 01:40:50 GMT</pubDate>
-<description>
-<![CDATA[LOCATION: -13.653 132.003<br/>TEMPERATURE: 49.3C<br/>CONFIDENCE: 61%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:40:50Z<br/>GRID: 1km]]>
-</description>
-<georss:point>-13.653 132.003</georss:point>
-</item>
-<item>
-<title>13.306S 130.625E</title>
-<category>modis</category>
-<guid isPermaLink="false">tag:b4585e12e0cdcb38bb9d0e8c2ebb16a6</guid>
-<pubDate>Mon, 13 May 2013 01:40:50 GMT</pubDate>
-<description>
-<![CDATA[LOCATION: -13.306 130.625<br/>TEMPERATURE: 52.9C<br/>CONFIDENCE: 63%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:40:50Z<br/>GRID: 1km]]>
-</description>
-<georss:point>-13.306 130.625</georss:point>
-</item>
-<item>
-<title>13.308S 130.634E</title>
-<category>modis</category>
-<guid isPermaLink="false">tag:aad52bffe9085d66ce87cc1a3c40c503</guid>
-<pubDate>Mon, 13 May 2013 01:40:50 GMT</pubDate>
-<description>
-<![CDATA[LOCATION: -13.308 130.634<br/>TEMPERATURE: 50.6C<br/>CONFIDENCE: 43%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:40:50Z<br/>GRID: 1km]]>
-</description>
-<georss:point>-13.308 130.634</georss:point>
-</item>
-<item>
-<title>13.298S 130.627E</title>
-<category>modis</category>
-<guid isPermaLink="false">tag:3afeab05993084aff1c2123521425a86</guid>
-<pubDate>Mon, 13 May 2013 01:40:50 GMT</pubDate>
-<description>
-<![CDATA[LOCATION: -13.298 130.627<br/>TEMPERATURE: 64.8C<br/>CONFIDENCE: 88%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:40:50Z<br/>GRID: 1km]]>
-</description>
-<georss:point>-13.298 130.627</georss:point>
-</item>
-<item>
-<title>13.299S 130.636E</title>
-<category>modis</category>
-<guid isPermaLink="false">tag:12b8dd94c7e0f5971869957ded5a5b9e</guid>
-<pubDate>Mon, 13 May 2013 01:40:50 GMT</pubDate>
-<description>
-<![CDATA[LOCATION: -13.299 130.636<br/>TEMPERATURE: 55.6C<br/>CONFIDENCE: 59%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:40:50Z<br/>GRID: 1km]]>
-</description>
-<georss:point>-13.299 130.636</georss:point>
-</item>
-<item>
-<title>13.544S 132.600E</title>
-<category>modis</category>
-<guid isPermaLink="false">tag:2ea3bd1fd4e66da6e4cf4f9ad6dc4dba</guid>
-<pubDate>Mon, 13 May 2013 01:40:40 GMT</pubDate>
-<description>
-<![CDATA[LOCATION: -13.544 132.600<br/>TEMPERATURE: 50.6C<br/>CONFIDENCE: 64%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:40:40Z<br/>GRID: 1km]]>
-</description>
-<georss:point>-13.544 132.600</georss:point>
-</item>
-<item>
-<title>13.216S 132.643E</title>
-<category>modis</category>
-<guid isPermaLink="false">tag:25ad168383f97f7e251df1c0af45d8a7</guid>
-<pubDate>Mon, 13 May 2013 01:40:40 GMT</pubDate>
-<description>
-<![CDATA[LOCATION: -13.216 132.643<br/>TEMPERATURE: 45.3C<br/>CONFIDENCE: 66%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:40:40Z<br/>GRID: 1km]]>
-</description>
-<georss:point>-13.216 132.643</georss:point>
-</item>
-<item>
-<title>13.001S 131.185E</title>
-<category>modis</category>
-<guid isPermaLink="false">tag:39d19143accf92e6206c8f966abcca90</guid>
-<pubDate>Mon, 13 May 2013 01:40:40 GMT</pubDate>
-<description>
-<![CDATA[LOCATION: -13.001 131.185<br/>TEMPERATURE: 40.5C<br/>CONFIDENCE: 51%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:40:40Z<br/>GRID: 1km]]>
-</description>
-<georss:point>-13.001 131.185</georss:point>
-</item>
-<item>
-<title>13.003S 131.194E</title>
-<category>modis</category>
-<guid isPermaLink="false">tag:86ee7a3604cedbb492b3bc79a645559c</guid>
-<pubDate>Mon, 13 May 2013 01:40:40 GMT</pubDate>
-<description>
-<![CDATA[LOCATION: -13.003 131.194<br/>TEMPERATURE: 53.1C<br/>CONFIDENCE: 79%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:40:40Z<br/>GRID: 1km]]>
-</description>
-<georss:point>-13.003 131.194</georss:point>
-</item>
-<item>
-<title>12.950S 130.395E</title>
-<category>modis</category>
-<guid isPermaLink="false">tag:89cc6a59c8b9f3aae49bb4d7f423c86f</guid>
-<pubDate>Mon, 13 May 2013 01:40:40 GMT</pubDate>
-<description>
-<![CDATA[LOCATION: -12.950 130.395<br/>TEMPERATURE: 47.4C<br/>CONFIDENCE: 56%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:40:40Z<br/>GRID: 1km]]>
-</description>
-<georss:point>-12.950 130.395</georss:point>
-</item>
-<item>
-<title>13.075S 132.955E</title>
-<category>modis</category>
-<guid isPermaLink="false">tag:d7d22504acebc662024280c492ccb140</guid>
-<pubDate>Mon, 13 May 2013 01:40:30 GMT</pubDate>
-<description>
-<![CDATA[LOCATION: -13.075 132.955<br/>TEMPERATURE: 49.0C<br/>CONFIDENCE: 56%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:40:30Z<br/>GRID: 1km]]>
-</description>
-<georss:point>-13.075 132.955</georss:point>
-</item>
-<item>
-<title>13.063S 132.946E</title>
-<category>modis</category>
-<guid isPermaLink="false">tag:e9f100b00bed519c6cc8109e259d89e3</guid>
-<pubDate>Mon, 13 May 2013 01:40:30 GMT</pubDate>
-<description>
-<![CDATA[LOCATION: -13.063 132.946<br/>TEMPERATURE: 49.9C<br/>CONFIDENCE: 43%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:40:30Z<br/>GRID: 1km]]>
-</description>
-<georss:point>-13.063 132.946</georss:point>
-</item>
-<item>
-<title>13.061S 132.952E</title>
-<category>modis</category>
-<guid isPermaLink="false">tag:7ff685a7b1a7b79ed0db5f17cc4e75a1</guid>
-<pubDate>Mon, 13 May 2013 01:40:30 GMT</pubDate>
-<description>
-<![CDATA[LOCATION: -13.061 132.952<br/>TEMPERATURE: 55.0C<br/>CONFIDENCE: 73%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:40:30Z<br/>GRID: 1km]]>
-</description>
-<georss:point>-13.061 132.952</georss:point>
-</item>
-<item>
-<title>12.959S 132.709E</title>
-<category>modis</category>
-<guid isPermaLink="false">tag:131e74251ff85fa46b98028d104b7c9b</guid>
-<pubDate>Mon, 13 May 2013 01:40:30 GMT</pubDate>
-<description>
-<![CDATA[LOCATION: -12.959 132.709<br/>TEMPERATURE: 56.9C<br/>CONFIDENCE: 83%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-13T01:40:30Z<br/>GRID: 1km]]>
-</description>
-<georss:point>-12.959 132.709</georss:point>
-</item>
-<item>
-<title>13.831S 132.085E</title>
-<category>modis</category>
-<guid isPermaLink="false">tag:0dfb5a8ccfac6953da065229c1e06400</guid>
-<pubDate>Sun, 12 May 2013 16:16:40 GMT</pubDate>
-<description>
-<![CDATA[LOCATION: -13.831 132.085<br/>TEMPERATURE: 36.3C<br/>CONFIDENCE: 66%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-12T16:16:40Z<br/>GRID: 1km]]>
-</description>
-<georss:point>-13.831 132.085</georss:point>
-</item>
-<item>
-<title>12.474S 141.845E</title>
-<category>modis</category>
-<guid isPermaLink="false">tag:08d9f774793fb741966bfc4ccf38f388</guid>
-<pubDate>Sun, 12 May 2013 16:15:40 GMT</pubDate>
-<description>
-<![CDATA[LOCATION: -12.474 141.845<br/>TEMPERATURE: 34.5C<br/>CONFIDENCE: 55%<br/>SATELLITE: aqua<br/>OBS TIME: 2013-05-12T16:15:40Z<br/>GRID: 1km]]>
-</description>
-<georss:point>-12.474 141.845</georss:point>
-</item>
-<item>
-<title>16.705S 123.913E</title>
-<category>modis</category>
-<guid isPermaLink="false">tag:0eddf7fdb48ff630fdb1ebeea3267281</guid>
-<pubDate>Sun, 12 May 2013 14:49:30 GMT</pubDate>
-<description>
-<![CDATA[LOCATION: -16.705 123.913<br/>TEMPERATURE: 34.9C<br/>CONFIDENCE: 58%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-12T14:49:30Z<br/>GRID: 1km]]>
-</description>
-<georss:point>-16.705 123.913</georss:point>
-</item>
-<item>
-<title>19.192S 135.145E</title>
-<category>modis</category>
-<guid isPermaLink="false">tag:a7bc2680d472cb40c2fec4c0f749f2b7</guid>
-<pubDate>Sun, 12 May 2013 13:10:40 GMT</pubDate>
-<description>
-<![CDATA[LOCATION: -19.192 135.145<br/>TEMPERATURE: 35.4C<br/>CONFIDENCE: 61%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-12T13:10:40Z<br/>GRID: 1km]]>
-</description>
-<georss:point>-19.192 135.145</georss:point>
-</item>
-<item>
-<title>19.187S 135.139E</title>
-<category>modis</category>
-<guid isPermaLink="false">tag:d4fb7d2daf6605456bb29481a1e17ad5</guid>
-<pubDate>Sun, 12 May 2013 13:10:40 GMT</pubDate>
-<description>
-<![CDATA[LOCATION: -19.187 135.139<br/>TEMPERATURE: 33.6C<br/>CONFIDENCE: 48%<br/>SATELLITE: terra<br/>OBS TIME: 2013-05-12T13:10:40Z<br/>GRID: 1km]]>
-</description>
-<georss:point>-19.187 135.139</georss:point>
+<georss:point>-13.486 131.772</georss:point>
 </item>
 </channel>
 </rss>

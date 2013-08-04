@@ -16,74 +16,23 @@
         <atom:link href="http://www.fire.tas.gov.au/Show?pageId=colBushfireSummariesRss" rel="self" type="application/rss+xml" />
         <description>This information is updated at 9:00 am, midday and 5:00 pm unless significant fire activity occurs.</description>
         <language>en-us</language>
-        <pubDate>Mon, 13 May 2013 22:31:50 +1000</pubDate>
+        <pubDate>Fri, 17 May 2013 20:35:53 +1000</pubDate>
         <webMaster>tfsonline@fire.tas.gov.au</webMaster>
         <docs>http://www.fire.tas.gov.au/Show?pageId=xmlFeedsHome</docs>
         <ttl>60</ttl>
         
             <item>
-                <title>Lansdowne Crescent, WEST HOBART</title>
-                <link>http://www.fire.tas.gov.au/i/206350</link>
+                <title>Rowes Road, GEEVESTON</title>
+                <link>http://www.fire.tas.gov.au/i/206456</link>
                 <category>No Alert Level</category>
-                <guid isPermaLink="false">tag:www.fire.tas.gov.au,2013-05-13:206350</guid>
-                <pubDate>Mon, 13 May 2013 22:07:29 +1000</pubDate>
+                <guid isPermaLink="false">tag:www.fire.tas.gov.au,2013-05-17:206456</guid>
+                <pubDate>Fri, 17 May 2013 20:17:43 +1000</pubDate>
                 <description><![CDATA[
-                    ALERT LEVEL: No Alert Level<br /> Region: S<br /> LOCATION: Lansdowne Crescent, WEST HOBART<br /> STATUS: Contained<br /> TYPE: VEHICLE FIRE<br /> SIZE: Not Available<br /> Number of Vehicles: 1<br /> More Info: <br /> View On Map: <br /> RESPONSIBLE AGENCY: Tasmania Fire Service<br /> UPDATED: Mon, 13 May 2013 22:07:29 +1000<br /> 
+                    ALERT LEVEL: No Alert Level<br /> Region: S<br /> LOCATION: Rowes Road, GEEVESTON<br /> STATUS: Going<br /> TYPE: VEGETATION FIRE<br /> SIZE: Not Available<br /> Number of Vehicles: 1<br /> More Info: <br /> View On Map: <br /> RESPONSIBLE AGENCY: Tasmania Fire Service<br /> UPDATED: Fri, 17 May 2013 20:17:43 +1000<br /> 
                     ]]>
                 </description>
                 
-                    <georss:point>-42.880533934662914 147.30989596691623</georss:point>
-                    
-                    
-                
-            </item>
-        
-            <item>
-                <title>Holyman Avenue, CAMBRIDGE</title>
-                <link>http://www.fire.tas.gov.au/i/206343</link>
-                <category>No Alert Level</category>
-                <guid isPermaLink="false">tag:www.fire.tas.gov.au,2013-05-13:206343</guid>
-                <pubDate>Mon, 13 May 2013 17:05:40 +1000</pubDate>
-                <description><![CDATA[
-                    ALERT LEVEL: No Alert Level<br /> Region: S<br /> LOCATION: Holyman Avenue, CAMBRIDGE<br /> STATUS: Contained<br /> TYPE: HAZMAT<br /> SIZE: Not Available<br /> Number of Vehicles: 3<br /> More Info: <br /> View On Map: <br /> RESPONSIBLE AGENCY: Tasmania Fire Service<br /> UPDATED: Mon, 13 May 2013 17:05:40 +1000<br /> 
-                    ]]>
-                </description>
-                
-                    <georss:point>-42.8373344865326 147.50503457725696</georss:point>
-                    
-                    
-                
-            </item>
-        
-            <item>
-                <title>Okehampton Road, TRIABUNNA</title>
-                <link>http://www.fire.tas.gov.au/i/206318</link>
-                <category>No Alert Level</category>
-                <guid isPermaLink="false">tag:www.fire.tas.gov.au,2013-05-12:206318</guid>
-                <pubDate>Mon, 13 May 2013 10:54:10 +1000</pubDate>
-                <description><![CDATA[
-                    ALERT LEVEL: No Alert Level<br /> Region: S<br /> LOCATION: Okehampton Road, TRIABUNNA<br /> STATUS: Patrol<br /> TYPE: VEGETATION FIRE<br /> SIZE: Not reported<br /> Number of Vehicles: <br /> More Info: <a href="http://www.fire.tas.gov.au/i/206318">http://www.fire.tas.gov.au/i/206318</a><br /> View On Map: <a href="http://www.fire.tas.gov.au/m/206318">http://www.fire.tas.gov.au/m/206318</a><br /> RESPONSIBLE AGENCY: Tasmania Fire Service<br /> UPDATED: Mon, 13 May 2013 10:54:10 +1000<br /> 
-                    ]]>
-                </description>
-                
-                    <georss:point>-42.51238710309561 147.95243778717165</georss:point>
-                    
-                    
-                
-            </item>
-        
-            <item>
-                <title>Tasman Highway, CHAIN OF LAGOONS</title>
-                <link>http://www.fire.tas.gov.au/i/206029</link>
-                <category>No Alert Level</category>
-                <guid isPermaLink="false">tag:www.fire.tas.gov.au,2013-05-03:206029</guid>
-                <pubDate>Mon, 13 May 2013 10:50:22 +1000</pubDate>
-                <description><![CDATA[
-                    ALERT LEVEL: No Alert Level<br /> Region: S<br /> LOCATION: Tasman Highway, CHAIN OF LAGOONS<br /> STATUS: Patrol<br /> TYPE: VEGETATION FIRE<br /> SIZE: Not reported<br /> Number of Vehicles: <br /> More Info: <a href="http://www.fire.tas.gov.au/i/206029">http://www.fire.tas.gov.au/i/206029</a><br /> View On Map: <a href="http://www.fire.tas.gov.au/m/206029">http://www.fire.tas.gov.au/m/206029</a><br /> RESPONSIBLE AGENCY: Tasmania Fire Service<br /> UPDATED: Mon, 13 May 2013 10:50:22 +1000<br /> 
-                    ]]>
-                </description>
-                
-                    <georss:point>-41.66867926981062 148.28605759344697</georss:point>
+                    <georss:point>-43.16816147626039 146.93763972346954</georss:point>
                     
                     
                 

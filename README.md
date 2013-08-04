@@ -20,6 +20,8 @@ An aggregation of all fires in Australia, from assorted GeoRSS feeds.
 
 ### What's covered?
 
+See for yourself! http://clockwerx.github.com/map.html
+
  * http://www.ruralfire.qld.gov.au/bushfirealert/bushfireAlert.xml
  * http://www.esa.act.gov.au/feeds/currentincidents.xml
  * http://www.rfs.nsw.gov.au/feeds/majorIncidents.xml
@@ -34,4 +36,6 @@ NT does not appear to publish geoRSS
 SA's CFS does not have geocodes fire locations in their feeds
 
 ### TODO
-Query the OSM Overpass API to detect what is in the particular area - forests, buildings, etc
+Improve the rendering frequency - 'whenever I feel like it' is too infrequent.
+
+
