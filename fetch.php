@@ -7,8 +7,7 @@ require_once 'HTTP/Request2.php';
 require_once 'Cache/Lite.php';
 require_once 'Log.php';
 
-$db = new PDO('sqlite:data.sq3');
-$db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+require_once 'config.php';
 
 try {
   $db->query('CREATE TABLE fires(
@@ -66,6 +65,7 @@ $options = array(
 
 // Create a Cache_Lite object
 $cache = new Cache_Lite($options);
+$log = new Log(null);
 
 $request = new HTTP_Request2('http://overpass-api.de/api/interpreter');
 $request->setMethod('POST');
@@ -75,7 +75,6 @@ $request->setMethod('POST');
 // 500/111000 = 0.0045045045
 $offset = 0.0045045045;
 
-$log = new Log(null);
 
 $areas = array();
 $nodes = array();
@@ -139,9 +138,17 @@ foreach ($fires as $fire) {
 }
 file_put_contents('areas.json', json_encode($areas, JSON_PRETTY_PRINT));
 
-$sql = "REPLACE INTO fires(guid, lat, lon, description) VALUES(:guid, :lat, :lon, :description)";
-$statement = $db->prepare($sql);
+
+
 foreach ($fires as $fire) {
+  $exists = $db->query("SELECT * FROM fires WHERE guid = " . $db->quote($file->id))->fetchObject();
+
+  if (!$exists) {
+    $sql = "INSERT INTO fires(guid, lat, lon, description) VALUES(:guid, :lat, :lon, :description)";
+  } else {
+    $sql = "UPDATE fires SET lat = :lat, lon = :lon, description = :description WHERE guid = :guid";
+  }
+  $statement = $db->prepare($sql);
   $statement->execute(array(
     ':guid' => $fire->id, 
     ':lat' => $fire->lat, 
@@ -151,11 +158,16 @@ foreach ($fires as $fire) {
 }
 
 
-$sql = "REPLACE INTO areas(guid, osmid) VALUES(:guid, :osmid)";
-$statement = $db->prepare($sql);
 foreach ($areas as $area) {
-  $statement->execute(array(
-    ':guid' => $area['fire'], 
-    ':osmid' => $area['id']
-  ));
+  $exists = $db->query("SELECT * FROM areas WHERE osmid = " . $db->quote($area['id']) . " and guid = " . $db->quote($area['fire']))->fetchObject();
+
+  if (!$exists) {
+    $sql = "INSERT INTO areas(guid, osmid) VALUES(:guid, :osmid)";
+    $statement = $db->prepare($sql);
+
+    $statement->execute(array(
+      ':guid' => $area['fire'], 
+      ':osmid' => $area['id']
+    ));
+  }
 }
