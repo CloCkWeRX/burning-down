@@ -18,7 +18,7 @@ try {
     title VARCHAR(100),
     status VARCHAR(100),
     location VARCHAR(100),
-    article_timestamp INT(10),
+    article_timestamp VARCHAR(10),
     PRIMARY KEY (guid))');
 
   $db->query('CREATE TABLE areas(
