@@ -9,6 +9,8 @@ require_once 'Log.php';
 
 require_once 'config.php';
 
+$log = new Log(null);
+
 try {
   $db->query('CREATE TABLE fires(
     guid VARCHAR(100),
@@ -27,7 +29,7 @@ try {
     PRIMARY KEY (guid, osmid))'); 
 
 } catch (Exception $e) {
-  print $e;
+  $log->debug($e);
 }
 
 $files = array(
@@ -65,7 +67,7 @@ $options = array(
 
 // Create a Cache_Lite object
 $cache = new Cache_Lite($options);
-$log = new Log(null);
+
 
 $request = new HTTP_Request2('http://overpass-api.de/api/interpreter');
 $request->setMethod('POST');
@@ -132,7 +134,7 @@ foreach ($fires as $fire) {
     }
     
   } catch (HTTP_Request2_MessageException $e) {
-    print $e->getMessage();
+    $log->warning($e->getMessage());
   }
 
 }
@@ -141,7 +143,7 @@ file_put_contents('areas.json', json_encode($areas, JSON_PRETTY_PRINT));
 
 
 foreach ($fires as $fire) {
-  $exists = $db->query("SELECT * FROM fires WHERE guid = " . $db->quote($file->id))->fetchObject();
+  $exists = $db->query("SELECT * FROM fires WHERE guid = " . $db->quote($fire->id))->fetchObject();
 
   if (!$exists) {
     $sql = "INSERT INTO fires(guid, lat, lon, description) VALUES(:guid, :lat, :lon, :description)";
