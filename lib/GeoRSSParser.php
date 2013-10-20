@@ -35,6 +35,7 @@ class GeoRSSParser {
       list($fire->lat, $fire->long) = explode(" ", (string)$point[0]);
     }
   }
+
 }
 
 class DESQLDParser extends GeoRSSParser {

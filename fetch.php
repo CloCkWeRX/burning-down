@@ -146,7 +146,7 @@ foreach ($fires as $fire) {
   $exists = $db->query("SELECT * FROM fires WHERE guid = " . $db->quote($fire->id))->fetchObject();
 
   if (!$exists) {
-    $sql = "INSERT INTO fires(guid, lat, lon, description) VALUES(:guid, :lat, :lon, :description)";
+    $sql = "INSERT INTO fires(guid, lat, lon, description, article_timestamp) VALUES(:guid, :lat, :lon, :description, :article_timestamp)";
   } else {
     $sql = "UPDATE fires SET lat = :lat, lon = :lon, description = :description WHERE guid = :guid";
   }
@@ -155,7 +155,8 @@ foreach ($fires as $fire) {
     ':guid' => $fire->id, 
     ':lat' => $fire->lat, 
     ':lon' => $fire->long,
-    ':description' => $fire->description
+    ':description' => $fire->description,
+    ':article_timestamp' => $fire->date->format("U")
   ));
 }
 
