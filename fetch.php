@@ -148,7 +148,7 @@ foreach ($fires as $fire) {
   if (!$exists) {
     $sql = "INSERT INTO fires(guid, lat, lon, description, article_timestamp) VALUES(:guid, :lat, :lon, :description, :article_timestamp)";
   } else {
-    $sql = "UPDATE fires SET lat = :lat, lon = :lon, description = :description WHERE guid = :guid";
+    $sql = "UPDATE fires SET lat = :lat, lon = :lon, description = :description, article_timestamp = :article_timestamp WHERE guid = :guid";
   }
   $statement = $db->prepare($sql);
   $statement->execute(array(
