@@ -2,14 +2,8 @@
 require_once 'lib/Fire.php';
 require_once 'lib/GeoRSSParser.php';
 
-
-require_once 'HTTP/Request2.php';
-require_once 'Cache/Lite.php';
-require_once 'Log.php';
-
-require_once 'config.php';
-
-$log = new Log(null);
+$db = new PDO('sqlite:data.sqlite');
+$db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
 try {
   $db->query('CREATE TABLE data(
@@ -23,7 +17,7 @@ try {
     article_timestamp VARCHAR(10),
     PRIMARY KEY (guid))');
 } catch (Exception $e) {
-  $log->debug($e);
+  print_r($e);
 }
 
 
