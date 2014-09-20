@@ -17,7 +17,6 @@ try {
     article_timestamp VARCHAR(10),
     PRIMARY KEY (guid))');
 } catch (Exception $e) {
-  print_r($e);
 }
 
 
