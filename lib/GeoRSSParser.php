@@ -45,10 +45,13 @@ class DESQLDParser extends GeoRSSParser {
 
     $parts = explode(". ", $description);
 
-    $fire->location = explode(": ", $parts[2])[1];
+    $loc = explode(": ", $parts[2]);
+    $fire->location = $loc[1];
+    $status = explode(": ", $parts[3]);
 
-    $fire->status = explode(": ", $parts[3])[1];
-    $fire->description = explode(": ", $parts[4])[1];   
+    $fire->status = $status[1];
+    $desc = explode(": ", $parts[4]);
+    $fire->description = $desc[1];   
   }
 
 }
