@@ -12,7 +12,7 @@ require_once 'config.php';
 $log = new Log(null);
 
 try {
-  $db->query('CREATE TABLE fires(
+  $db->query('CREATE TABLE data(
     guid VARCHAR(100),
     lat VARCHAR(20),
     lon VARCHAR(20),
@@ -54,7 +54,7 @@ foreach ($files as $feed_file => $parser) {
 
   $fires = array_merge($fires, $engine->parse());
 }
-file_put_contents('output.json', json_encode($fires, JSON_PRETTY_PRINT));
+// file_put_contents('output.json', json_encode($fires, JSON_PRETTY_PRINT));
 
 // Set a id for this cache
 
@@ -138,7 +138,7 @@ foreach ($fires as $fire) {
   }
 
 }
-file_put_contents('areas.json', json_encode($areas, JSON_PRETTY_PRINT));
+// file_put_contents('areas.json', json_encode($areas, JSON_PRETTY_PRINT));
 
 
 
