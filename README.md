@@ -3,7 +3,7 @@ An aggregation of all fires in Australia, from assorted GeoRSS feeds.
 
 ### What's covered?
 
-See for yourself! http://clockwerx.github.com/map.html
+See for yourself! http://clockwerx.github.io/burning-down/map.html
 
  * http://www.ruralfire.qld.gov.au/bushfirealert/bushfireAlert.xml
  * http://www.esa.act.gov.au/feeds/currentincidents.xml
