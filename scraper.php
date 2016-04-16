@@ -30,7 +30,7 @@ $files = array(
   // // WA ?
   // // NT ?
   'http://www.fire.tas.gov.au/Show?pageId=colBushfireSummariesRss' => 'TASParser',
-  'http://sentinel.ga.gov.au/geoserver/wms/reflect?layers=hotspot_current&format=application/atom+xml' => 'SentinelParser'
+  'http://sentinel.ga.gov.au/geoserver/wms/reflect?layers=hotspot_current&format=application/rss+xml' => 'SentinelParser'
 );
 
 $fires = array();
@@ -38,7 +38,6 @@ foreach ($files as $feed_file => $parser) {
   $document = simplexml_load_file($feed_file);
   $document->registerXPathNamespace('georss', 'http://www.georss.org/georss');
   $engine = new $parser($document);
-
 
   $fires = array_merge($fires, $engine->parse());
 }
