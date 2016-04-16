@@ -30,7 +30,7 @@ $files = array(
   // // WA ?
   // // NT ?
   'http://www.fire.tas.gov.au/Show?pageId=colBushfireSummariesRss' => 'TASParser',
-  'http://sentinel.ga.gov.au/RSS/sentinelrss.xml' => 'SentinelParser'
+  'http://sentinel.ga.gov.au/geoserver/wms/reflect?layers=hotspot_current&format=application/atom+xml' => 'SentinelParser'
 );
 
 $fires = array();
