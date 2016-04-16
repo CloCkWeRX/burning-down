@@ -79,9 +79,20 @@ class TASParser extends GeoRSSParser {
 }
 
 class SentinelParser extends GeoRSSParser {
+  public function parseCoordinates($item, $fire) {
+    $coords = strip_tags((string)$item->description);
+
+    $matches = array();
+    preg_match("/latitude: (.*)/", $coords, $matches);
+    $fire->lat = $matches[1];
+
+    preg_match("/longitude: (.*)/", $coords, $matches);
+    $fire->long = $matches[1];
+  }
+
   public function parseDescription($item, $fire) {
     $description = (string)$item->description;
 
-    $fire->description = str_replace("<br/>", "\n", $description);
+    $fire->description = strip_tags($description);
   }
 }
