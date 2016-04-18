@@ -10,7 +10,7 @@ class GeoRSSParser {
     foreach ($this->feed->xpath("//item") as $item) {
       $fire = clone $this->fire;
 
-      $fire->id = (string)$item->guid;
+      $this->parseID($item, $fire);
       
       $fire->title = (string)$item->title;
       $fire->date = new DateTime((string)$item->pubDate);
@@ -20,6 +20,10 @@ class GeoRSSParser {
     }
 
     return $items;
+  }
+
+  public function parseID($item, $fire) {
+    $fire->id = (string)$item->guid;
   }
 
   public function parseDescription($item, $fire) {
@@ -79,6 +83,14 @@ class TASParser extends GeoRSSParser {
 }
 
 class SentinelParser extends GeoRSSParser {
+  public function parseID($item, $fire) {
+    $coords = strip_tags((string)$item->description);
+
+    $matches = array();
+    preg_match("/id: (.*)/", $coords, $matches);
+    $fire->id = (string)$matches[1];
+  }
+
   public function parseCoordinates($item, $fire) {
     $coords = strip_tags((string)$item->description);
 
