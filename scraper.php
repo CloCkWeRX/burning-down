@@ -14,6 +14,7 @@ try {
     title VARCHAR(100),
     status VARCHAR(100),
     location VARCHAR(100),
+    source VARCHAR(30),
     article_timestamp VARCHAR(10),
     PRIMARY KEY (guid))');
 } catch (Exception $e) {
@@ -59,3 +60,5 @@ foreach ($fires as $fire) {
     ':article_timestamp' => $fire->date->format("U")
   ));
 }
+$db->query("DELETE FROM data WHERE guid LIKE 'http://sentinel.ga.gov.au/geoserver/wms/reflect?featureid=hotspot_current.fid%'");
+$db->query("ALTER TABLE data ADD COLUMN `source` VARCHAR(30)");
