@@ -22,10 +22,10 @@ try {
 
 
 $files = array(
-  'http://www.ruralfire.qld.gov.au/bushfirealert/bushfireAlert.xml' => 'DESQLDParser',
+  // 'http://www.ruralfire.qld.gov.au/bushfirealert/bushfireAlert.xml' => 'DESQLDParser',
   'http://www.esa.act.gov.au/feeds/currentincidents.xml' => 'ACTParser',
   'http://www.rfs.nsw.gov.au/feeds/majorIncidents.xml' => 'RFSNSWParser', 
-  'http://www.cfs.sa.gov.au/custom/criimson/CFS_Current_Incidents.xml' => 'CFSSAParser',
+  // 'http://www.cfs.sa.gov.au/custom/criimson/CFS_Current_Incidents.xml' => 'CFSSAParser',
   'http://osom.cfa.vic.gov.au/public/osom/IN_COMING.rss' => 'CFAVICParser',
   // // MFS SA?
   // // WA ?
